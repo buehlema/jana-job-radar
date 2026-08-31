@@ -1,0 +1,801 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+</head>
+<body>
+<title>Job-Radar Jana Bühler</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root{
+    --bg:#eef1f5; --surface:#ffffff; --surface-2:#f6f8fa;
+    --ink:#14202b; --muted:#5a6b7b; --line:#dbe2ea;
+    --accent:#0f766e; --accent-ink:#0b5952; --accent-soft:#dcefec;
+    --signal:#e4572e; --signal-soft:#fbe6df;
+    --good:#2f855a; --warn:#b7791f;
+    --shadow:0 1px 2px rgba(20,32,43,.04),0 8px 24px rgba(20,32,43,.06);
+    --radius:14px;
+    --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
+    --sans:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    --mono:ui-monospace,"SF Mono","JetBrains Mono","Cascadia Code",Menlo,Consolas,monospace;
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --bg:#0e1620; --surface:#17212c; --surface-2:#1c2732;
+      --ink:#e7edf2; --muted:#9fb0be; --line:#2b3846;
+      --accent:#2dd4bf; --accent-ink:#7defda; --accent-soft:#16332f;
+      --signal:#ff7d5c; --signal-soft:#3a231c;
+      --good:#68d391; --warn:#e0b155;
+      --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 30px rgba(0,0,0,.35);
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#0e1620; --surface:#17212c; --surface-2:#1c2732;
+    --ink:#e7edf2; --muted:#9fb0be; --line:#2b3846;
+    --accent:#2dd4bf; --accent-ink:#7defda; --accent-soft:#16332f;
+    --signal:#ff7d5c; --signal-soft:#3a231c;
+    --good:#68d391; --warn:#e0b155;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 30px rgba(0,0,0,.35);
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+  .wrap{max-width:960px;margin:0 auto;padding:0 20px}
+  a{color:var(--accent-ink)}
+
+  header.top{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:saturate(180%) blur(10px);border-bottom:1px solid var(--line)}
+  .top-in{display:flex;align-items:center;gap:16px;padding:12px 0}
+  .brand{display:flex;flex-direction:column;line-height:1.2}
+  .brand .n{font-family:var(--serif);font-weight:600;font-size:1.06rem}
+  .brand .s{font-family:var(--mono);font-size:.68rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+  .top-spacer{flex:1}
+  .toggle{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;border:1px solid var(--line);background:var(--surface);color:var(--muted);padding:8px 12px;border-radius:999px;cursor:pointer;white-space:nowrap}
+  .toggle:hover{color:var(--ink);border-color:var(--accent)}
+
+  .hero{padding:48px 0 26px}
+  .eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--accent-ink);margin:0 0 14px}
+  h1{font-family:var(--serif);font-weight:600;font-size:clamp(2rem,5vw,2.9rem);line-height:1.08;margin:0 0 16px;text-wrap:balance;letter-spacing:-.01em}
+  h1 em{font-style:italic;color:var(--accent-ink)}
+  .lede{font-size:1.1rem;color:var(--muted);max-width:60ch;margin:0}
+  .lede strong{color:var(--ink);font-weight:600}
+
+  /* how-to banner */
+  .howto{margin:24px 0 8px;background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:12px;padding:16px 18px;box-shadow:var(--shadow)}
+  .howto h3{margin:0 0 8px;font-family:var(--serif);font-size:1.08rem}
+  .howto ol{margin:0;padding-left:20px}
+  .howto li{margin:5px 0}
+  .fbbig{display:inline-flex;align-items:center;gap:8px;margin-top:12px;background:var(--accent);color:#fff;text-decoration:none;font-weight:600;font-size:.92rem;padding:11px 18px;border-radius:999px;box-shadow:var(--shadow)}
+  .fbbig:hover{filter:brightness(1.07)}
+  .fbcard{margin:18px 0 4px;background:var(--surface);border:2px solid var(--accent);border-radius:14px;padding:18px 20px;box-shadow:var(--shadow)}
+  .fbcard h3{margin:0 0 6px;font-family:var(--serif);font-size:1.16rem}
+  .fbcard p{margin:0 0 12px;font-size:.92rem;color:var(--muted);max-width:70ch}
+  .fbcard p b{color:var(--ink)}
+  .fbarea{display:block;width:100%;box-sizing:border-box;font-family:var(--mono);font-size:.82rem;line-height:1.65;color:var(--ink);background:var(--surface-2);border:1px solid var(--line);border-radius:8px;padding:12px;resize:vertical;min-height:180px}
+  .fbarea:focus{outline:2px solid var(--accent);outline-offset:2px}
+
+  section{padding:32px 0;border-top:1px solid var(--line)}
+  .sec-head{display:flex;align-items:baseline;gap:14px;margin-bottom:6px}
+  .sec-num{font-family:var(--mono);font-size:.78rem;color:var(--accent);letter-spacing:.1em;padding-top:.2em}
+  h2{font-family:var(--serif);font-weight:600;font-size:1.7rem;margin:0;letter-spacing:-.01em;text-wrap:balance}
+  .sec-intro{color:var(--muted);max-width:66ch;margin:6px 0 20px}
+
+  .tier{margin-top:24px}
+  .tier:first-of-type{margin-top:4px}
+  .tier-h{display:flex;align-items:center;gap:12px;margin:0 0 14px;flex-wrap:wrap}
+  .tier-tag{font-family:var(--mono);font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;font-weight:600;padding:4px 10px;border-radius:6px;background:var(--accent-soft);color:var(--accent-ink);white-space:nowrap}
+  .tier-tag.p1{background:var(--signal-soft);color:var(--signal)}
+  .tier-desc{font-size:.9rem;color:var(--muted)}
+
+  .cards{display:grid;gap:14px}
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden}
+  .card-main{padding:18px 18px 14px;display:grid;grid-template-columns:1fr auto;gap:14px}
+  .card-title{font-family:var(--serif);font-size:1.16rem;font-weight:600;margin:0 0 3px;line-height:1.25}
+  .card-org{font-size:.9rem;color:var(--muted);margin:0}
+  .chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+  .chip{font-family:var(--mono);font-size:.68rem;letter-spacing:.04em;padding:3px 8px;border-radius:5px;background:var(--surface-2);border:1px solid var(--line);color:var(--muted)}
+  .score{display:flex;flex-direction:column;align-items:flex-end;gap:6px;min-width:92px}
+  .score-num{font-family:var(--mono);font-weight:600;font-size:1.5rem;color:var(--accent);line-height:1}
+  .score-num small{font-size:.8rem;color:var(--muted);font-weight:400}
+  .score.hot .score-num{color:var(--signal)}
+  .score-label{font-family:var(--mono);font-size:.6rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+  .card-body{padding:0 18px 6px;display:grid;gap:9px}
+  .line{display:grid;grid-template-columns:76px 1fr;gap:12px;font-size:.92rem}
+  .line .k{font-family:var(--mono);font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);padding-top:.28em}
+  .line.fit .k{color:var(--good)}
+  .line.gap .k{color:var(--warn)}
+  .line.act .k{color:var(--accent)}
+  .line .v{margin:0}
+  .line .v code{font-family:var(--mono);font-size:.82em;background:var(--surface-2);padding:1px 5px;border-radius:4px;border:1px solid var(--line);word-break:break-all}
+  .card-foot{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:12px 18px;border-top:1px dashed var(--line);background:var(--surface-2)}
+  .visit{font-family:var(--sans);font-size:.82rem;font-weight:600;text-decoration:none;color:var(--accent-ink);border:1px solid var(--line);background:var(--surface);padding:7px 12px;border-radius:999px}
+  .visit:hover{border-color:var(--accent)}
+  .fb{font-family:var(--mono);font-size:.7rem;letter-spacing:.03em;color:var(--muted);background:var(--surface-2);border:1px solid var(--line);padding:6px 11px;border-radius:999px}
+  main{counter-reset:row}
+  main .card{counter-increment:row}
+  .card-title::before{content:"#" counter(row) "  ";color:var(--accent);font-family:var(--mono);font-size:.72em;font-weight:600}
+  .foot-hint{font-family:var(--mono);font-size:.66rem;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);margin-left:auto}
+
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media (max-width:680px){.grid2{grid-template-columns:1fr}}
+  .panel{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px;box-shadow:var(--shadow)}
+  .panel h3{font-family:var(--serif);font-size:1.12rem;margin:0 0 8px}
+  .panel h3 .mk{font-family:var(--mono);font-size:.72rem;color:var(--accent);margin-right:8px}
+  .panel ul{margin:8px 0 0;padding-left:18px}
+  .panel li{margin:6px 0}
+  .panel li b{color:var(--ink)}
+
+  ol.steps{counter-reset:s;list-style:none;margin:6px 0 0;padding:0;display:grid;gap:10px}
+  ol.steps li{position:relative;padding:12px 14px 12px 52px;background:var(--surface);border:1px solid var(--line);border-radius:10px}
+  ol.steps li::before{counter-increment:s;content:counter(s);position:absolute;left:12px;top:11px;width:28px;height:28px;border-radius:8px;background:var(--accent);color:var(--surface);font-family:var(--mono);font-weight:600;font-size:.9rem;display:grid;place-items:center}
+  ol.steps li span{color:var(--muted);font-size:.92rem}
+
+  .draft{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);margin-top:14px;overflow:hidden}
+  .draft-h{display:flex;align-items:center;gap:10px;padding:12px 16px;border-bottom:1px solid var(--line);background:var(--surface-2)}
+  .draft-h .t{font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);flex:1}
+  .draft-h .lang{font-family:var(--mono);font-size:.66rem;padding:2px 7px;border-radius:5px;background:var(--accent-soft);color:var(--accent-ink)}
+  pre.body{margin:0;padding:16px;white-space:pre-wrap;font-family:var(--mono);font-size:.82rem;line-height:1.65;color:var(--ink);overflow-x:auto}
+  pre.body .ph{background:var(--accent-soft);color:var(--accent-ink);border-radius:3px;padding:0 3px}
+
+  .joblink{display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:14px;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:13px 16px;margin-bottom:8px;text-decoration:none;color:inherit}
+  .joblink:hover{border-color:var(--accent)}
+  .jl-badge{font-family:var(--mono);font-size:.64rem;letter-spacing:.06em;padding:3px 8px;border-radius:5px;background:var(--surface-2);border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+  .jl-badge.ch{color:var(--accent-ink);background:var(--accent-soft);border-color:transparent}
+  .jl-badge.int{color:var(--signal);background:var(--signal-soft);border-color:transparent}
+  .jl-name{font-weight:600;font-size:.96rem}
+  .jl-desc{font-size:.84rem;color:var(--muted)}
+  .jl-arrow{font-family:var(--mono);color:var(--accent);font-size:1rem}
+  .jl-h{font-family:var(--mono);font-size:.74rem;letter-spacing:.08em;text-transform:uppercase;color:var(--accent-ink);margin:0 0 12px}
+  @media (max-width:560px){.joblink{grid-template-columns:auto 1fr}.jl-arrow{display:none}.card-main{grid-template-columns:1fr}.score{flex-direction:row;align-items:center;gap:10px}.line{grid-template-columns:64px 1fr}}
+
+  footer{padding:36px 0 60px;color:var(--muted);font-size:.82rem}
+  footer .disc{font-family:var(--mono);font-size:.72rem;line-height:1.7;border-top:1px solid var(--line);padding-top:16px}
+</style>
+
+<header class="top">
+  <div class="wrap top-in">
+    <div class="brand"><span class="n">Jana Bühler</span><span class="s">Job-Radar · Sport & Performance</span></div>
+    <div class="top-spacer"></div>
+    <button class="toggle" id="themeBtn" type="button">Theme</button>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <div class="hero">
+      <p class="eyebrow">Headhunter-Analyse · Stand 31. Aug. 2026 · Runde 2, nach Janas 2. Rückmeldung</p>
+      <h1>Sport, Bewegung und <em>Performance</em> — wo Jana hingehört.</h1>
+      <p class="lede">Neu ausgerichtet nach Janas Rückmeldung: gesucht ist eine Stelle in einer <strong>Firma oder Sportorganisation</strong>, kein Doktorat. Forschung nur <strong>am Menschen</strong>, nicht mit Tieren oder Zellen. Der Hebel ist ihre Kombination aus <strong>ETH-Datenarbeit</strong> (Analyse in R) und <strong>echter Bewegungspraxis</strong> (Lehrdiplom Sport, J+S, Snowboard/Trampolin).</p>
+
+      <div class="howto">
+        <h3>So funktioniert diese Seite</h3>
+        <ol>
+          <li><b>Firmen &amp; Sportorganisationen</b> (1): der Schwerpunkt — On, Red Bull, Swiss Olympic, BASPO, Swiss-Ski, Stadt Zürich; dazu <b>DACH</b> (1·D/A) und <b>neu der Norden</b> (1·N) — Schweden, Dänemark, Holland, dein Wunsch.</li>
+          <li><b>Sportartikelhersteller</b> (2) und <b>Sport-Reha &amp; Paraplegiologie</b> (3): alles am Menschen.</li>
+          <li><b>Firmen mit Produkt</b> (4) und <b>Forschung</b> (5, nachrangig, nur falls doch).</li>
+          <li><b>Jede Karte hat vorne eine Nummer</b> (#1, #2, #3 …).</li>
+        </ol>
+        <p style="margin:12px 0 0"><b>Runde 2:</b> Deine erste Rückmeldung ist eingearbeitet — kein Nein, alle bleiben; REHAB Basel und cereneo hochgestuft; der <b>Norden</b> ist als eigener Block dazugekommen. Bitte im Zettel unten jetzt vor allem die <b>neuen Nordics/NL-Einträge</b> markieren.</p>
+      </div>
+
+      <div class="fbcard">
+        <h3>✍️ Dein Feedback-Zettel</h3>
+        <p><b>Runde 2.</b> Deine erste Rückmeldung ist eingearbeitet (unten als Notiz festgehalten). Bitte jetzt vor allem den <b>neuen Norden-Block</b> markieren: bei jedem Eintrag <b>Ja / Vielleicht / Nein</b> + kurze Notiz. Danach: ins Feld klicken, <b>alles markieren</b> (Strg/Cmd&nbsp;+&nbsp;A), <b>kopieren</b> (Strg/Cmd&nbsp;+&nbsp;C) und Markus per E-Mail (<b>markus.buehler@gmx.ch</b>) oder WhatsApp schicken.</p>
+        <textarea class="fbarea" rows="30" spellcheck="false" aria-label="Feedback-Zettel">Rückmeldung Jana — Job-Radar Runde 2 (Ja / Vielleicht / Nein + Notiz)
+
+★ NEU — NORDEN &amp; NIEDERLANDE (mein Wunsch: Schweden, Dänemark, Holland) — bitte markieren
+#N1 TeamNL Sport Science Centre / NOC*NSF – Papendal, Arnhem (NL):
+#N2 Team Danmark – Brøndby (DK), Praktika Physiologie/Analyse:
+#N3 Riksidrottsförbundet / Bosön – Stockholm (SE):
+#N4 Sveriges Olympiska Kommitté (SOK) – Stockholm (SE):
+#N5 Motek Medical – Amsterdam (NL), Bewegungs-/Ganglabor:
+Norden allgemein — noch andere Länder/Städte im Blick?:
+
+— — — Runde 1 (schon eingearbeitet, nur zur Kontrolle; nur ändern, falls du magst) — — —
+#1 On (Zürich): JA   #2 Red Bull APC (Thalgau AT): JA   #3 Swiss Olympic: JA
+#4 BASPO / EHSM Magglingen: JA   #5 Swiss-Ski: JA   #6 Stadt Zürich Sportamt: JA
+#7 adidas: VIELLEICHT   #8 Puma: VIELLEICHT
+#9 Paraplegiker-Forschung Nottwil: JA   #10 Balgrist: JA   #11 REHAB Basel: JA↑   #12 cereneo: JA↑
+#13 Dividat: VIELLEICHT   #14 Hocoma: VIELLEICHT   #15 MindMaze: VIELLEICHT   #16 ONWARD: VIELLEICHT
+Forschung (nur falls doch): Wenderoth JA · de Bruin JA · De Bock (Humanteil) JA · Kayser VIELLEICHT ·
+Meissner/Gerber/.NeuroRestore/Karabanov/Wienecke/Medendorp/Kilteni/Krakauer/Swinnen/CEHBA: VIELLEICHT
+
+Sonstige Wünsche/Notizen:
+</textarea>
+      </div>
+    </div>
+
+    <!-- ===== 1 · FIRMEN & SPORTORGANISATIONEN ===== -->
+    <section id="firmen">
+      <div class="sec-head"><span class="sec-num">01</span><h2>Firmen &amp; Sportorganisationen — der neue Schwerpunkt</h2></div>
+      <p class="sec-intro">Keine PhD. Angewandter Leistungssport, Performance und Produkt. Bei Verbänden und Performance-Zentren zählt die Initiativbewerbung ebenso wie das Inserat — die Stellen rotieren, die Portale bleiben. „Portal ansehen" öffnet die Karriereseite.</p>
+      <p class="sec-intro" style="margin-top:-8px;font-size:.9rem"><b>Tageslauf 31.&nbsp;Aug.:</b> Der tägliche Cloud-Lauf meldete sechs ungeprüfte Leads; der Egress der Sandbox war erneut <b>komplett gesperrt</b> — kein einziger Link liess sich live verifizieren (alle WebFetch: EGRESS_BLOCKED). Namen aus dem Cache: <b>BASPO/EHSM&nbsp;Magglingen</b> (Hochschulpraktika <i>Trainingswissenschaft</i> und <i>Leistungssport&nbsp;&amp;&nbsp;Sportökonomie</i>), <b>OSP&nbsp;Hamburg/SH</b> (<i>Praktikum Trainingswissenschaft</i>), <b>Red&nbsp;Bull&nbsp;APC&nbsp;Thalgau</b> (<i>Athlete Operations Coordinator</i>, eher organisatorisch) und neu das <b>Kinderspital Zürich</b> (<i>Praktikum Sporttherapie</i>). Alle als <b>ungeprüft</b> zu behandeln: vor jeder Bewerbung die Originalseite öffnen. Tragfähig bleibt die Grundlinie — die Ziel-Arbeitgeber direkt plus ein <b>Job-Abo</b> (jobs.admin.ch/BASPO, On, Red&nbsp;Bull, Swiss&nbsp;Olympic, paraplegie.ch, OSP).</p>
+      <div class="cards">
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">On (On&nbsp;AG)</h3>
+            <p class="card-org">Specialist Sports Science · Zürich / Remote</p>
+            <div class="chips"><span class="chip">CH · Firma</span><span class="chip">Janas „Ja"</span><span class="chip">Inserat 18.8. geschlossen</span></div>
+          </div><div class="score hot"><div class="score-num">5<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Athlet-Produkt-Interaktion, Schuh &amp; Laufleistung — trifft Janas Doppelprofil direkt, Einstieg ohne PhD. Anschreiben-Entwurf liegt vor.</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">Initiativbewerbung ans Innovation-Team; Board auf Neuausschreibung beobachten.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://job-boards.greenhouse.io/onrunning" target="_blank" rel="noopener">On-Board ansehen ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Red Bull Athlete Performance Center</h3>
+            <p class="card-org">Thalgau (AT), bei Salzburg</p>
+            <div class="chips"><span class="chip">AT · Performance</span><span class="chip">Leistungsdiagnostik</span><span class="chip">Athleten-Team</span></div>
+          </div><div class="score hot"><div class="score-num">5<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Angewandte Performance an Weltklasse-Athleten: Diagnostik, Monitoring, Biomechanik/Physiologie im Team mit Coaches und Physios. Aktuell offen u.&nbsp;a. „Lead Physical Performance Scientist" (senior).</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">Auf Junior-/Specialist-Rollen achten; initiativ bewerben.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://jobs.redbull.com/" target="_blank" rel="noopener">jobs.redbull.com ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Swiss Olympic</h3>
+            <p class="card-org">Ittigen (BE) · Dachverband + Fachverbände</p>
+            <div class="chips"><span class="chip">CH · Verband</span><span class="chip">Sportjobs-Board</span></div>
+          </div><div class="score"><div class="score-num">4<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Das Sportjobs-Board bündelt auch Stellen der Fachverbände (Nachwuchsförderung, Sportwissenschaft, Verbandsarbeit) — breiter Einstiegskanal in den Schweizer Leistungssport.</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">Board regelmässig prüfen; direkt bei Verbänden nach Sportwissenschafts-/Assistenzrollen fragen.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://www.swissolympic.ch/ueber-swiss-olympic/sportjobs" target="_blank" rel="noopener">Sportjobs ansehen ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">BASPO / EHSM Magglingen</h3>
+            <p class="card-org">Magglingen (BE) · Bundesamt für Sport</p>
+            <div class="chips"><span class="chip">CH · Bund</span><span class="chip">Trainingswissenschaft</span><span class="chip">J+S-Bezug</span></div>
+          </div><div class="score"><div class="score-num">4<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Angewandte Trainingswissenschaft, Leistungssport, J+S — Janas J+S-Hintergrund passt direkt. Hochschulpraktika (Trainingswissenschaft, Leistungssport) sind ein realistischer Einstieg.</p></div>
+            <div class="line gap"><span class="k">Gap</span><p class="v">Einzelinserate rotieren stark → Portal mit Job-Alert beobachten.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://jobs.admin.ch/?lang=de" target="_blank" rel="noopener">jobs.admin.ch ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Swiss-Ski</h3>
+            <p class="card-org">Muri bei Bern · Snowsport-Dachverband</p>
+            <div class="chips"><span class="chip">CH · Verband</span><span class="chip">Leistungssport</span><span class="chip">Snowboard-Bezug</span></div>
+          </div><div class="score"><div class="score-num">4<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Verband über elf Schneesportarten. Janas Snowboard-/Instruktions- und Leistungssport-Bezug ist hier Alleinstellung; Rollen von Verbandsarbeit bis Nachwuchs/Leistungssport.</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">Jobs-Seite prüfen; initiativ auf Sportwissenschaft/Nachwuchs.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://www.swiss-ski.ch/ueber-swiss-ski/verband/jobs/" target="_blank" rel="noopener">Swiss-Ski Jobs ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Stadt Zürich · Sportamt</h3>
+            <p class="card-org">Zürich · Schul- und Sportdepartement</p>
+            <div class="chips"><span class="chip">CH · öffentlich</span><span class="chip">Sportförderung</span><span class="chip">Lehrdiplom passt</span></div>
+          </div><div class="score"><div class="score-num">3<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Sportförderung, Schulsport, Kurswesen — das Lehrdiplom passt. Solider, breiter Einstieg vor Ort.</p></div>
+            <div class="line gap"><span class="k">Gap</span><p class="v">Eher organisatorisch als forschungsnah.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://www.jobscout24.ch/de/jobs/sportamt/" target="_blank" rel="noopener">Sportamt-Stellen ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+      </div>
+      <p class="sec-intro" style="margin-top:16px;font-size:.9rem">Im selben Feld ohne eigene Karte: Swiss Snowsports (Ausbildung/Instruktion, <a href="https://www.snowsports.ch/startseite/jobs/" target="_blank" rel="noopener">snowsports.ch/jobs</a>), regionale Skiverbände und weitere Fachverbände über das Swiss-Olympic-Board.</p>
+    </section>
+
+    <!-- ===== 1·D/A · DEUTSCHE & ÖSTERREICHISCHE SPORTVERBÄNDE & LEISTUNGSSPORT-INSTITUTE ===== -->
+    <section id="dach">
+      <div class="sec-head"><span class="sec-num">01·D/A</span><h2>Deutsche &amp; österreichische Sportverbände &amp; Leistungssport-Institute</h2></div>
+      <p class="sec-intro">Neu aufgenommen. Deutschland und Österreich haben ein dichtes Netz angewandter Leistungssport-Strukturen — Trainingswissenschaft, Leistungsdiagnostik und Athletenbetreuung, alles am Menschen, Einstieg über Praktikum/Fachrolle statt PhD. Janas Profil (Messen + Datenanalyse + Bewegungspraxis) passt hier so direkt wie in der Schweiz. Österreich ist geografisch nah (Salzburg/Vorarlberg/Tirol) und für ihren Snowsport-Hintergrund besonders anschlussfähig.</p>
+      <p class="sec-intro" style="margin-top:-8px;font-size:.9rem"><b>Verifiziert 26.&nbsp;Aug.:</b> DE — OSP-Praktikum Trainingswissenschaft (Hamburg/SH) ist <b>live offen</b> (6&nbsp;Monate, Kraftdiagnostik/Leistungsphysiologie/Biomechanik, verlangt Datenanalyse + Master-Einschreibung); IAT Leipzig ohne offene Stelle → initiativ. AT — Ski Austria führt aktuell u.&nbsp;a. ein <b>Snowboard-Serviceteam</b> und Skicross-Nachwuchs (live); Olympiazentren-Praktika Sportwissenschaft für 2026 teils bereits vergeben (Zentren rotieren, mehrere Standorte).</p>
+      <div class="cards">
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Olympiastützpunkte (OSP)</h3>
+            <p class="card-org">19 Zentren bundesweit · z.&nbsp;B. Hamburg/SH, Bayern, Thüringen</p>
+            <div class="chips"><span class="chip">DE · Leistungssport</span><span class="chip">Leistungsdiagnostik</span><span class="chip">Praktikum live offen</span></div>
+          </div><div class="score hot"><div class="score-num">5<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Kernauftrag Leistungsdiagnostik &amp; Trainingswissenschaft für Kaderathleten — Kraft-/Biomechanik-/Physiologie-Messung, Datenauswertung. Das OSP-Praktikum Trainingswissenschaft verlangt genau Janas Mix aus Messhandwerk, Datenanalyse und Sportpraxis.</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">OSP Hamburg/SH: Praktikum (Apr–Sep / Okt–Apr, Bewerbung ~3&nbsp;Monate vorher) direkt bewerben; parallel weitere OSP (Bayern, Thüringen, Sachsen …) auf Trainingswissenschafts-/Diagnostik-Rollen prüfen.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://www.osphh-sh.de/stellenangebote/praktikum-im-servicebereich-trainingswissenschaft/" target="_blank" rel="noopener">OSP-Praktikum ansehen ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">IAT Leipzig</h3>
+            <p class="card-org">Institut für Angewandte Trainingswissenschaft</p>
+            <div class="chips"><span class="chip">DE · Institut</span><span class="chip">Trainingswissenschaft</span><span class="chip">initiativ</span></div>
+          </div><div class="score"><div class="score-num">4<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Nationales Kompetenzzentrum der Trainingswissenschaft — angewandte Forschung, Diagnostik und Beratung für Bundeskader. Biomechanik, Sportinformatik, Datenanalyse; Praktika (auch mit Abschlussarbeit) ausdrücklich erwünscht.</p></div>
+            <div class="line gap"><span class="k">Gap/Aktion</span><p class="v">Aktuell keine offene Stelle → Initiativbewerbung für Praktikum mit Fokus Trainingswissenschaft/Biomechanik; Stellenseite mit Job-Alert beobachten.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://sport-iat.de/allgemein/aktuelles/jobs-praktika" target="_blank" rel="noopener">IAT Jobs &amp; Praktika ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Deutscher Skiverband (DSV)</h3>
+            <p class="card-org">Planegg (bei München) · Snowsport-Dachverband</p>
+            <div class="chips"><span class="chip">DE · Verband</span><span class="chip">Snowboard-Bezug</span><span class="chip">Nachwuchs/Leistung</span></div>
+          </div><div class="score"><div class="score-num">4<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Wie bei Swiss-Ski ist Janas Snowboard-/Instruktions- und Leistungssport-Bezug hier Alleinstellung. Rollen von Verbandsarbeit über Nachwuchs bis Trainer-/Sportwissenschaft; Verbundstudium mit Trainingswissenschafts-Bezug.</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">Stellenausschreibungen prüfen; initiativ auf Sportwissenschaft/Nachwuchs. Auch Bayerischer Skiverband u.&nbsp;a. Landesverbände.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://www.deutscherskiverband.de/stellenausschreibungen" target="_blank" rel="noopener">DSV-Stellen ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">DOSB &amp; Fachverbände</h3>
+            <p class="card-org">Dachverband + Spitzenverbände (DLV, DFB u.&nbsp;a.)</p>
+            <div class="chips"><span class="chip">DE · Verband</span><span class="chip">Jobbörse</span><span class="chip">breiter Kanal</span></div>
+          </div><div class="score"><div class="score-num">4<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Der DOSB und seine Mitgliedsverbände bündeln Stellen im Leistungssport; die DFB-Akademie hat ein eigenes Performance-/Wissenschaftsteam. Dazu die Sport-Jobbörsen jobsimsport.de und die dvs-Stellenbörse als Aggregatoren.</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">DOSB-Stellenboard + jobsimsport.de + dvs-Stellenbörse mit Suchbegriffen „Trainingswissenschaft/Leistungsdiagnostik/Sportwissenschaft" abonnieren.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://www.dosb.de/service/stellenausschreibungen" target="_blank" rel="noopener">DOSB-Stellen ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Olympiazentren Österreich</h3>
+            <p class="card-org">6 Zentren · Vorarlberg, Tirol/Innsbruck, Salzburg, Kärnten, OÖ, Südstadt</p>
+            <div class="chips"><span class="chip">AT · Leistungssport</span><span class="chip">Leistungsdiagnostik</span><span class="chip">Praktika</span></div>
+          </div><div class="score hot"><div class="score-num">5<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Das AT-Pendant zu den deutschen OSP: Leistungsdiagnostik, Trainingswissenschaft und Athletenbetreuung für Kaderathleten. Praktika mit Fokus Trainingswissenschaft/Athletiktraining — genau Janas Mess- und Datenprofil.</p></div>
+            <div class="line gap"><span class="k">Gap/Aktion</span><p class="v">Sportwissenschafts-Praktika Vorarlberg für 2026 vergeben → andere Zentren (Tirol/Innsbruck, Salzburg …) direkt auf Trainingswissenschaft/Diagnostik prüfen und initiativ.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://olympiazentrum-vorarlberg.at/olympiazentrum-vorarlberg/jobs/" target="_blank" rel="noopener">Olympiazentrum-Jobs ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Leistungssport Austria (LSA / IMSB)</h3>
+            <p class="card-org">Bundesinstitut Spitzensport · Südstadt (bei Wien)</p>
+            <div class="chips"><span class="chip">AT · Bundesinstitut</span><span class="chip">Sportwissenschaft</span><span class="chip">Diagnostik</span></div>
+          </div><div class="score"><div class="score-num">4<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Medizinisch-sportwissenschaftlicher Träger des österreichischen Spitzensports (ehem. IMSB, Österreichs erstes Olympiazentrum). Team aus Sportwissenschaft, Leistungsdiagnostik, Anthropometrie; führt Trainingswissenschafts-Massnahmen mit den Verbänden durch.</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">Stellenseite direkt prüfen (laut Ausschreibung Personal für die Sportwissenschaft gesucht); initiativ mit Fokus Leistungsdiagnostik/Datenauswertung.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://www.imsb.at/jobs/" target="_blank" rel="noopener">LSA/IMSB-Jobs ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Ski Austria (ÖSV)</h3>
+            <p class="card-org">Innsbruck · Snowsport-Dachverband</p>
+            <div class="chips"><span class="chip">AT · Verband</span><span class="chip">Snowboard-Bezug</span><span class="chip">live: Snowboard-Team</span></div>
+          </div><div class="score"><div class="score-num">4<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Wie Swiss-Ski/DSV ist Janas Snowboard- und Leistungssport-Bezug hier Alleinstellung. Aktuell live u.&nbsp;a. Snowboard-Serviceteam und Skicross-Nachwuchstrainer:in; dazu Verbandsarbeit und Nachwuchs.</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">Jobs-Seite prüfen; Snowboard-/Nachwuchs-Rollen und initiativ auf Sportwissenschaft.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://www.skiaustria.at/de/jobs" target="_blank" rel="noopener">Ski-Austria-Jobs ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+      </div>
+      <p class="sec-intro" style="margin-top:16px;font-size:.9rem">Weitere Portale ohne eigene Karte: DE — <a href="https://jobsimsport.de/" target="_blank" rel="noopener">jobsimsport.de</a>, <a href="https://www.sportwissenschaft.de/stellenborse/stellenangebote/" target="_blank" rel="noopener">dvs-Stellenbörse</a>, <a href="https://www.deutschesporthochschule.de/" target="_blank" rel="noopener">DSHS Köln</a> (angewandte Rollen), BISp. AT — <a href="https://www.sportaustria.at/de/service-center/jobboerse" target="_blank" rel="noopener">Sport-Austria-Jobbörse</a> (Dachverband + Fachverbände), Red Bull APC Thalgau (siehe Abschnitt 1), ÖOC.</p>
+    </section>
+
+    <!-- ===== 1·N · SKANDINAVIEN & NIEDERLANDE ===== -->
+    <section id="norden">
+      <div class="sec-head"><span class="sec-num">01·N</span><h2>Skandinavien &amp; Niederlande — nationale Leistungssport-Zentren</h2></div>
+      <p class="sec-intro">Neu, direkt auf Janas Wunsch <i>„Vielleicht auch im Norden — Schweden, Dänemark, Holland?"</i>. Dasselbe Muster wie CH/DACH: staatlich getragene Leistungssport-Institute mit eigener Sportwissenschaft, Leistungsdiagnostik und Athletenbetreuung — alles am Menschen, Einstieg über Junior-/Fachrollen und Praktika statt PhD. Englisch ist überall Arbeitssprache; NL und DK sind gut erreichbar, Janas Snowsport-Bezug trägt in Skandinavien zusätzlich.</p>
+      <p class="sec-intro" style="margin-top:-8px;font-size:.9rem"><b>Verifiziert 27.&nbsp;Aug.:</b> NL — die konkrete <i>Junior Sport Scientist</i>-Stelle am TeamNL Sport Science Centre (Papendal) ist aktuell wieder geschlossen (Redirect → 404) → Portal + initiativ; genau diese Einstiegs-/Entwicklungsrolle (32–38&nbsp;h) rotiert dort. DK — Team Danmark ohne offene Sportwissenschafts-Stelle, aber <b>Praktika offen</b> (3–6&nbsp;Mon., Studienende), mit benannten Kontakten je Fachteam (Sportphysiologie: Christina&nbsp;Ørntoft; Sporttechnik &amp; Analyse: Andreas&nbsp;Top&nbsp;Adler) → Jobmail + initiativ. SE — Bosön schreibt derzeit nur Betriebs-/Hotelrollen aus → Initiativbewerbung über das RF/SISU-Portal.</p>
+      <div class="cards">
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">TeamNL Sport Science Centre / NOC*NSF</h3>
+            <p class="card-org">Papendal, Arnhem (NL) · Nationales Sportzentrum</p>
+            <div class="chips"><span class="chip">NL · Leistungssport</span><span class="chip">Junior-Rolle</span><span class="chip">am Menschen</span></div>
+          </div><div class="score hot"><div class="score-num">5<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Wissens- und Innovationsherz des niederländischen Spitzensports: Sportwissenschaftler:innen, Technolog:innen und Coaches arbeiten an Leistungsoptimierung, Verletzungsprävention und Athletendaten. Die <i>Junior Sport Scientist</i>-Rolle ist ausdrücklich eine Einstiegs-/Entwicklungsstelle — genau Janas Profil.</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">Vacatures-Board + Homerun beobachten; initiativ ans Sport Science Centre Papendal.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://www.nocnsf.nl/vacatures" target="_blank" rel="noopener">nocnsf.nl/vacatures ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Team Danmark</h3>
+            <p class="card-org">Brøndby / Idrættens Hus (DK) · Spitzensport-Institut</p>
+            <div class="chips"><span class="chip">DK · Leistungssport</span><span class="chip">Praktika offen</span><span class="chip">Physiologie/Analyse</span></div>
+          </div><div class="score hot"><div class="score-num">5<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Staatliches Spitzensport-Institut mit Fachteams Sportphysiologie, Sporttechnik &amp; Analyse, Testcenter und Sportmedizin. Praktika für Studierende am Studienende (3–6&nbsp;Mon.); Janas Mess- und Datenprofil passt zu Physiologie und Analyse.</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">Jobmail abonnieren; Praktikum initiativ an Sportphysiologie (Christina&nbsp;Ørntoft) oder Sporttechnik &amp; Analyse (Andreas&nbsp;Top&nbsp;Adler).</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://www.teamdanmark.dk/presse/job-og-praktik" target="_blank" rel="noopener">Team Danmark · Job &amp; Praktik ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Riksidrottsförbundet / Bosön</h3>
+            <p class="card-org">Lidingö, Stockholm (SE) · RF-Entwicklungszentrum</p>
+            <div class="chips"><span class="chip">SE · Leistungssport</span><span class="chip">Leistungslabor</span><span class="chip">initiativ</span></div>
+          </div><div class="score"><div class="score-num">4<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Entwicklungszentrum des schwedischen Sports mit eigenem Leistungslabor und sportmedizinischer Klinik; Performance-Entwickler:innen unter einem Dach. Gemeinsames Portal für RF, SISU und die 19 Distrikte.</p></div>
+            <div class="line gap"><span class="k">Gap/Aktion</span><p class="v">Derzeit nur Betriebs-/Hotelrollen ausgeschrieben → Initiativbewerbung über das RF/SISU-Portal (Spontanbewerbung ausdrücklich erwünscht).</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://riksidrottsforbundet.onecruiter.com/" target="_blank" rel="noopener">RF-Stellenportal ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Sveriges Olympiska Kommitté (SOK)</h3>
+            <p class="card-org">Stockholm · Olympisches Komitee</p>
+            <div class="chips"><span class="chip">SE · Performance</span><span class="chip">~40 Spezialist:innen</span></div>
+          </div><div class="score"><div class="score-num">4<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Sport- &amp; Ressourcen-Team aus rund 40 Spezialist:innen für Performance-Entwicklung, Health, Sportpsychologie und Athletiktraining — angewandte Athletenunterstützung Richtung Medaillen.</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">Stellenseite/LinkedIn beobachten; initiativ ans Performance-Team.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://sok.se/" target="_blank" rel="noopener">sok.se ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Motek Medical</h3>
+            <p class="card-org">Amsterdam (NL) · Bewegungs-/Ganglabor</p>
+            <div class="chips"><span class="chip">NL · Firma</span><span class="chip">Bewegungsanalyse</span></div>
+          </div><div class="score"><div class="score-num">3<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Bewegungsanalyse- und Ganglabor-Systeme (CAREN, GRAIL) für Reha und Forschung am Menschen — passt zu Janas Bewegungsmessung.</p></div>
+            <div class="line gap"><span class="k">Gap</span><p class="v">Teils ingenieurlastig → Karriereseite prüfen, initiativ.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://www.motekmedical.com/" target="_blank" rel="noopener">motekmedical.com ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+      </div>
+      <p class="sec-intro" style="margin-top:16px;font-size:.9rem">Weitere Portale ohne eigene Karte: NL — <a href="https://www.sportenstrategie.nl/vacatures/" target="_blank" rel="noopener">sportenstrategie.nl/vacatures</a> (NL-Sportjobbörse), ONWARD Medical Eindhoven (Abschnitt 4). SE/DK — <a href="https://vakanser.se/" target="_blank" rel="noopener">vakanser.se</a>, Team Danmark auf LinkedIn. Ergänzend im Norden die humanen Forschungsgruppen aus Abschnitt 5 (Kilteni · Karolinska; Karabanov &amp; Wienecke · Kopenhagen; Medendorp · Donders&nbsp;NL).</p>
+    </section>
+
+    <!-- ===== 2 · SPORTARTIKELHERSTELLER ===== -->
+    <section id="marken">
+      <div class="sec-head"><span class="sec-num">02</span><h2>Sportartikelhersteller — Sport Science &amp; Innovation</h2></div>
+      <p class="sec-intro">Grosse Marken haben eigene Sport-Science- und Innovationsteams, die Produkte an Athleten testen — Janas Doppelprofil (Messen + Bewegungspraxis) passt hier so gut wie bei On. Keine PhD.</p>
+      <div class="cards">
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">adidas</h3>
+            <p class="card-org">Future Sport Science Team · Herzogenaurach (DE)</p>
+            <div class="chips"><span class="chip">DE · Marke</span><span class="chip">Athlete Science</span><span class="chip">Junior-Rollen</span></div>
+          </div><div class="score"><div class="score-num">4<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">„Assistant Sports Scientist" und Praktikum „Athlete Science" (Human Perception, Exercise Physiology, Sport Performance), Schuh-/Biomechanik-Tests — kein PhD nötig.</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">Careers nach „sport science / athlete / footwear" durchsuchen.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://careers.adidas-group.com/" target="_blank" rel="noopener">adidas Careers ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Puma</h3>
+            <p class="card-org">Research &amp; Sport Science · Herzogenaurach (DE)</p>
+            <div class="chips"><span class="chip">DE · Marke</span><span class="chip">Teamsport</span><span class="chip">Praktikum ab 1.8.</span></div>
+          </div><div class="score"><div class="score-num">4<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Praktikum „Development Teamsport Footwear" (für Sports-Science-/Technology-Studierende) plus senior „Director Research &amp; Sport Science Innovation" — Einstieg über Praktikum.</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">Job-Openings prüfen; Praktikum als Einstieg.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://about.puma.com/en/careers/job-openings" target="_blank" rel="noopener">Puma Jobs ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+      </div>
+      <p class="sec-intro" style="margin-top:16px;font-size:.9rem">Weitere Marken zum Prüfen: Nike Sport Research Lab (USA), ASICS Institute of Sport Science, Salomon (Annecy), Decathlon SportsLab.</p>
+    </section>
+
+    <!-- ===== 3 · SPORT-REHA & PARAPLEGIOLOGIE ===== -->
+    <section id="reha">
+      <div class="sec-head"><span class="sec-num">03</span><h2>Sport-Reha &amp; Paraplegiologie — am Menschen</h2></div>
+      <p class="sec-intro">Reha- und Paraplegiologie-Institutionen arbeiten und forschen ausschliesslich am Menschen — genau Janas Bedingung. Bewegungsanalyse, Bewegungstherapie und Reha-Forschung; Einstieg oft über Fach-/Assistenzrollen oder Praktika.</p>
+      <div class="cards">
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Schweizer Paraplegiker-Gruppe / -Forschung</h3>
+            <p class="card-org">Nottwil (LU)</p>
+            <div class="chips"><span class="chip">CH · Reha-Forschung</span><span class="chip">Bewegungswissenschaft</span><span class="chip">am Menschen</span></div>
+          </div><div class="score"><div class="score-num">4<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Eine der weltgrössten Reha-Forschungsinstitutionen; Bewegungswissenschaft unter einem Dach, alles am Menschen.</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">Gruppenportal beobachten; Job-Alert setzen.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://www.paraplegie.ch/de/karriere/offene-stellen/" target="_blank" rel="noopener">paraplegie.ch Karriere ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Balgrist · Bewegungsanalyse &amp; Sportmedizin</h3>
+            <p class="card-org">Zürich · Universitätsklinik</p>
+            <div class="chips"><span class="chip">CH · Klinik</span><span class="chip">3D-Ganganalyse</span><span class="chip">EMG/Kraftplatten</span></div>
+          </div><div class="score"><div class="score-num">4<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">3D-Bewegungsanalyse (Infrarot, Kraftmessplatten, EMG) + Universitäres Zentrum für Prävention und Sportmedizin — angewandte Human-Bewegungsmessung.</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">Jobs der Klinik prüfen; initiativ ans Bewegungsanalyse-Team.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://www.balgrist.ch/" target="_blank" rel="noopener">balgrist.ch ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">REHAB Basel</h3>
+            <p class="card-org">Basel · Neurorehabilitation &amp; Paraplegiologie</p>
+            <div class="chips"><span class="chip">CH · Klinik</span><span class="chip">Janas „Ja" (R2)</span><span class="chip">Sporttherapie</span></div>
+          </div><div class="score"><div class="score-num">4<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Neurorehabilitation und Paraplegiologie; u.&nbsp;a. Praktikum Sporttherapie (Jan–Apr / Mai–Aug 2027).</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">Praktikum/Fachrollen im Karriereportal prüfen.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://www.rehab.ch/" target="_blank" rel="noopener">rehab.ch ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">cereneo</h3>
+            <p class="card-org">Vitznau / Zürich · Neurorehabilitation</p>
+            <div class="chips"><span class="chip">CH · Klinik+Forschung</span><span class="chip">Janas „Ja" (R2)</span><span class="chip">am Menschen</span></div>
+          </div><div class="score"><div class="score-num">4<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Neurorehabilitation mit eigener Forschung, am Menschen.</p></div>
+            <div class="line act"><span class="k">Aktion</span><p class="v">Karriereseite prüfen; initiativ.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://cereneo.ch/" target="_blank" rel="noopener">cereneo.ch ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+      </div>
+      <p class="sec-intro" style="margin-top:16px;font-size:.9rem">Weitere: Kliniken Valens (<a href="https://valens.ch/" target="_blank" rel="noopener">valens.ch</a>), Rehaklinik Bellikon, CRR SuvaCare Sion — Bewegungstherapie/Reha-Forschung.</p>
+    </section>
+
+    <!-- ===== 4 · FIRMEN MIT PRODUKT ===== -->
+    <section id="produkt">
+      <div class="sec-head"><span class="sec-num">04</span><h2>Firmen mit Produkt — Bewegung/Reha am Menschen</h2></div>
+      <p class="sec-intro">Janas „Vielleicht": Unternehmen statt Hochschule, alle am Menschen und mit klarem Produkt. Karriereseiten im Blick behalten, teils initiativ.</p>
+      <div class="cards">
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Dividat</h3>
+            <p class="card-org">ETH-Spin-off · Schindellegi/ZH</p>
+            <div class="chips"><span class="chip">CH · Firma</span><span class="chip">Exergames</span></div>
+          </div><div class="score"><div class="score-num">4<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Kognitiv-motorisches Training am Menschen — Sport + Bewegung + Technik.</p></div>
+            <div class="line gap"><span class="k">Gap</span><p class="v">Kleines Team, Stellen unregelmässig → initiativ.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://dividat.com/en" target="_blank" rel="noopener">dividat.com ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">Hocoma</h3>
+            <p class="card-org">DIH Group · Volketswil ZH</p>
+            <div class="chips"><span class="chip">CH · Firma</span><span class="chip">Rehab-Robotik</span></div>
+          </div><div class="score"><div class="score-num">3<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Rehab-Robotik (Lokomat); Clinical/Movement Science am Menschen.</p></div>
+            <div class="line gap"><span class="k">Gap</span><p class="v">Teils ingenieurlastig, viele Rollen senior.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://www.hocoma.com/us/hocoma/jobs/" target="_blank" rel="noopener">hocoma.com/jobs ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">MindMaze</h3>
+            <p class="card-org">Lausanne</p>
+            <div class="chips"><span class="chip">CH · Firma</span><span class="chip">Neuro-Recovery</span></div>
+          </div><div class="score"><div class="score-num">3<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Neuro-Recovery (VR) am Menschen.</p></div>
+            <div class="line gap"><span class="k">Gap</span><p class="v">Digital/klinisch, kompetitiv.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://careers.smartrecruiters.com/MindMaze" target="_blank" rel="noopener">Careers MindMaze ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-main"><div>
+            <h3 class="card-title">ONWARD Medical</h3>
+            <p class="card-org">Lausanne / NL</p>
+            <div class="chips"><span class="chip">Firma</span><span class="chip">Bewegungswiederherstellung</span></div>
+          </div><div class="score"><div class="score-num">3<small>/5</small></div><div class="score-label">Passung</div></div></div>
+          <div class="card-body">
+            <div class="line fit"><span class="k">Fit</span><p class="v">Bewegungswiederherstellung am Menschen.</p></div>
+            <div class="line gap"><span class="k">Gap</span><p class="v">Ingenieur-/kliniklastig.</p></div>
+          </div>
+          <div class="card-foot"><a class="visit" href="https://onwd.com/" target="_blank" rel="noopener">onwd.com ↗</a><span class="fb">Feedback: Nummer + Ja/Vielleicht/Nein an Markus</span></div>
+        </article>
+
+      </div>
+      <p class="sec-intro" style="margin-top:16px;font-size:.9rem">Entfernt nach Janas „Nein — kein Engineering": Wyss Center (Genf).</p>
+    </section>
+
+    <!-- ===== 3 · FORSCHUNG (nachrangig) ===== -->
+    <section id="forschung">
+      <div class="sec-head"><span class="sec-num">05</span><h2>Forschung — nur am Menschen, meist PhD</h2></div>
+      <p class="sec-intro">Nachrangig, weil Jana vom PhD wegwill. Nur noch <b>humane</b> Gruppen, die sie mit Ja/Vielleicht markiert hat — als Reserve, falls sich doch eine forschungsnahe, nicht-promotionsgebundene Rolle ergibt (z.&nbsp;B. Research Assistant, Studienkoordination). Für diese Liste genügt im Feedback-Zettel ein grobes Ja/Nein.</p>
+      <div class="grid2">
+        <div class="panel">
+          <h3><span class="mk">Ja</span>Klar interessant (human)</h3>
+          <ul>
+            <li><b>Neural Control of Movement</b> — Wenderoth · ETH — Motorik &amp; Kognition, TMS/EEG</li>
+            <li><b>Motor Control and Learning</b> — de Bruin · ETH — motorisches Lernen, Exergames, Ageing</li>
+            <li><b>Neuro &amp; Sportmedizin (ISSUL)</b> — Kayser · UNIL — Neuro/Sportmedizin, EN</li>
+            <li><b>Exercise &amp; Health (Humanteil)</b> — De Bock · ETH — Bewegungsphysiologie am Menschen <i>(Zellteil Bar-Nur raus)</i></li>
+          </ul>
+        </div>
+        <div class="panel">
+          <h3><span class="mk">?</span>Vielleicht (human)</h3>
+          <ul>
+            <li><b>Brain-Body Regulation</b> — Meissner · ETH</li>
+            <li><b>Sport &amp; psychosoz. Gesundheit</b> — Gerber · Basel</li>
+            <li><b>.NeuroRestore</b> — Courtine/Bloch · EPFL/CHUV</li>
+            <li><b>Motor Control &amp; Neuroplasticity</b> — Karabanov · Kopenhagen</li>
+            <li><b>Movement and Learning</b> — Wienecke · Kopenhagen</li>
+            <li><b>Sensorimotor Control</b> — Medendorp · Donders, NL</li>
+            <li><b>Motorkontrolle</b> — Kilteni · Karolinska <i>(molekularer Teil raus)</i></li>
+            <li><b>BLAM Lab</b> — Krakauer · Johns Hopkins, USA</li>
+            <li><b>Movement Control &amp; Neuroplasticity</b> — Swinnen/Orban de Xivry · KU Leuven</li>
+            <li><b>Exercise &amp; Healthy Brain Ageing (CEHBA)</b> — Univ. Queensland, AU</li>
+          </ul>
+        </div>
+      </div>
+      <p class="sec-intro" style="margin-top:16px;font-size:.9rem"><b>Passend zu Janas Nordwunsch:</b> mehrere dieser humanen Gruppen liegen in Skandinavien/NL — Kilteni (Karolinska, SE), Karabanov &amp; Wienecke (Kopenhagen, DK), Medendorp (Donders, NL). Falls sich dort doch eine forschungsnahe, nicht-promotionsgebundene Rolle ergibt, sind sie der Zugang.</p>
+      <p class="sec-intro" style="margin-top:8px;font-size:.9rem">Entfernt nach Janas „Nein": Sportpädagogik Schmidt (Bern); Clinical Neuroengineering Hummel (EPFL, „kein Engineering"). Strukturierte PhD-Programme (ZNZ, EPFL EDNE) sind ebenfalls raus, weil kein PhD gewünscht — ebenso alle Tier-/Zell-Stellen.</p>
+    </section>
+
+    <!-- ===== 4 · POSITIONIERUNG ===== -->
+    <section id="positionierung">
+      <div class="sec-head"><span class="sec-num">06</span><h2>Positionierung für Firmen &amp; Verbände</h2></div>
+      <div class="grid2">
+        <div class="panel">
+          <h3>Stärken (der Hebel)</h3>
+          <ul>
+            <li><b>Daten + Praxis:</b> ETH-Naturwissenschaft mit Mess- und Auswertungsdisziplin (R, Zeitreihen-Daten) <b>plus</b> jahrelange Bewegungspraxis.</li>
+            <li><b>Angewandter Nachweis:</b> Lehrdiplom Sport (2026), J+S, Snowboard-/Trampolin-Instruktorin (Gruppen bis zehn), Sport-Assistenz ETH mit Technikbeurteilung.</li>
+            <li><b>Schnelle Einarbeitung:</b> Imaging-/Analysepipeline der Masterarbeit weitgehend selbst erarbeitet.</li>
+          </ul>
+        </div>
+        <div class="panel">
+          <h3>Lücken (ehrlich, überbrückbar)</h3>
+          <ul>
+            <li><b>Leistungsdiagnostik</b> (VO2/Spiroergometrie, Laktat, NIRS) noch nicht praktisch → über Mess-/Datenerfahrung positionieren; Praktikum (BASPO/EHSM) schliesst die Lücke.</li>
+            <li><b>Branchenerfahrung:</b> früh im Berufsweg → Einstieg über Praktikum/Assistenz/Verbandsstelle statt Senior-Rollen.</li>
+            <li><b>Programmierung:</b> R sitzt; Python/MATLAB ehrlich als „in Einarbeitung".</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 5 · OUTREACH ===== -->
+    <section id="outreach">
+      <div class="sec-head"><span class="sec-num">07</span><h2>Outreach-Entwürfe</h2></div>
+      <p class="sec-intro">Zwei Vorlagen: das Initiativ-Anschreiben an On (nach der Schliessung) und ein deutsches Muster für einen Sportverband oder ein Performance-Team.</p>
+
+      <div class="draft">
+        <div class="draft-h"><span class="t">On · Specialist Sports Science · Initiativ</span><span class="lang">EN</span></div>
+        <pre class="body">Dear Sports Science team at On,
+
+I am writing even though your Specialist – Sports Science posting has just closed. If the search is still open, or reopens, I would like to be considered — my background sits at an unusual angle to the role.
+
+My CV holds two things that rarely sit together: a research master built on quantitative experiments (MSc Health Sciences and Technology, ETH Zurich, 2021–2023), and years spent coaching people how to move. In the lab I designed experiments, collected time-series data, analysed it in R, and turned the results into reports. Alongside, I teach snowboarding and trampoline to groups of up to ten and completed the practical side of first-year sports teaching at ETH; in 2026 I finish the ETH teaching diploma in physical education.
+
+I want to be straight about the gap: I have not yet used the physiological testing stack you list (metabolic carts/VO2, portable gas analysers, blood lactate, NIRS), and my main analysis language is R rather than Python or MATLAB. What I can say is that I pick up new instruments and toolchains fast. Given a testing protocol, I would expect to be useful within weeks.
+
+I would gladly send my CV and thesis, and talk about how I could contribute.
+
+Kind regards, Jana Bühler</pre>
+      </div>
+
+      <div class="draft">
+        <div class="draft-h"><span class="t">Sportverband / Performance-Team · Initiativ</span><span class="lang">DE</span></div>
+        <pre class="body">Betreff: Initiativbewerbung — Sportwissenschaft &amp; angewandte Performance (MSc ETH + Lehrdiplom Sport)
+
+Sehr geehrte Damen und Herren,
+
+ich suche eine Stelle an der Schnittstelle von Datenarbeit und gelebter Bewegungspraxis — und Ihre Organisation ist genau das Umfeld, in dem beides zählt.
+
+Ich habe an der ETH Zürich Health Sciences and Technology studiert (MSc, Major Neuroscience) und dort sauberes Experimentieren, Messen und Auswerten gelernt (Analyse in R). Parallel bin ich seit Jahren in der Sportpraxis verankert: J+S, Snowboard- und Trampolin-Instruktorin, Sport-Assistenz an der ETH, und 2026 schliesse ich das Lehrdiplom Sport ab. Ich bringe also beides mit — Athletendaten zu erheben und zu interpretieren, und das eigene Gespür dafür, wie sich eine Bewegung anfühlt.
+
+Physiologische Leistungsdiagnostik (Spiroergometrie, Laktat, NIRS) bringe ich noch nicht praktisch mit, arbeite mich aber erfahrungsgemäss schnell in neue Verfahren ein.
+
+Gerne sende ich Lebenslauf und Zeugnisse und würde mich über ein Gespräch freuen.
+
+Freundliche Grüsse — Jana Bühler</pre>
+      </div>
+    </section>
+
+    <!-- ===== 6 · PORTALE ===== -->
+    <section id="portale">
+      <div class="sec-head"><span class="sec-num">08</span><h2>Portale zum Mitverfolgen</h2></div>
+      <p class="jl-h">Sportorganisationen &amp; Performance (zuerst)</p>
+      <a class="joblink" href="https://jobs.redbull.com/" target="_blank" rel="noopener"><span class="jl-badge int">AT/INT</span><span><span class="jl-name">Red Bull Jobs</span><br><span class="jl-desc">Kategorie Sports · APC Thalgau</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://www.swissolympic.ch/ueber-swiss-olympic/sportjobs" target="_blank" rel="noopener"><span class="jl-badge ch">CH</span><span><span class="jl-name">Swiss Olympic Sportjobs</span><br><span class="jl-desc">Dachverband + Fachverbände</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://jobs.admin.ch/?lang=de" target="_blank" rel="noopener"><span class="jl-badge ch">CH</span><span><span class="jl-name">jobs.admin.ch (BASPO/EHSM)</span><br><span class="jl-desc">Filter „Sport" · Job-Alert einrichten</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://www.swiss-ski.ch/ueber-swiss-ski/verband/jobs/" target="_blank" rel="noopener"><span class="jl-badge ch">CH</span><span><span class="jl-name">Swiss-Ski Jobs</span><br><span class="jl-desc">Muri bei Bern</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://www.snowsports.ch/startseite/jobs/" target="_blank" rel="noopener"><span class="jl-badge ch">CH</span><span><span class="jl-name">Swiss Snowsports Jobs</span><br><span class="jl-desc">Ausbildung / Instruktion</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://www.jobscout24.ch/de/jobs/sportamt/" target="_blank" rel="noopener"><span class="jl-badge ch">CH</span><span><span class="jl-name">Stadt Zürich · Sportamt</span><br><span class="jl-desc">JobScout24-Filter</span></span><span class="jl-arrow">↗</span></a>
+
+      <p class="jl-h" style="margin-top:22px">Deutsche &amp; österreichische Sportverbände &amp; Leistungssport (neu)</p>
+      <a class="joblink" href="https://www.osphh-sh.de/stellenangebote/" target="_blank" rel="noopener"><span class="jl-badge int">DE</span><span><span class="jl-name">Olympiastützpunkte (OSP)</span><br><span class="jl-desc">Leistungsdiagnostik / Trainingswissenschaft · Praktika · 19 Zentren bundesweit</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://sport-iat.de/allgemein/aktuelles/jobs-praktika" target="_blank" rel="noopener"><span class="jl-badge int">DE</span><span><span class="jl-name">IAT Leipzig</span><br><span class="jl-desc">Angewandte Trainingswissenschaft · Jobs &amp; Praktika</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://www.dosb.de/service/stellenausschreibungen" target="_blank" rel="noopener"><span class="jl-badge int">DE</span><span><span class="jl-name">DOSB-Stellenboard</span><br><span class="jl-desc">Dachverband + Fachverbände</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://www.deutscherskiverband.de/stellenausschreibungen" target="_blank" rel="noopener"><span class="jl-badge int">DE</span><span><span class="jl-name">Deutscher Skiverband (DSV)</span><br><span class="jl-desc">Snowsport · Nachwuchs/Leistung</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://jobsimsport.de/" target="_blank" rel="noopener"><span class="jl-badge int">DE</span><span><span class="jl-name">jobsimsport.de</span><br><span class="jl-desc">Sport-Jobbörse · Job-Alert</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://www.sportwissenschaft.de/stellenborse/stellenangebote/" target="_blank" rel="noopener"><span class="jl-badge int">DE</span><span><span class="jl-name">dvs-Stellenbörse</span><br><span class="jl-desc">Deutsche Vereinigung für Sportwissenschaft</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://olympiazentrum-vorarlberg.at/olympiazentrum-vorarlberg/jobs/" target="_blank" rel="noopener"><span class="jl-badge int">AT</span><span><span class="jl-name">Olympiazentren Österreich</span><br><span class="jl-desc">Leistungsdiagnostik / Trainingswissenschaft · 6 Zentren</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://www.imsb.at/jobs/" target="_blank" rel="noopener"><span class="jl-badge int">AT</span><span><span class="jl-name">Leistungssport Austria (LSA/IMSB)</span><br><span class="jl-desc">Bundesinstitut Spitzensport · Südstadt</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://www.skiaustria.at/de/jobs" target="_blank" rel="noopener"><span class="jl-badge int">AT</span><span><span class="jl-name">Ski Austria (ÖSV)</span><br><span class="jl-desc">Snowsport · Snowboard/Nachwuchs</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://www.sportaustria.at/de/service-center/jobboerse" target="_blank" rel="noopener"><span class="jl-badge int">AT</span><span><span class="jl-name">Sport-Austria-Jobbörse</span><br><span class="jl-desc">Dachverband + Fachverbände</span></span><span class="jl-arrow">↗</span></a>
+
+      <p class="jl-h" style="margin-top:22px">Skandinavien &amp; Niederlande (neu — Janas Nordwunsch)</p>
+      <a class="joblink" href="https://www.nocnsf.nl/vacatures" target="_blank" rel="noopener"><span class="jl-badge int">NL</span><span><span class="jl-name">TeamNL / NOC*NSF</span><br><span class="jl-desc">Sport Science Centre Papendal · Junior-/Fachrollen</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://www.teamdanmark.dk/presse/job-og-praktik" target="_blank" rel="noopener"><span class="jl-badge int">DK</span><span><span class="jl-name">Team Danmark · Job &amp; Praktik</span><br><span class="jl-desc">Praktika Physiologie/Analyse · Jobmail abonnieren</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://riksidrottsforbundet.onecruiter.com/" target="_blank" rel="noopener"><span class="jl-badge int">SE</span><span><span class="jl-name">Riksidrottsförbundet / Bosön</span><br><span class="jl-desc">RF-Entwicklungszentrum · Leistungslabor · initiativ</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://sok.se/" target="_blank" rel="noopener"><span class="jl-badge int">SE</span><span><span class="jl-name">Sveriges Olympiska Kommitté</span><br><span class="jl-desc">Performance-Team ~40 Spezialist:innen</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://www.motekmedical.com/" target="_blank" rel="noopener"><span class="jl-badge int">NL</span><span><span class="jl-name">Motek Medical</span><br><span class="jl-desc">Amsterdam · Bewegungs-/Ganglabor (CAREN/GRAIL)</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://www.sportenstrategie.nl/vacatures/" target="_blank" rel="noopener"><span class="jl-badge int">NL</span><span><span class="jl-name">Sport&amp;Strategie — Vacatures</span><br><span class="jl-desc">NL-Sportjobbörse</span></span><span class="jl-arrow">↗</span></a>
+
+      <p class="jl-h" style="margin-top:22px">Sportartikelhersteller &amp; Reha</p>
+      <a class="joblink" href="https://careers.adidas-group.com/" target="_blank" rel="noopener"><span class="jl-badge int">DE/INT</span><span><span class="jl-name">adidas Careers</span><br><span class="jl-desc">„sport science / athlete / footwear"</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://about.puma.com/en/careers/job-openings" target="_blank" rel="noopener"><span class="jl-badge int">DE/INT</span><span><span class="jl-name">Puma Job Openings</span><br><span class="jl-desc">Teamsport / Sport Science</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://www.paraplegie.ch/de/karriere/offene-stellen/" target="_blank" rel="noopener"><span class="jl-badge ch">CH</span><span><span class="jl-name">Schweizer Paraplegiker-Gruppe</span><br><span class="jl-desc">Nottwil · Reha-Forschung</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://www.balgrist.ch/" target="_blank" rel="noopener"><span class="jl-badge ch">CH</span><span><span class="jl-name">Balgrist</span><br><span class="jl-desc">Bewegungsanalyse &amp; Sportmedizin</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://www.rehab.ch/" target="_blank" rel="noopener"><span class="jl-badge ch">CH</span><span><span class="jl-name">REHAB Basel</span><br><span class="jl-desc">Neuroreha &amp; Paraplegiologie</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://cereneo.ch/" target="_blank" rel="noopener"><span class="jl-badge ch">CH</span><span><span class="jl-name">cereneo</span><br><span class="jl-desc">Vitznau/Zürich · Neuroreha</span></span><span class="jl-arrow">↗</span></a>
+
+      <p class="jl-h" style="margin-top:22px">Firmen &amp; allgemeine Sport-Jobs</p>
+      <a class="joblink" href="https://job-boards.greenhouse.io/onrunning" target="_blank" rel="noopener"><span class="jl-badge ch">CH</span><span><span class="jl-name">On · Stellenboard</span><br><span class="jl-desc">Greenhouse</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://www.jobs.ch/en/vacancies/?term=sportwissenschaft" target="_blank" rel="noopener"><span class="jl-badge ch">CH</span><span><span class="jl-name">jobs.ch</span><br><span class="jl-desc">„Sportwissenschaft / Leistungsdiagnostik / Performance"</span></span><span class="jl-arrow">↗</span></a>
+
+      <p class="jl-h" style="margin-top:22px">Falls doch Forschung am Menschen (nachrangig)</p>
+      <a class="joblink" href="https://www.myscience.ch/en/jobs" target="_blank" rel="noopener"><span class="jl-badge ch">CH</span><span><span class="jl-name">myScience.ch</span><br><span class="jl-desc">„movement / sport / motor"</span></span><span class="jl-arrow">↗</span></a>
+      <a class="joblink" href="https://jobs.ethz.ch/" target="_blank" rel="noopener"><span class="jl-badge ch">CH</span><span><span class="jl-name">jobs.ethz.ch</span><br><span class="jl-desc">Filter „movement / motor / sport"</span></span><span class="jl-arrow">↗</span></a>
+    </section>
+  </div>
+
+  <div class="wrap"><footer>
+    <p><b>Feedback (Jana):</b> Schick Markus pro Zeile die Nummer + Ja/Vielleicht/Nein (E-Mail markus.buehler@gmx.ch, WhatsApp oder direkt). Kein Login, keine App nötig.</p>
+    <p class="disc">Stand 31. August 2026, Runde 2 nach Janas 2. Rückmeldung (kein Nein; REHAB Basel &amp; cereneo hochgestuft; neuer Block Skandinavien &amp; Niederlande). Schwerpunkt Firmen &amp; Sportorganisationen, kein PhD, Forschung nur am Menschen. Arbeitgeber- und Portal-Links am 27.&nbsp;August 2026 geprüft. Offene Einzelstellen ändern sich laufend — tragfähig sind die Ziel-Arbeitgeber und Portale. Keine Gewähr für Ausschreibungsstände.</p>
+  </footer></div>
+</main>
+
+<script>
+  /* nur Theme-Umschalter — der gesamte Seiteninhalt ist statisches HTML und
+     wird auch ohne JavaScript vollständig angezeigt. */
+  var root=document.documentElement, b=document.getElementById("themeBtn");
+  try{var t=localStorage.getItem("jana_theme"); if(t)root.setAttribute("data-theme",t);}catch(e){}
+  if(b)b.addEventListener("click",function(){
+    var cur=root.getAttribute("data-theme");
+    var dark=cur?cur==="dark":matchMedia("(prefers-color-scheme:dark)").matches;
+    var next=dark?"light":"dark";
+    root.setAttribute("data-theme",next);
+    try{localStorage.setItem("jana_theme",next);}catch(e){}
+  });
+</script>
+</body>
+</html>
