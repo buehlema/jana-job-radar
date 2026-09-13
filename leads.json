@@ -34,5 +34,41 @@
     "url": "https://www.swissolympic.ch/ueber-swiss-olympic/sportjobs",
     "ort": "Ittigen, CH",
     "status": "ungeprüft"
+  },
+  "https://jobs.admin.ch/offene-stellen/hochschulpraktikant-in-monitoring-+-evaluation-und-hochschulbibliothek/61ad7e92-f7a5-4468-9110-413067237fc0": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "org": "BASPO/EHSM Magglingen",
+    "role": "Hochschulpraktikum Monitoring + Evaluation und Hochschulbibliothek",
+    "url": "https://jobs.admin.ch/offene-stellen/hochschulpraktikant-in-monitoring-+-evaluation-und-hochschulbibliothek/61ad7e92-f7a5-4468-9110-413067237fc0",
+    "ort": "Magglingen, CH",
+    "status": "ungeprüft"
+  },
+  "https://rehabbasel-career.talent-soft.com/stelle/stelle-praktikum-in-der-sporttherapie-100-m-w-d_279.aspx": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "org": "REHAB Basel",
+    "role": "Praktikum Sporttherapie (100%)",
+    "url": "https://rehabbasel-career.talent-soft.com/stelle/stelle-praktikum-in-der-sporttherapie-100-m-w-d_279.aspx",
+    "ort": "Basel, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.swiss-ski.ch/ueber-swiss-ski/verband/arbeiten-bei-swiss-ski/praktikum-bei-swiss-ski/": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "org": "Swiss-Ski",
+    "role": "Praktikum bei Swiss-Ski (Portal, diverse Bereiche)",
+    "url": "https://www.swiss-ski.ch/ueber-swiss-ski/verband/arbeiten-bei-swiss-ski/praktikum-bei-swiss-ski/",
+    "ort": "Bern/diverse, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.stadt-zuerich.ch/ssd/de/index/departement_schul_sport/jobs/praktikum_ssd.secure.html": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "org": "Stadt Zürich, Schul- und Sportdepartement",
+    "role": "Praktikum im SSD (Portal, diverse Bereiche)",
+    "url": "https://www.stadt-zuerich.ch/ssd/de/index/departement_schul_sport/jobs/praktikum_ssd.secure.html",
+    "ort": "Zürich, CH",
+    "status": "ungeprüft"
   }
 }
