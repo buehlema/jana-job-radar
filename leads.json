@@ -10,17 +10,17 @@
   },
   "https://jobs.admin.ch/offene-stellen/hochschulpraktikant-in-leistungssport-und-sportoekonomie/67bf8719-073b-4180-a3f9-cdffd2211ac5": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-01",
     "org": "BASPO Magglingen",
-    "role": "Hochschulpraktikant/-in Leistungssport und Sportökonomie",
+    "role": "Hochschulpraktikant/-in Leistungssport und Sportökonomie (80%, Start 1.4.2026)",
     "url": "https://jobs.admin.ch/offene-stellen/hochschulpraktikant-in-leistungssport-und-sportoekonomie/67bf8719-073b-4180-a3f9-cdffd2211ac5",
     "ort": "Magglingen, CH",
     "status": "ungeprüft"
   },
   "https://www.osphh-sh.de/stellenangebote/praktikum-im-servicebereich-trainingswissenschaft/": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-09-30",
-    "org": "Olympiastützpunkt Hamburg/SH",
+    "last_seen": "2026-10-01",
+    "org": "Olympiastützpunkt Hamburg/Schleswig-Holstein",
     "role": "Praktikum im Servicebereich Trainingswissenschaft",
     "url": "https://www.osphh-sh.de/stellenangebote/praktikum-im-servicebereich-trainingswissenschaft/",
     "ort": "Hamburg, DE",
@@ -28,7 +28,7 @@
   },
   "https://www.swissolympic.ch/ueber-swiss-olympic/sportjobs": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-01",
     "org": "Swiss Olympic",
     "role": "Sportjobs (Portal, u.a. Praktikum Swiss Olympic Team)",
     "url": "https://www.swissolympic.ch/ueber-swiss-olympic/sportjobs",
@@ -46,7 +46,7 @@
   },
   "https://rehabbasel-career.talent-soft.com/stelle/stelle-praktikum-in-der-sporttherapie-100-m-w-d_279.aspx": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-01",
     "org": "REHAB Basel",
     "role": "Praktikum in der Sporttherapie 100%",
     "url": "https://rehabbasel-career.talent-soft.com/stelle/stelle-praktikum-in-der-sporttherapie-100-m-w-d_279.aspx",
@@ -55,7 +55,7 @@
   },
   "https://www.swiss-ski.ch/ueber-swiss-ski/verband/arbeiten-bei-swiss-ski/praktikum-bei-swiss-ski/": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-01",
     "org": "Swiss-Ski",
     "role": "Praktikum bei Swiss-Ski (Portal)",
     "url": "https://www.swiss-ski.ch/ueber-swiss-ski/verband/arbeiten-bei-swiss-ski/praktikum-bei-swiss-ski/",
@@ -64,7 +64,7 @@
   },
   "https://www.stadt-zuerich.ch/ssd/de/index/departement_schul_sport/jobs/praktikum_ssd.secure.html": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-01",
     "org": "Stadt Zürich, Schul- und Sportdepartement",
     "role": "Praktikum im SSD (Portal, diverse Bereiche)",
     "url": "https://www.stadt-zuerich.ch/ssd/de/index/departement_schul_sport/jobs/praktikum_ssd.secure.html",
@@ -82,7 +82,7 @@
   },
   "https://jobs.admin.ch/offene-stellen/Hochschulpraktikantin-oder-Hochschulpraktikant-J-S-Ausbildung-Sportarten/7f20a6cf-e290-4ac6-8f56-cc34e1af3b15": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-01",
     "org": "BASPO/EHSM Magglingen",
     "role": "Hochschulpraktikum J+S-Ausbildung, Sportarten",
     "url": "https://jobs.admin.ch/offene-stellen/Hochschulpraktikantin-oder-Hochschulpraktikant-J-S-Ausbildung-Sportarten/7f20a6cf-e290-4ac6-8f56-cc34e1af3b15",
@@ -244,11 +244,11 @@
   },
   "https://www.sportwissenschaft.de/stellenborse/stellenangebote/": {
     "first_seen": "2026-09-18",
-    "last_seen": "2026-09-30",
-    "org": "dvs Deutsche Vereinigung für Sportwissenschaft",
-    "role": "Stellenbörse (Portal, u.a. Praktika/Abschlussarbeiten)",
+    "last_seen": "2026-10-01",
+    "org": "Interdisziplinäres Zentrum für Therapie, Training und Forschung Hannover",
+    "role": "Praktikum Sportwissenschaft/Sportmedizin/Physiotherapie (Bewerbungsfrist 20.11.2026)",
     "url": "https://www.sportwissenschaft.de/stellenborse/stellenangebote/",
-    "ort": "diverse, DE",
+    "ort": "Hannover, DE",
     "status": "ungeprüft"
   },
   "https://www.iat.uni-leipzig.de/aktuelles/jobs-praktika": {
@@ -447,6 +447,42 @@
     "role": "Praktikant*in Olympische Missionen (80–100%)",
     "url": "https://www.jobs.ch/de/stellenangebote/detail/ad4cb919-1fe2-4763-83da-5c17408c1da7/",
     "ort": "Ittigen, CH",
+    "status": "ungeprüft"
+  },
+  "https://jobs.admin.ch/offene-stellen/praktikant-in-hms-3-1/d27a25b0-6e29-4e65-a89e-ff0c42c4d494": {
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01",
+    "org": "BASPO Magglingen",
+    "role": "Praktikant/in HMS 3/1",
+    "url": "https://jobs.admin.ch/offene-stellen/praktikant-in-hms-3-1/d27a25b0-6e29-4e65-a89e-ff0c42c4d494",
+    "ort": "Magglingen, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.campus-career.ch/jobs/details/?no_cache=1&tx_campusjobs_jobs%5Buid%5D=71767": {
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01",
+    "org": "BASPO Magglingen",
+    "role": "Hochschulpraktikant/in Athletik und Leistungsdiagnostik (80%)",
+    "url": "https://www.campus-career.ch/jobs/details/?no_cache=1&tx_campusjobs_jobs%5Buid%5D=71767",
+    "ort": "Magglingen, CH",
+    "status": "ungeprüft"
+  },
+  "https://jobs.lsb.nrw/Trainingswissenschaftler-mwd-Schwerpunkt-Physiologie-Para--de-j169.html": {
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01",
+    "org": "Landessportbund NRW / Olympiastützpunkt Rheinland",
+    "role": "Trainingswissenschaftler/in (m/w/d), Schwerpunkt Physiologie Para-Sport, Teilzeit befristet",
+    "url": "https://jobs.lsb.nrw/Trainingswissenschaftler-mwd-Schwerpunkt-Physiologie-Para--de-j169.html",
+    "ort": "Nordrhein-Westfalen, DE",
+    "status": "ungeprüft"
+  },
+  "https://www.osp-rheinruhr.nrw/stellenausschreibung-leistungssportliche-athletinnen-betreuung-m-w-d.html": {
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01",
+    "org": "Olympiastützpunkt NRW/Rhein-Ruhr",
+    "role": "Leistungssportliche Athlet*innen-Betreuung (m/w/d)",
+    "url": "https://www.osp-rheinruhr.nrw/stellenausschreibung-leistungssportliche-athletinnen-betreuung-m-w-d.html",
+    "ort": "Nordrhein-Westfalen, DE",
     "status": "ungeprüft"
   }
 }
