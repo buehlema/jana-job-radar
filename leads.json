@@ -10,11 +10,11 @@
   },
   "https://jobs.admin.ch/offene-stellen/hochschulpraktikant-in-leistungssport-und-sportoekonomie/67bf8719-073b-4180-a3f9-cdffd2211ac5": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-10-01",
-    "org": "BASPO Magglingen",
-    "role": "Hochschulpraktikant/-in Leistungssport und Sportökonomie (80%, Start 1.4.2026)",
+    "last_seen": "2026-10-02",
+    "org": "BASPO / EHSM Magglingen",
+    "role": "Hochschulpraktikant/-in Leistungssport und Sportökonomie (80%, ab 01.04.2026, befristet bis 31.12.2026)",
     "url": "https://jobs.admin.ch/offene-stellen/hochschulpraktikant-in-leistungssport-und-sportoekonomie/67bf8719-073b-4180-a3f9-cdffd2211ac5",
-    "ort": "Magglingen, CH",
+    "ort": "Magglingen, Schweiz",
     "status": "ungeprüft"
   },
   "https://www.osphh-sh.de/stellenangebote/praktikum-im-servicebereich-trainingswissenschaft/": {
@@ -483,6 +483,33 @@
     "role": "Leistungssportliche Athlet*innen-Betreuung (m/w/d)",
     "url": "https://www.osp-rheinruhr.nrw/stellenausschreibung-leistungssportliche-athletinnen-betreuung-m-w-d.html",
     "ort": "Nordrhein-Westfalen, DE",
+    "status": "ungeprüft"
+  },
+  "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/arbeiten-bei-der-stadt/stadtvielfalt/arbeiten-beim-ssd/arbeiten-beim-spa.html": {
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-02",
+    "org": "Sportamt Stadt Zürich",
+    "role": "Testleiter*in Sportmotorische Bestandesaufnahme Zürich (SMBA), 10-50%",
+    "url": "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/arbeiten-bei-der-stadt/stadtvielfalt/arbeiten-beim-ssd/arbeiten-beim-spa.html",
+    "ort": "Zürich, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://www.swissbiomechanics.ch/ueber-uns/karriere/": {
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-02",
+    "org": "swissbiomechanics AG",
+    "role": "Berater:in Sport & Bewegung, 50-100%",
+    "url": "https://www.swissbiomechanics.ch/ueber-uns/karriere/",
+    "ort": "Zürich / Einsiedeln, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://jobs.redbull.com/at-de/sports-data-ai-scientist-ref34421t?lang=en": {
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-02",
+    "org": "Red Bull Athlete Performance Center",
+    "role": "Sports Data & AI Scientist",
+    "url": "https://jobs.redbull.com/at-de/sports-data-ai-scientist-ref34421t?lang=en",
+    "ort": "Thalgau, Österreich",
     "status": "ungeprüft"
   }
 }
