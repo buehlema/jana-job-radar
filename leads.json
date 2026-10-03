@@ -10,7 +10,7 @@
   },
   "https://jobs.admin.ch/offene-stellen/hochschulpraktikant-in-leistungssport-und-sportoekonomie/67bf8719-073b-4180-a3f9-cdffd2211ac5": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-10-02",
+    "last_seen": "2026-10-03",
     "org": "BASPO / EHSM Magglingen",
     "role": "Hochschulpraktikant/-in Leistungssport und Sportökonomie (80%, ab 01.04.2026, befristet bis 31.12.2026)",
     "url": "https://jobs.admin.ch/offene-stellen/hochschulpraktikant-in-leistungssport-und-sportoekonomie/67bf8719-073b-4180-a3f9-cdffd2211ac5",
@@ -487,7 +487,7 @@
   },
   "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/arbeiten-bei-der-stadt/stadtvielfalt/arbeiten-beim-ssd/arbeiten-beim-spa.html": {
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-02",
+    "last_seen": "2026-10-03",
     "org": "Sportamt Stadt Zürich",
     "role": "Testleiter*in Sportmotorische Bestandesaufnahme Zürich (SMBA), 10-50%",
     "url": "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/arbeiten-bei-der-stadt/stadtvielfalt/arbeiten-beim-ssd/arbeiten-beim-spa.html",
@@ -496,7 +496,7 @@
   },
   "https://www.swissbiomechanics.ch/ueber-uns/karriere/": {
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-02",
+    "last_seen": "2026-10-03",
     "org": "swissbiomechanics AG",
     "role": "Berater:in Sport & Bewegung, 50-100%",
     "url": "https://www.swissbiomechanics.ch/ueber-uns/karriere/",
@@ -505,11 +505,38 @@
   },
   "https://jobs.redbull.com/at-de/sports-data-ai-scientist-ref34421t?lang=en": {
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-02",
+    "last_seen": "2026-10-03",
     "org": "Red Bull Athlete Performance Center",
     "role": "Sports Data & AI Scientist",
     "url": "https://jobs.redbull.com/at-de/sports-data-ai-scientist-ref34421t?lang=en",
     "ort": "Thalgau, Österreich",
+    "status": "ungeprüft"
+  },
+  "https://www.jobup.ch/en/jobs/detail/2764c851-be16-45a1-bcc3-41060631afa7/": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "org": "Schweizer Paraplegiker-Zentrum Nottwil",
+    "role": "Praktikant*in Sporttherapie 100%",
+    "url": "https://www.jobup.ch/en/jobs/detail/2764c851-be16-45a1-bcc3-41060631afa7/",
+    "ort": "Nottwil, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://sport-iat.de/fileadmin/user_upload/Stellenausschreibungen/2026-02_Stellenausschreibung_Trainingswissenschaft.pdf": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "org": "IAT Leipzig",
+    "role": "Stellenausschreibung Trainingswissenschaft",
+    "url": "https://sport-iat.de/fileadmin/user_upload/Stellenausschreibungen/2026-02_Stellenausschreibung_Trainingswissenschaft.pdf",
+    "ort": "Leipzig, Deutschland",
+    "status": "ungeprüft"
+  },
+  "https://www.bewegungsanalysezuerich.ch": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "org": "Bewegungsanalyse Zürich (Balgrist / Kinderspital Zürich)",
+    "role": "Praktikum klinische Bewegungsanalyse (Bewegungswiss./HST/Biomechanik, ab 3 Mon.)",
+    "url": "https://www.bewegungsanalysezuerich.ch",
+    "ort": "Zürich, Schweiz",
     "status": "ungeprüft"
   }
 }
