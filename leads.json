@@ -10,7 +10,7 @@
   },
   "https://jobs.admin.ch/offene-stellen/hochschulpraktikant-in-leistungssport-und-sportoekonomie/67bf8719-073b-4180-a3f9-cdffd2211ac5": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-04",
     "org": "BASPO / EHSM Magglingen",
     "role": "Hochschulpraktikant/-in Leistungssport und Sportökonomie (80%, ab 01.04.2026, befristet bis 31.12.2026)",
     "url": "https://jobs.admin.ch/offene-stellen/hochschulpraktikant-in-leistungssport-und-sportoekonomie/67bf8719-073b-4180-a3f9-cdffd2211ac5",
@@ -505,7 +505,7 @@
   },
   "https://jobs.redbull.com/at-de/sports-data-ai-scientist-ref34421t?lang=en": {
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-04",
     "org": "Red Bull Athlete Performance Center",
     "role": "Sports Data & AI Scientist",
     "url": "https://jobs.redbull.com/at-de/sports-data-ai-scientist-ref34421t?lang=en",
@@ -514,7 +514,7 @@
   },
   "https://www.jobup.ch/en/jobs/detail/2764c851-be16-45a1-bcc3-41060631afa7/": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-04",
     "org": "Schweizer Paraplegiker-Zentrum Nottwil",
     "role": "Praktikant*in Sporttherapie 100%",
     "url": "https://www.jobup.ch/en/jobs/detail/2764c851-be16-45a1-bcc3-41060631afa7/",
@@ -523,7 +523,7 @@
   },
   "https://sport-iat.de/fileadmin/user_upload/Stellenausschreibungen/2026-02_Stellenausschreibung_Trainingswissenschaft.pdf": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-04",
     "org": "IAT Leipzig",
     "role": "Stellenausschreibung Trainingswissenschaft",
     "url": "https://sport-iat.de/fileadmin/user_upload/Stellenausschreibungen/2026-02_Stellenausschreibung_Trainingswissenschaft.pdf",
@@ -532,11 +532,38 @@
   },
   "https://www.bewegungsanalysezuerich.ch": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-04",
     "org": "Bewegungsanalyse Zürich (Balgrist / Kinderspital Zürich)",
     "role": "Praktikum klinische Bewegungsanalyse (Bewegungswiss./HST/Biomechanik, ab 3 Mon.)",
     "url": "https://www.bewegungsanalysezuerich.ch",
     "ort": "Zürich, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://www.ostjob.ch/job/praktikant-in-sporttherapie-m-w-a-100/1085847": {
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04",
+    "org": "Kliniken Valens",
+    "role": "Praktikant/-in Sporttherapie (m/w/a) 100%",
+    "url": "https://www.ostjob.ch/job/praktikant-in-sporttherapie-m-w-a-100/1085847",
+    "ort": "Wald ZH, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://www.smartrecruiters.com/MindMaze/743999697265967-biosignal-processing-internship": {
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04",
+    "org": "MindMaze",
+    "role": "Biosignal Processing – Internship (EEG/EMG/ECG, 6-12 Mon.)",
+    "url": "https://www.smartrecruiters.com/MindMaze/743999697265967-biosignal-processing-internship",
+    "ort": "Lausanne, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://jobs.adidas-group.com/job/Herzogenaurach-INTERNSHIP-ATHLETE-SERVICING-%28MFD%29-BY/1253314901": {
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04",
+    "org": "adidas",
+    "role": "Internship – Athlete Servicing (m/f/d)",
+    "url": "https://jobs.adidas-group.com/job/Herzogenaurach-INTERNSHIP-ATHLETE-SERVICING-%28MFD%29-BY/1253314901",
+    "ort": "Herzogenaurach, Deutschland",
     "status": "ungeprüft"
   }
 }
