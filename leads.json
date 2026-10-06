@@ -655,5 +655,68 @@
     "url": "https://www.jobup.ch/en/jobs/detail/3f5ac2fa-9541-405b-a8f3-ff0aeb402daf/",
     "ort": "Luzern, CH",
     "status": "ungeprüft"
+  },
+  "https://www.myjob.ch/job/intern-sports-science/2572862": {
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "org": "On Running",
+    "role": "Intern - Sports Science",
+    "url": "https://www.myjob.ch/job/intern-sports-science/2572862",
+    "ort": "Zürich, CH",
+    "status": "ungeprüft"
+  },
+  "https://builtin.com/job/run-perception-graduate-internship-run-research-team-january-2026/7303420": {
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "org": "On Running",
+    "role": "Run Perception Graduate Internship, Run Research Team",
+    "url": "https://builtin.com/job/run-perception-graduate-internship-run-research-team-january-2026/7303420",
+    "ort": "Zürich, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.jobup.ch/en/jobs/detail/36d79c1e-6af5-4ce3-8c27-8cf17c118007": {
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "org": "Universitätsklinik Balgrist",
+    "role": "Laborantin/Laborant für klinische Bewegungsanalyse (60-80%)",
+    "url": "https://www.jobup.ch/en/jobs/detail/36d79c1e-6af5-4ce3-8c27-8cf17c118007",
+    "ort": "Zürich, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.jobup.ch/en/jobs/detail/0a45882c-7f33-47f2-bdd8-fecf721d51cf": {
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "org": "Universitätsklinik Balgrist",
+    "role": "Studentische Hilfskraft Sporttherapie und Training",
+    "url": "https://www.jobup.ch/en/jobs/detail/0a45882c-7f33-47f2-bdd8-fecf721d51cf",
+    "ort": "Zürich, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.jobup.ch/en/jobs/detail/24515063-9cf8-4e7a-962f-70c7262199f2": {
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "org": "REHAB Basel",
+    "role": "Wissenschaftliche Mitarbeiterin / Study Coordinator (80%, Start März 2026)",
+    "url": "https://www.jobup.ch/en/jobs/detail/24515063-9cf8-4e7a-962f-70c7262199f2",
+    "ort": "Basel, CH",
+    "status": "ungeprüft"
+  },
+  "https://dsbg.unibas.ch/fileadmin/user_upload/dsbg/Praktikant_Sporttherapie_Schulthess_Klinik_2026.pdf": {
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "org": "Schulthess Klinik",
+    "role": "Praktikant/-in Sporttherapie 2026",
+    "url": "https://dsbg.unibas.ch/fileadmin/user_upload/dsbg/Praktikant_Sporttherapie_Schulthess_Klinik_2026.pdf",
+    "ort": "Zürich, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.ehsm.admin.ch/en/internship-sports-physiology": {
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "org": "BASPO / EHSM Magglingen",
+    "role": "Praktikum Sportphysiologie (laufende Ausschreibung)",
+    "url": "https://www.ehsm.admin.ch/en/internship-sports-physiology",
+    "ort": "Magglingen, CH",
+    "status": "ungeprüft"
   }
 }
