@@ -658,11 +658,11 @@
   },
   "https://www.myjob.ch/job/intern-sports-science/2572862": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-07",
-    "org": "On Running",
-    "role": "Intern - Sports Science",
+    "last_seen": "2026-10-08",
+    "org": "On (On Switzerland)",
+    "role": "Intern &ndash; Sports Science",
     "url": "https://www.myjob.ch/job/intern-sports-science/2572862",
-    "ort": "Zürich, CH",
+    "ort": "Zürich, Schweiz",
     "status": "ungeprüft"
   },
   "https://builtin.com/job/run-perception-graduate-internship-run-research-team-january-2026/7303420": {
@@ -717,6 +717,42 @@
     "role": "Praktikum Sportphysiologie (laufende Ausschreibung)",
     "url": "https://www.ehsm.admin.ch/en/internship-sports-physiology",
     "ort": "Magglingen, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.iagora.com/work/de/angebot/job-schweiz-forschung/6327374": {
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "org": "On (On Switzerland)",
+    "role": "Specialist &ndash; Sports Science (Innovation, Running &amp; Multidirectional)",
+    "url": "https://www.iagora.com/work/de/angebot/job-schweiz-forschung/6327374",
+    "ort": "Zürich, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://asvz.ch/sites/default/files/imce/documents/_%C3%9CBER%20ASVZ/Stellenausschreibung%20HochschulsportlehrerIn%202026.pdf": {
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "org": "ASVZ (Akademischer Sportverband Zürich)",
+    "role": "Hochschulsportlehrer:in",
+    "url": "https://asvz.ch/sites/default/files/imce/documents/_%C3%9CBER%20ASVZ/Stellenausschreibung%20HochschulsportlehrerIn%202026.pdf",
+    "ort": "Zürich, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://about.puma.com/en/jobs/junior-research-sport-science-manager-innovation-footwear-r33627": {
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "org": "PUMA",
+    "role": "Junior Research &amp; Sport Science Manager, Innovation Footwear",
+    "url": "https://about.puma.com/en/jobs/junior-research-sport-science-manager-innovation-footwear-r33627",
+    "ort": "Somerville, USA",
+    "status": "ungeprüft"
+  },
+  "https://about.puma.com/en/jobs/research-sports-science-lab-assistant-temp-r39900": {
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "org": "PUMA",
+    "role": "Research &amp; Sports Science Lab Assistant (temporär)",
+    "url": "https://about.puma.com/en/jobs/research-sports-science-lab-assistant-temp-r39900",
+    "ort": "Somerville, USA",
     "status": "ungeprüft"
   }
 }
