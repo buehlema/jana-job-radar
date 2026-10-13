@@ -658,9 +658,9 @@
   },
   "https://www.myjob.ch/job/intern-sports-science/2572862": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-12",
-    "org": "On (On Switzerland)",
-    "role": "Intern – Sports Science",
+    "last_seen": "2026-10-13",
+    "org": "On (Schweiz)",
+    "role": "Intern &ndash; Sports Science",
     "url": "https://www.myjob.ch/job/intern-sports-science/2572862",
     "ort": "Zürich, Schweiz",
     "status": "ungeprüft"
@@ -703,20 +703,20 @@
   },
   "https://dsbg.unibas.ch/fileadmin/user_upload/dsbg/Praktikant_Sporttherapie_Schulthess_Klinik_2026.pdf": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
     "org": "Schulthess Klinik",
-    "role": "Praktikant/-in Sporttherapie 2026",
+    "role": "Praktikant/in Sporttherapie 2026",
     "url": "https://dsbg.unibas.ch/fileadmin/user_upload/dsbg/Praktikant_Sporttherapie_Schulthess_Klinik_2026.pdf",
-    "ort": "Zürich, CH",
+    "ort": "Zürich, Schweiz",
     "status": "ungeprüft"
   },
   "https://www.ehsm.admin.ch/en/internship-sports-physiology": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-12",
-    "org": "BASPO / EHSM Magglingen",
-    "role": "Praktikum Sportphysiologie (laufende Ausschreibung)",
+    "last_seen": "2026-10-13",
+    "org": "BASPO/EHSM Magglingen",
+    "role": "Praktikum Sportphysiologie",
     "url": "https://www.ehsm.admin.ch/en/internship-sports-physiology",
-    "ort": "Magglingen, CH",
+    "ort": "Magglingen, Schweiz",
     "status": "ungeprüft"
   },
   "https://www.iagora.com/work/de/angebot/job-schweiz-forschung/6327374": {
@@ -798,6 +798,42 @@
     "role": "Praktikant/-in Sport- und Bewegungstherapie (m/w/a), Klinik Gais",
     "url": "https://www.ostjob.ch/job/praktikant-in-sport-und-bewegungstherapie-m-w-a/1101441",
     "ort": "Gais, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.jobup.ch/en/jobs/detail/3eeb0e26-0200-4f08-869f-9719237cbd41": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "org": "On (Schweiz)",
+    "role": "Intern Performance Diagnostics",
+    "url": "https://www.jobup.ch/en/jobs/detail/3eeb0e26-0200-4f08-869f-9719237cbd41",
+    "ort": "Zürich, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://www.oberoejobs.at/jobs/physical-performance-coach,6840": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "org": "Red Bull Athlete Performance Center",
+    "role": "Physical Performance Coach",
+    "url": "https://www.oberoejobs.at/jobs/physical-performance-coach,6840",
+    "ort": "Thalgau, Österreich",
+    "status": "ungeprüft"
+  },
+  "https://jobs.b2venture.vc/companies/onward-medical/jobs/91815478-clinical-science-engineering-intern": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "org": "ONWARD Medical",
+    "role": "Clinical Science Engineering Intern",
+    "url": "https://jobs.b2venture.vc/companies/onward-medical/jobs/91815478-clinical-science-engineering-intern",
+    "ort": "Lausanne, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://www.jobup.ch/en/jobs/detail/1a686ed1-2af3-4fa0-8e2f-4f2b890ea734": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "org": "REHAB Basel",
+    "role": "Wissenschaftliche/r Mitarbeiter/in (SwiSCI-Studie, Neurorehabilitation)",
+    "url": "https://www.jobup.ch/en/jobs/detail/1a686ed1-2af3-4fa0-8e2f-4f2b890ea734",
+    "ort": "Basel, Schweiz",
     "status": "ungeprüft"
   }
 }
