@@ -199,11 +199,11 @@
   },
   "https://www.paraplegie.ch/de/spz/karriere": {
     "first_seen": "2026-09-18",
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-14",
     "org": "Schweizer Paraplegiker-Zentrum Nottwil",
     "role": "Praktikant/in Sporttherapie",
     "url": "https://www.paraplegie.ch/de/spz/karriere",
-    "ort": "Nottwil, CH",
+    "ort": "Nottwil, Schweiz",
     "status": "ungeprüft"
   },
   "https://careers.onwd.com/": {
@@ -505,25 +505,25 @@
   },
   "https://jobs.redbull.com/at-de/sports-data-ai-scientist-ref34421t?lang=en": {
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-14",
     "org": "Red Bull Athlete Performance Center",
     "role": "Sports Data & AI Scientist",
     "url": "https://jobs.redbull.com/at-de/sports-data-ai-scientist-ref34421t?lang=en",
-    "ort": "Thalgau, AT",
+    "ort": "Thalgau, Österreich",
     "status": "ungeprüft"
   },
   "https://www.jobup.ch/en/jobs/detail/2764c851-be16-45a1-bcc3-41060631afa7/": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-12",
-    "org": "Schweizer Paraplegiker-Zentrum Nottwil",
+    "last_seen": "2026-10-14",
+    "org": "REHAB Basel",
     "role": "Praktikant*in Sporttherapie 100%",
     "url": "https://www.jobup.ch/en/jobs/detail/2764c851-be16-45a1-bcc3-41060631afa7/",
-    "ort": "Nottwil, Schweiz",
+    "ort": "Basel, Schweiz",
     "status": "ungeprüft"
   },
   "https://sport-iat.de/fileadmin/user_upload/Stellenausschreibungen/2026-02_Stellenausschreibung_Trainingswissenschaft.pdf": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-14",
     "org": "IAT Leipzig",
     "role": "Stellenausschreibung Trainingswissenschaft",
     "url": "https://sport-iat.de/fileadmin/user_upload/Stellenausschreibungen/2026-02_Stellenausschreibung_Trainingswissenschaft.pdf",
@@ -550,18 +550,18 @@
   },
   "https://www.smartrecruiters.com/MindMaze/743999697265967-biosignal-processing-internship": {
     "first_seen": "2026-10-04",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-14",
     "org": "MindMaze",
-    "role": "Biosignal Processing – Internship (EEG/EMG/ECG, 6-12 Mon.)",
+    "role": "Biosignal Processing &ndash; Internship (EEG/EMG/ECG)",
     "url": "https://www.smartrecruiters.com/MindMaze/743999697265967-biosignal-processing-internship",
     "ort": "Lausanne, Schweiz",
     "status": "ungeprüft"
   },
   "https://jobs.adidas-group.com/job/Herzogenaurach-INTERNSHIP-ATHLETE-SERVICING-%28MFD%29-BY/1253314901": {
     "first_seen": "2026-10-04",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-14",
     "org": "adidas",
-    "role": "Internship – Athlete Servicing (m/f/d)",
+    "role": "Internship &ndash; Athlete Servicing (m/f/d)",
     "url": "https://jobs.adidas-group.com/job/Herzogenaurach-INTERNSHIP-ATHLETE-SERVICING-%28MFD%29-BY/1253314901",
     "ort": "Herzogenaurach, Deutschland",
     "status": "ungeprüft"
@@ -658,7 +658,7 @@
   },
   "https://www.myjob.ch/job/intern-sports-science/2572862": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-10-14",
     "org": "On (Schweiz)",
     "role": "Intern &ndash; Sports Science",
     "url": "https://www.myjob.ch/job/intern-sports-science/2572862",
@@ -802,7 +802,7 @@
   },
   "https://www.jobup.ch/en/jobs/detail/3eeb0e26-0200-4f08-869f-9719237cbd41": {
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-10-14",
     "org": "On (Schweiz)",
     "role": "Intern Performance Diagnostics",
     "url": "https://www.jobup.ch/en/jobs/detail/3eeb0e26-0200-4f08-869f-9719237cbd41",
@@ -811,7 +811,7 @@
   },
   "https://www.oberoejobs.at/jobs/physical-performance-coach,6840": {
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-10-14",
     "org": "Red Bull Athlete Performance Center",
     "role": "Physical Performance Coach",
     "url": "https://www.oberoejobs.at/jobs/physical-performance-coach,6840",
@@ -820,7 +820,7 @@
   },
   "https://jobs.b2venture.vc/companies/onward-medical/jobs/91815478-clinical-science-engineering-intern": {
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-10-14",
     "org": "ONWARD Medical",
     "role": "Clinical Science Engineering Intern",
     "url": "https://jobs.b2venture.vc/companies/onward-medical/jobs/91815478-clinical-science-engineering-intern",
@@ -834,6 +834,24 @@
     "role": "Wissenschaftliche/r Mitarbeiter/in (SwiSCI-Studie, Neurorehabilitation)",
     "url": "https://www.jobup.ch/en/jobs/detail/1a686ed1-2af3-4fa0-8e2f-4f2b890ea734",
     "ort": "Basel, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://www.bsbrandenburg.de/fileadmin/co_theme/Default/Media/PDF/Ausschreibungen/Stellenausschreibung_EZV_TW_Para_CB.pdf": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "org": "Olympiastützpunkt Brandenburg (Paralympisches Zentrum Cottbus)",
+    "role": "Trainingswissenschaftler/in, Elternzeitvertretung (Para)",
+    "url": "https://www.bsbrandenburg.de/fileadmin/co_theme/Default/Media/PDF/Ausschreibungen/Stellenausschreibung_EZV_TW_Para_CB.pdf",
+    "ort": "Cottbus, Deutschland",
+    "status": "ungeprüft"
+  },
+  "https://www.lsb-mv.de/export/sites/lsbmv/MAKO/downloads/2025-Stellenmarkt-Downloads/20250922_Stellenausschreibung-TW-AT-OSP-MV.pdf": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "org": "Olympiastützpunkt Mecklenburg-Vorpommern",
+    "role": "Trainingswissenschaft / Athletiktraining",
+    "url": "https://www.lsb-mv.de/export/sites/lsbmv/MAKO/downloads/2025-Stellenmarkt-Downloads/20250922_Stellenausschreibung-TW-AT-OSP-MV.pdf",
+    "ort": "Rostock, Deutschland",
     "status": "ungeprüft"
   }
 }
