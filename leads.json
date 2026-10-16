@@ -28,7 +28,7 @@
   },
   "https://www.swissolympic.ch/ueber-swiss-olympic/sportjobs": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-16",
     "org": "Swiss Olympic",
     "role": "Sportjobs (Portal, u.a. Praktikum Swiss Olympic Team)",
     "url": "https://www.swissolympic.ch/ueber-swiss-olympic/sportjobs",
@@ -46,7 +46,7 @@
   },
   "https://rehabbasel-career.talent-soft.com/stelle/stelle-praktikum-in-der-sporttherapie-100-m-w-d_279.aspx": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-16",
     "org": "REHAB Basel",
     "role": "Praktikum in der Sporttherapie 100%",
     "url": "https://rehabbasel-career.talent-soft.com/stelle/stelle-praktikum-in-der-sporttherapie-100-m-w-d_279.aspx",
@@ -55,7 +55,7 @@
   },
   "https://www.swiss-ski.ch/ueber-swiss-ski/verband/arbeiten-bei-swiss-ski/praktikum-bei-swiss-ski/": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-16",
     "org": "Swiss-Ski",
     "role": "Praktikum bei Swiss-Ski (Portal)",
     "url": "https://www.swiss-ski.ch/ueber-swiss-ski/verband/arbeiten-bei-swiss-ski/praktikum-bei-swiss-ski/",
@@ -64,7 +64,7 @@
   },
   "https://www.stadt-zuerich.ch/ssd/de/index/departement_schul_sport/jobs/praktikum_ssd.secure.html": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-16",
     "org": "Stadt Zürich, Schul- und Sportdepartement",
     "role": "Praktikum im SSD (Portal, diverse Bereiche)",
     "url": "https://www.stadt-zuerich.ch/ssd/de/index/departement_schul_sport/jobs/praktikum_ssd.secure.html",
@@ -190,9 +190,9 @@
   },
   "https://www.ehsm.admin.ch/de/offene-stellen": {
     "first_seen": "2026-09-18",
-    "last_seen": "2026-10-15",
-    "org": "BASPO/EHSM Magglingen",
-    "role": "Hochschulpraktikum J+S-Ausbildung, Sportarten",
+    "last_seen": "2026-10-16",
+    "org": "EHSM Magglingen",
+    "role": "Offene Stellen / Praktika (Portal)",
     "url": "https://www.ehsm.admin.ch/de/offene-stellen",
     "ort": "Magglingen, CH",
     "status": "ungeprüft"
@@ -514,11 +514,11 @@
   },
   "https://www.jobup.ch/en/jobs/detail/2764c851-be16-45a1-bcc3-41060631afa7/": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-15",
-    "org": "REHAB Basel",
-    "role": "Praktikant*in Sporttherapie 100%",
+    "last_seen": "2026-10-16",
+    "org": "Schweizer Paraplegiker-Zentrum Nottwil",
+    "role": "Praktikant*in Sporttherapie (100%)",
     "url": "https://www.jobup.ch/en/jobs/detail/2764c851-be16-45a1-bcc3-41060631afa7/",
-    "ort": "Basel, Schweiz",
+    "ort": "Nottwil, CH",
     "status": "ungeprüft"
   },
   "https://sport-iat.de/fileadmin/user_upload/Stellenausschreibungen/2026-02_Stellenausschreibung_Trainingswissenschaft.pdf": {
@@ -541,11 +541,11 @@
   },
   "https://www.ostjob.ch/job/praktikant-in-sporttherapie-m-w-a-100/1085847": {
     "first_seen": "2026-10-04",
-    "last_seen": "2026-10-15",
-    "org": "Kliniken Valens",
-    "role": "Praktikant/-in Sporttherapie (m/w/a) 100%",
+    "last_seen": "2026-10-16",
+    "org": "Kliniken Valens (Wald ZH)",
+    "role": "Praktikant/in Sporttherapie (100%)",
     "url": "https://www.ostjob.ch/job/praktikant-in-sporttherapie-m-w-a-100/1085847",
-    "ort": "Valens, Schweiz",
+    "ort": "Wald ZH, CH",
     "status": "ungeprüft"
   },
   "https://www.smartrecruiters.com/MindMaze/743999697265967-biosignal-processing-internship": {
@@ -676,9 +676,9 @@
   },
   "https://www.jobup.ch/en/jobs/detail/36d79c1e-6af5-4ce3-8c27-8cf17c118007": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-16",
     "org": "Universitätsklinik Balgrist",
-    "role": "Laborantin/Laborant für klinische Bewegungsanalyse (60-80%)",
+    "role": "Laborant/in für klinische Bewegungsanalyse (60-80%)",
     "url": "https://www.jobup.ch/en/jobs/detail/36d79c1e-6af5-4ce3-8c27-8cf17c118007",
     "ort": "Zürich, CH",
     "status": "ungeprüft"
@@ -793,9 +793,9 @@
   },
   "https://www.ostjob.ch/job/praktikant-in-sport-und-bewegungstherapie-m-w-a/1101441": {
     "first_seen": "2026-10-11",
-    "last_seen": "2026-10-15",
-    "org": "Kliniken Valens",
-    "role": "Praktikant/-in Sport- und Bewegungstherapie (m/w/a), Klinik Gais",
+    "last_seen": "2026-10-16",
+    "org": "Kliniken Valens (Klinik Gais)",
+    "role": "Praktikant/-in Sport- und Bewegungstherapie (4-6 Monate)",
     "url": "https://www.ostjob.ch/job/praktikant-in-sport-und-bewegungstherapie-m-w-a/1101441",
     "ort": "Gais, CH",
     "status": "ungeprüft"
@@ -852,6 +852,33 @@
     "role": "Trainingswissenschaft / Athletiktraining",
     "url": "https://www.lsb-mv.de/export/sites/lsbmv/MAKO/downloads/2025-Stellenmarkt-Downloads/20250922_Stellenausschreibung-TW-AT-OSP-MV.pdf",
     "ort": "Rostock, Deutschland",
+    "status": "ungeprüft"
+  },
+  "https://www.baspo.admin.ch/de/das-baspo/offene-stellen.html": {
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
+    "org": "BASPO Magglingen",
+    "role": "Offene Stellen (Portal, u.a. Hochschulpraktika)",
+    "url": "https://www.baspo.admin.ch/de/das-baspo/offene-stellen.html",
+    "ort": "Magglingen, CH",
+    "status": "ungeprüft"
+  },
+  "https://sport.uni-mainz.de/files/2026/01/Stellenausschreibung-Praktikum-Nordic-Science.pdf": {
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
+    "org": "Nordic Science (Interdisziplinäres Zentrum für Therapie, Training und Forschung)",
+    "role": "Pflichtpraktikum Sportwissenschaft/Sportmedizin",
+    "url": "https://sport.uni-mainz.de/files/2026/01/Stellenausschreibung-Praktikum-Nordic-Science.pdf",
+    "ort": "Hannover, DE",
+    "status": "ungeprüft"
+  },
+  "https://www.eintracht.com/fileadmin/form_definitions/Pflichtpraktikum_Athletik_%E2%80%93_Grundlagen-_und_Aufbaubereich.pdf": {
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
+    "org": "Eintracht Frankfurt",
+    "role": "Pflichtpraktikum Athletik (NLZ Grundlagen- und Aufbaubereich)",
+    "url": "https://www.eintracht.com/fileadmin/form_definitions/Pflichtpraktikum_Athletik_%E2%80%93_Grundlagen-_und_Aufbaubereich.pdf",
+    "ort": "Frankfurt am Main, DE",
     "status": "ungeprüft"
   }
 }
