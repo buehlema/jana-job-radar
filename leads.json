@@ -28,9 +28,9 @@
   },
   "https://www.swissolympic.ch/ueber-swiss-olympic/sportjobs": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-10-17",
     "org": "Swiss Olympic",
-    "role": "Sportjobs (Portal, u.a. Praktikum Swiss Olympic Team)",
+    "role": "Sportjobs (Portal)",
     "url": "https://www.swissolympic.ch/ueber-swiss-olympic/sportjobs",
     "ort": "Ittigen, CH",
     "status": "ungeprüft"
@@ -190,9 +190,9 @@
   },
   "https://www.ehsm.admin.ch/de/offene-stellen": {
     "first_seen": "2026-09-18",
-    "last_seen": "2026-10-16",
-    "org": "EHSM Magglingen",
-    "role": "Offene Stellen / Praktika (Portal)",
+    "last_seen": "2026-10-17",
+    "org": "EHSM/BASPO Magglingen",
+    "role": "Offene Stellen (Übersicht)",
     "url": "https://www.ehsm.admin.ch/de/offene-stellen",
     "ort": "Magglingen, CH",
     "status": "ungeprüft"
@@ -307,8 +307,8 @@
   },
   "https://jobs.redbull.com/at-de/thalgau-internship-strength-conditioning-ref17550w?lang=en": {
     "first_seen": "2026-09-22",
-    "last_seen": "2026-10-15",
-    "org": "Red Bull Athlete Performance Center",
+    "last_seen": "2026-10-17",
+    "org": "Red Bull Athlete Performance Center Thalgau",
     "role": "Internship Strength & Conditioning",
     "url": "https://jobs.redbull.com/at-de/thalgau-internship-strength-conditioning-ref17550w?lang=en",
     "ort": "Thalgau, AT",
@@ -361,9 +361,9 @@
   },
   "https://jobs.balgrist.ch/offene-stellen/sporttherapeut-in-w-m-d/e36f3c33-462d-44ca-8397-6e18af03497b": {
     "first_seen": "2026-09-23",
-    "last_seen": "2026-10-15",
-    "org": "Universitätsklinik Balgrist",
-    "role": "Sporttherapeut/in (w/m/d) 60%",
+    "last_seen": "2026-10-17",
+    "org": "Balgrist",
+    "role": "Sporttherapeut/in (w/m/d)",
     "url": "https://jobs.balgrist.ch/offene-stellen/sporttherapeut-in-w-m-d/e36f3c33-462d-44ca-8397-6e18af03497b",
     "ort": "Zürich, CH",
     "status": "ungeprüft"
@@ -514,9 +514,9 @@
   },
   "https://www.jobup.ch/en/jobs/detail/2764c851-be16-45a1-bcc3-41060631afa7/": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-10-17",
     "org": "Schweizer Paraplegiker-Zentrum Nottwil",
-    "role": "Praktikant*in Sporttherapie (100%)",
+    "role": "Praktikant*in Sporttherapie 100%",
     "url": "https://www.jobup.ch/en/jobs/detail/2764c851-be16-45a1-bcc3-41060631afa7/",
     "ort": "Nottwil, CH",
     "status": "ungeprüft"
@@ -541,29 +541,29 @@
   },
   "https://www.ostjob.ch/job/praktikant-in-sporttherapie-m-w-a-100/1085847": {
     "first_seen": "2026-10-04",
-    "last_seen": "2026-10-16",
-    "org": "Kliniken Valens (Wald ZH)",
-    "role": "Praktikant/in Sporttherapie (100%)",
+    "last_seen": "2026-10-17",
+    "org": "Kliniken Valens",
+    "role": "Praktikant/-in Sporttherapie 100%",
     "url": "https://www.ostjob.ch/job/praktikant-in-sporttherapie-m-w-a-100/1085847",
     "ort": "Wald ZH, CH",
     "status": "ungeprüft"
   },
   "https://www.smartrecruiters.com/MindMaze/743999697265967-biosignal-processing-internship": {
     "first_seen": "2026-10-04",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-17",
     "org": "MindMaze",
-    "role": "Biosignal Processing – Internship (EEG/EMG/ECG)",
+    "role": "Biosignal Processing Internship",
     "url": "https://www.smartrecruiters.com/MindMaze/743999697265967-biosignal-processing-internship",
-    "ort": "Lausanne, Schweiz",
+    "ort": "Lausanne/Zürich, CH",
     "status": "ungeprüft"
   },
   "https://jobs.adidas-group.com/job/Herzogenaurach-INTERNSHIP-ATHLETE-SERVICING-%28MFD%29-BY/1253314901": {
     "first_seen": "2026-10-04",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-17",
     "org": "adidas",
-    "role": "Internship – Athlete Servicing (m/f/d)",
+    "role": "Internship Athlete Servicing (m/f/d)",
     "url": "https://jobs.adidas-group.com/job/Herzogenaurach-INTERNSHIP-ATHLETE-SERVICING-%28MFD%29-BY/1253314901",
-    "ort": "Herzogenaurach, Deutschland",
+    "ort": "Herzogenaurach, DE",
     "status": "ungeprüft"
   },
   "https://www.campus-career.ch/jobs/details/?no_cache=1&tx_campusjobs_jobsearch%5Bcontroller%5D=Job&tx_campusjobs_jobsearch%5Baction%5D=detail": {
@@ -658,11 +658,11 @@
   },
   "https://www.myjob.ch/job/intern-sports-science/2572862": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-15",
-    "org": "On (Schweiz)",
-    "role": "Intern – Sports Science",
+    "last_seen": "2026-10-17",
+    "org": "On (Running)",
+    "role": "Intern Sports Science",
     "url": "https://www.myjob.ch/job/intern-sports-science/2572862",
-    "ort": "Zürich, Schweiz",
+    "ort": "Zürich, CH",
     "status": "ungeprüft"
   },
   "https://builtin.com/job/run-perception-graduate-internship-run-research-team-january-2026/7303420": {
@@ -703,11 +703,11 @@
   },
   "https://dsbg.unibas.ch/fileadmin/user_upload/dsbg/Praktikant_Sporttherapie_Schulthess_Klinik_2026.pdf": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-15",
-    "org": "Schulthess Klinik",
+    "last_seen": "2026-10-17",
+    "org": "Schulthess Klinik (Swiss Olympic Medical Center)",
     "role": "Praktikant/in Sporttherapie 2026",
     "url": "https://dsbg.unibas.ch/fileadmin/user_upload/dsbg/Praktikant_Sporttherapie_Schulthess_Klinik_2026.pdf",
-    "ort": "Zürich, Schweiz",
+    "ort": "Zürich, CH",
     "status": "ungeprüft"
   },
   "https://www.ehsm.admin.ch/en/internship-sports-physiology": {
@@ -721,11 +721,11 @@
   },
   "https://www.iagora.com/work/de/angebot/job-schweiz-forschung/6327374": {
     "first_seen": "2026-10-08",
-    "last_seen": "2026-10-15",
-    "org": "On (On Switzerland)",
-    "role": "Specialist – Sports Science (Innovation, Running & Multidirectional)",
+    "last_seen": "2026-10-17",
+    "org": "On (Running)",
+    "role": "Specialist Sports Science (Innovation)",
     "url": "https://www.iagora.com/work/de/angebot/job-schweiz-forschung/6327374",
-    "ort": "Zürich, Schweiz",
+    "ort": "Zürich, CH",
     "status": "ungeprüft"
   },
   "https://asvz.ch/sites/default/files/imce/documents/_%C3%9CBER%20ASVZ/Stellenausschreibung%20HochschulsportlehrerIn%202026.pdf": {
@@ -739,20 +739,20 @@
   },
   "https://about.puma.com/en/jobs/junior-research-sport-science-manager-innovation-footwear-r33627": {
     "first_seen": "2026-10-08",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-17",
     "org": "PUMA",
-    "role": "Junior Research & Sport Science Manager, Innovation Footwear",
+    "role": "Junior Research Sport Science Manager, Innovation Footwear",
     "url": "https://about.puma.com/en/jobs/junior-research-sport-science-manager-innovation-footwear-r33627",
-    "ort": "Somerville, USA",
+    "ort": "Herzogenaurach, DE",
     "status": "ungeprüft"
   },
   "https://about.puma.com/en/jobs/research-sports-science-lab-assistant-temp-r39900": {
     "first_seen": "2026-10-08",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-17",
     "org": "PUMA",
-    "role": "Research & Sports Science Lab Assistant (temporär)",
+    "role": "Research Sports Science Lab Assistant (temp)",
     "url": "https://about.puma.com/en/jobs/research-sports-science-lab-assistant-temp-r39900",
-    "ort": "Somerville, USA",
+    "ort": "Somerville, US",
     "status": "ungeprüft"
   },
   "https://dsbg.unibas.ch/fileadmin/user_upload/dsbg/Stellenausschreibungen/Crossklinik_AusschreibungPraktikumsstelle.pdf": {
@@ -820,11 +820,11 @@
   },
   "https://jobs.b2venture.vc/companies/onward-medical/jobs/91815478-clinical-science-engineering-intern": {
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-17",
     "org": "ONWARD Medical",
-    "role": "Clinical Science Engineering Intern",
+    "role": "Clinical Science & Engineering Intern",
     "url": "https://jobs.b2venture.vc/companies/onward-medical/jobs/91815478-clinical-science-engineering-intern",
-    "ort": "Lausanne, Schweiz",
+    "ort": "Lausanne, CH",
     "status": "ungeprüft"
   },
   "https://www.jobup.ch/en/jobs/detail/1a686ed1-2af3-4fa0-8e2f-4f2b890ea734": {
@@ -879,6 +879,42 @@
     "role": "Pflichtpraktikum Athletik (NLZ Grundlagen- und Aufbaubereich)",
     "url": "https://www.eintracht.com/fileadmin/form_definitions/Pflichtpraktikum_Athletik_%E2%80%93_Grundlagen-_und_Aufbaubereich.pdf",
     "ort": "Frankfurt am Main, DE",
+    "status": "ungeprüft"
+  },
+  "https://jobs.adidas-group.com/job/Herzogenaurach-INTERNSHIP-ATHLETE-SERVICING-%28MFD%29-BY/1171994801": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "org": "adidas",
+    "role": "Internship Athlete Servicing (m/f/d) – weitere Ausschreibung",
+    "url": "https://jobs.adidas-group.com/job/Herzogenaurach-INTERNSHIP-ATHLETE-SERVICING-%28MFD%29-BY/1171994801",
+    "ort": "Herzogenaurach, DE",
+    "status": "ungeprüft"
+  },
+  "https://jobup.ch/en/jobs/detail/cb443d67-c117-4ee3-b2bf-3ac859dd0d49": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "org": "Kliniken Valens (Klinik Gais)",
+    "role": "Praktikant/in Sport- und Bewegungstherapie 80-100%",
+    "url": "https://jobup.ch/en/jobs/detail/cb443d67-c117-4ee3-b2bf-3ac859dd0d49",
+    "ort": "Gais, CH",
+    "status": "ungeprüft"
+  },
+  "https://jobup.ch/en/jobs/detail/a4e93165-ce56-4a32-8e87-5a0a02cc63bb": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "org": "Rehazentrum Valens",
+    "role": "Sporttherapeut/-in klinische Sporttherapie 40-60%",
+    "url": "https://jobup.ch/en/jobs/detail/a4e93165-ce56-4a32-8e87-5a0a02cc63bb",
+    "ort": "Valens, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.sport.stadt.sg.ch/news/stsg_sport/2026/05/praktikum.html": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "org": "Stadt St. Gallen, Sportamt",
+    "role": "Praktikum Marketing & Events (ab 1.9.2026)",
+    "url": "https://www.sport.stadt.sg.ch/news/stsg_sport/2026/05/praktikum.html",
+    "ort": "St. Gallen, CH",
     "status": "ungeprüft"
   }
 }
