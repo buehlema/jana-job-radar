@@ -676,11 +676,11 @@
   },
   "https://www.jobup.ch/en/jobs/detail/36d79c1e-6af5-4ce3-8c27-8cf17c118007": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-10-18",
     "org": "Universitätsklinik Balgrist",
-    "role": "Laborant/in für klinische Bewegungsanalyse (60-80%)",
+    "role": "Laborant/in für klinische Bewegungsanalyse (60–80%)",
     "url": "https://www.jobup.ch/en/jobs/detail/36d79c1e-6af5-4ce3-8c27-8cf17c118007",
-    "ort": "Zürich, CH",
+    "ort": "Zürich, Schweiz",
     "status": "ungeprüft"
   },
   "https://www.jobup.ch/en/jobs/detail/0a45882c-7f33-47f2-bdd8-fecf721d51cf": {
@@ -811,7 +811,7 @@
   },
   "https://www.oberoejobs.at/jobs/physical-performance-coach,6840": {
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-18",
     "org": "Red Bull Athlete Performance Center",
     "role": "Physical Performance Coach",
     "url": "https://www.oberoejobs.at/jobs/physical-performance-coach,6840",
@@ -915,6 +915,33 @@
     "role": "Praktikum Marketing & Events (ab 1.9.2026)",
     "url": "https://www.sport.stadt.sg.ch/news/stsg_sport/2026/05/praktikum.html",
     "ort": "St. Gallen, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.iagora.com/work/en/internships/at-On_Running-30980": {
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "org": "On Running",
+    "role": "Sports Science Intern (Human-Centred Testing, Innovation/R&D)",
+    "url": "https://www.iagora.com/work/en/internships/at-On_Running-30980",
+    "ort": "Zürich, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://www.dsv.de/_cache/downloads/8710-9d137defb5/cms/02-Aktuelles/Offene-Stellen/Downloads/Stellenausschreibung_Bewegungswisssenschaftler-Athletiktrainer_OSP_Sachsen-Anhalt.pdf": {
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "org": "Olympiastützpunkt Sachsen-Anhalt",
+    "role": "Bewegungswissenschaftler/in – Athletiktrainer/in",
+    "url": "https://www.dsv.de/_cache/downloads/8710-9d137defb5/cms/02-Aktuelles/Offene-Stellen/Downloads/Stellenausschreibung_Bewegungswisssenschaftler-Athletiktrainer_OSP_Sachsen-Anhalt.pdf",
+    "ort": "Halle (Saale), Deutschland",
+    "status": "ungeprüft"
+  },
+  "https://www.swiss-ski.ch": {
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "org": "Swiss-Ski",
+    "role": "Neue Abteilung „Health & Performance“ (Leitung Prof. Jörg Spörri, ex-Balgrist) – noch keine konkrete Stelle gefunden, Rekrutierung evtl. bevorstehend",
+    "url": "https://www.swiss-ski.ch",
+    "ort": "Ittigen/Bern, Schweiz",
     "status": "ungeprüft"
   }
 }
