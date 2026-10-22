@@ -523,11 +523,11 @@
   },
   "https://sport-iat.de/fileadmin/user_upload/Stellenausschreibungen/2026-02_Stellenausschreibung_Trainingswissenschaft.pdf": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-21",
-    "org": "IAT Leipzig",
-    "role": "Stellenausschreibung Trainingswissenschaft",
+    "last_seen": "2026-10-22",
+    "org": "IAT / OSP Sachsen",
+    "role": "Trainingswissenschaft(ler/in)",
     "url": "https://sport-iat.de/fileadmin/user_upload/Stellenausschreibungen/2026-02_Stellenausschreibung_Trainingswissenschaft.pdf",
-    "ort": "Leipzig, Deutschland",
+    "ort": "Leipzig/Dresden, Deutschland",
     "status": "ungeprüft"
   },
   "https://www.bewegungsanalysezuerich.ch": {
@@ -658,11 +658,11 @@
   },
   "https://www.myjob.ch/job/intern-sports-science/2572862": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-21",
-    "org": "On (Running)",
-    "role": "Intern Sports Science",
+    "last_seen": "2026-10-22",
+    "org": "On (On Running)",
+    "role": "Intern, Sports Science",
     "url": "https://www.myjob.ch/job/intern-sports-science/2572862",
-    "ort": "Zürich, CH",
+    "ort": "Zürich, Schweiz",
     "status": "ungeprüft"
   },
   "https://builtin.com/job/run-perception-graduate-internship-run-research-team-january-2026/7303420": {
@@ -676,7 +676,7 @@
   },
   "https://www.jobup.ch/en/jobs/detail/36d79c1e-6af5-4ce3-8c27-8cf17c118007": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-22",
     "org": "Universitätsklinik Balgrist",
     "role": "Laborant/in für klinische Bewegungsanalyse (60–80%)",
     "url": "https://www.jobup.ch/en/jobs/detail/36d79c1e-6af5-4ce3-8c27-8cf17c118007",
@@ -811,7 +811,7 @@
   },
   "https://www.oberoejobs.at/jobs/physical-performance-coach,6840": {
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-22",
     "org": "Red Bull Athlete Performance Center",
     "role": "Physical Performance Coach",
     "url": "https://www.oberoejobs.at/jobs/physical-performance-coach,6840",
@@ -838,20 +838,20 @@
   },
   "https://www.bsbrandenburg.de/fileadmin/co_theme/Default/Media/PDF/Ausschreibungen/Stellenausschreibung_EZV_TW_Para_CB.pdf": {
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-21",
-    "org": "Olympiastützpunkt Brandenburg (Paralympisches Zentrum Cottbus)",
-    "role": "Trainingswissenschaftler/in, Elternzeitvertretung (Para)",
+    "last_seen": "2026-10-22",
+    "org": "Olympiastützpunkt Brandenburg",
+    "role": "Trainingswissenschaftler/in Parasport (Elternzeitvertretung)",
     "url": "https://www.bsbrandenburg.de/fileadmin/co_theme/Default/Media/PDF/Ausschreibungen/Stellenausschreibung_EZV_TW_Para_CB.pdf",
     "ort": "Cottbus, Deutschland",
     "status": "ungeprüft"
   },
   "https://www.lsb-mv.de/export/sites/lsbmv/MAKO/downloads/2025-Stellenmarkt-Downloads/20250922_Stellenausschreibung-TW-AT-OSP-MV.pdf": {
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-22",
     "org": "Olympiastützpunkt Mecklenburg-Vorpommern",
     "role": "Trainingswissenschaft / Athletiktraining",
     "url": "https://www.lsb-mv.de/export/sites/lsbmv/MAKO/downloads/2025-Stellenmarkt-Downloads/20250922_Stellenausschreibung-TW-AT-OSP-MV.pdf",
-    "ort": "Rostock, Deutschland",
+    "ort": "Mecklenburg-Vorpommern, Deutschland",
     "status": "ungeprüft"
   },
   "https://www.baspo.admin.ch/de/das-baspo/offene-stellen.html": {
@@ -987,6 +987,15 @@
     "role": "Performance Psychologist (mentale Diagnostik & Training für Spitzensportler:innen)",
     "url": "https://jobs.redbull.com/at-de/performance-psychologist-ref33016w",
     "ort": "Thalgau, Österreich",
+    "status": "ungeprüft"
+  },
+  "https://www.dshs-koeln.de/uploads/tx_mshjobboerse/30972_Trainingswissenschaftler_OSP_Westfalen_mwd_00882771fec77a26f4541e27d550ee00_1756136624.pdf": {
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "org": "Olympiastützpunkt Westfalen",
+    "role": "Trainingswissenschaftler/in",
+    "url": "https://www.dshs-koeln.de/uploads/tx_mshjobboerse/30972_Trainingswissenschaftler_OSP_Westfalen_mwd_00882771fec77a26f4541e27d550ee00_1756136624.pdf",
+    "ort": "Westfalen, Deutschland",
     "status": "ungeprüft"
   }
 }
