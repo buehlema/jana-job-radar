@@ -658,7 +658,7 @@
   },
   "https://www.myjob.ch/job/intern-sports-science/2572862": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-23",
     "org": "On (On Running)",
     "role": "Intern, Sports Science",
     "url": "https://www.myjob.ch/job/intern-sports-science/2572862",
@@ -694,11 +694,11 @@
   },
   "https://www.jobup.ch/en/jobs/detail/24515063-9cf8-4e7a-962f-70c7262199f2": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-23",
     "org": "REHAB Basel",
-    "role": "Wissenschaftliche Mitarbeiterin / Study Coordinator (80%, Start März 2026)",
+    "role": "Wissenschaftliche/r Mitarbeiter/in & Studienkoordination (80%), Neurorehabilitation",
     "url": "https://www.jobup.ch/en/jobs/detail/24515063-9cf8-4e7a-962f-70c7262199f2",
-    "ort": "Basel, CH",
+    "ort": "Basel, Schweiz",
     "status": "ungeprüft"
   },
   "https://dsbg.unibas.ch/fileadmin/user_upload/dsbg/Praktikant_Sporttherapie_Schulthess_Klinik_2026.pdf": {
@@ -730,7 +730,7 @@
   },
   "https://asvz.ch/sites/default/files/imce/documents/_%C3%9CBER%20ASVZ/Stellenausschreibung%20HochschulsportlehrerIn%202026.pdf": {
     "first_seen": "2026-10-08",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-23",
     "org": "ASVZ (Akademischer Sportverband Zürich)",
     "role": "Hochschulsportlehrer:in",
     "url": "https://asvz.ch/sites/default/files/imce/documents/_%C3%9CBER%20ASVZ/Stellenausschreibung%20HochschulsportlehrerIn%202026.pdf",
@@ -996,6 +996,24 @@
     "role": "Trainingswissenschaftler/in",
     "url": "https://www.dshs-koeln.de/uploads/tx_mshjobboerse/30972_Trainingswissenschaftler_OSP_Westfalen_mwd_00882771fec77a26f4541e27d550ee00_1756136624.pdf",
     "ort": "Westfalen, Deutschland",
+    "status": "ungeprüft"
+  },
+  "https://www.psychjob.ch/jobs/lehre-forschung/basel-stadt": {
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "org": "Universität Basel",
+    "role": "Forschungspraktikum \"Körperliche Aktivität und Kognition\" (ab September 2026)",
+    "url": "https://www.psychjob.ch/jobs/lehre-forschung/basel-stadt",
+    "ort": "Basel, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://www.swissolympic.ch/dam/jcr:e2c869a1-4d30-40f8-91f4-c6e184e93889/260604_Stelleninserat_Praktikum_SOT%20(DE).pdf": {
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "org": "Swiss Olympic",
+    "role": "Praktikum Sportmanagement / Athlete Hub (12 Monate, ab 1.10.2026)",
+    "url": "https://www.swissolympic.ch/dam/jcr:e2c869a1-4d30-40f8-91f4-c6e184e93889/260604_Stelleninserat_Praktikum_SOT%20(DE).pdf",
+    "ort": "Ittigen, Schweiz",
     "status": "ungeprüft"
   }
 }
