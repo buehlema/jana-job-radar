@@ -28,7 +28,7 @@
   },
   "https://www.swissolympic.ch/ueber-swiss-olympic/sportjobs": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-25",
     "org": "Swiss Olympic",
     "role": "Sportjobs (Portal)",
     "url": "https://www.swissolympic.ch/ueber-swiss-olympic/sportjobs",
@@ -46,7 +46,7 @@
   },
   "https://rehabbasel-career.talent-soft.com/stelle/stelle-praktikum-in-der-sporttherapie-100-m-w-d_279.aspx": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-25",
     "org": "REHAB Basel",
     "role": "Praktikum in der Sporttherapie 100%",
     "url": "https://rehabbasel-career.talent-soft.com/stelle/stelle-praktikum-in-der-sporttherapie-100-m-w-d_279.aspx",
@@ -55,7 +55,7 @@
   },
   "https://www.swiss-ski.ch/ueber-swiss-ski/verband/arbeiten-bei-swiss-ski/praktikum-bei-swiss-ski/": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-25",
     "org": "Swiss-Ski",
     "role": "Praktikum bei Swiss-Ski (Portal)",
     "url": "https://www.swiss-ski.ch/ueber-swiss-ski/verband/arbeiten-bei-swiss-ski/praktikum-bei-swiss-ski/",
@@ -514,11 +514,11 @@
   },
   "https://www.jobup.ch/en/jobs/detail/2764c851-be16-45a1-bcc3-41060631afa7/": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-25",
     "org": "Schweizer Paraplegiker-Zentrum Nottwil",
     "role": "Praktikant*in Sporttherapie 100%",
     "url": "https://www.jobup.ch/en/jobs/detail/2764c851-be16-45a1-bcc3-41060631afa7/",
-    "ort": "Nottwil, Schweiz",
+    "ort": "Nottwil, CH",
     "status": "ungeprüft"
   },
   "https://sport-iat.de/fileadmin/user_upload/Stellenausschreibungen/2026-02_Stellenausschreibung_Trainingswissenschaft.pdf": {
@@ -856,7 +856,7 @@
   },
   "https://www.baspo.admin.ch/de/das-baspo/offene-stellen.html": {
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-25",
     "org": "BASPO Magglingen",
     "role": "Offene Stellen (Portal, u.a. Hochschulpraktika)",
     "url": "https://www.baspo.admin.ch/de/das-baspo/offene-stellen.html",
@@ -919,11 +919,11 @@
   },
   "https://www.iagora.com/work/en/internships/at-On_Running-30980": {
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-25",
     "org": "On Running",
     "role": "Sports Science Intern (Human-Centred Testing, Innovation/R&D)",
     "url": "https://www.iagora.com/work/en/internships/at-On_Running-30980",
-    "ort": "Zürich, Schweiz",
+    "ort": "Zürich, CH",
     "status": "ungeprüft"
   },
   "https://www.dsv.de/_cache/downloads/8710-9d137defb5/cms/02-Aktuelles/Offene-Stellen/Downloads/Stellenausschreibung_Bewegungswisssenschaftler-Athletiktrainer_OSP_Sachsen-Anhalt.pdf": {
@@ -1009,11 +1009,11 @@
   },
   "https://www.swissolympic.ch/dam/jcr:e2c869a1-4d30-40f8-91f4-c6e184e93889/260604_Stelleninserat_Praktikum_SOT%20(DE).pdf": {
     "first_seen": "2026-10-23",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-25",
     "org": "Swiss Olympic",
     "role": "Praktikum Sportmanagement / Athlete Hub (12 Monate, ab 1.10.2026)",
     "url": "https://www.swissolympic.ch/dam/jcr:e2c869a1-4d30-40f8-91f4-c6e184e93889/260604_Stelleninserat_Praktikum_SOT%20(DE).pdf",
-    "ort": "Ittigen, Schweiz",
+    "ort": "Ittigen, CH",
     "status": "ungeprüft"
   }
 }
