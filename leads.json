@@ -658,9 +658,9 @@
   },
   "https://www.myjob.ch/job/intern-sports-science/2572862": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
     "org": "On (On Running)",
-    "role": "Intern, Sports Science",
+    "role": "Intern – Sports Science",
     "url": "https://www.myjob.ch/job/intern-sports-science/2572862",
     "ort": "Zürich, CH",
     "status": "ungeprüft"
@@ -712,11 +712,11 @@
   },
   "https://www.ehsm.admin.ch/en/internship-sports-physiology": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-28",
-    "org": "BASPO/EHSM Magglingen",
+    "last_seen": "2026-10-29",
+    "org": "BASPO / EHSM Magglingen",
     "role": "Praktikum Sportphysiologie",
     "url": "https://www.ehsm.admin.ch/en/internship-sports-physiology",
-    "ort": "Magglingen, Schweiz",
+    "ort": "Magglingen, CH",
     "status": "ungeprüft"
   },
   "https://www.iagora.com/work/de/angebot/job-schweiz-forschung/6327374": {
@@ -784,18 +784,18 @@
   },
   "https://www.jobup.ch/en/jobs/detail/0dc4b821-342c-4f52-9448-e76bca0bc08b": {
     "first_seen": "2026-10-11",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
     "org": "Schweizer Paraplegiker-Forschung (SPF)",
-    "role": "Wissenschaftliche*r Mitarbeiter*in 60%",
+    "role": "Wissenschaftliche/-r Mitarbeiter/-in 60%",
     "url": "https://www.jobup.ch/en/jobs/detail/0dc4b821-342c-4f52-9448-e76bca0bc08b",
-    "ort": "Nottwil, Schweiz",
+    "ort": "Nottwil, CH",
     "status": "ungeprüft"
   },
   "https://www.ostjob.ch/job/praktikant-in-sport-und-bewegungstherapie-m-w-a/1101441": {
     "first_seen": "2026-10-11",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
     "org": "Kliniken Valens (Klinik Gais)",
-    "role": "Praktikant/-in Sport- und Bewegungstherapie (4-6 Monate)",
+    "role": "Praktikant/-in Sport- und Bewegungstherapie",
     "url": "https://www.ostjob.ch/job/praktikant-in-sport-und-bewegungstherapie-m-w-a/1101441",
     "ort": "Gais, CH",
     "status": "ungeprüft"
@@ -811,11 +811,11 @@
   },
   "https://www.oberoejobs.at/jobs/physical-performance-coach,6840": {
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
     "org": "Red Bull Athlete Performance Center",
     "role": "Physical Performance Coach",
     "url": "https://www.oberoejobs.at/jobs/physical-performance-coach,6840",
-    "ort": "Thalgau, Österreich",
+    "ort": "Thalgau, AT",
     "status": "ungeprüft"
   },
   "https://jobs.b2venture.vc/companies/onward-medical/jobs/91815478-clinical-science-engineering-intern": {
@@ -1014,6 +1014,42 @@
     "role": "Praktikum Sportmanagement / Athlete Hub (12 Monate, ab 1.10.2026)",
     "url": "https://www.swissolympic.ch/dam/jcr:e2c869a1-4d30-40f8-91f4-c6e184e93889/260604_Stelleninserat_Praktikum_SOT%20(DE).pdf",
     "ort": "Ittigen, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.ehsm.admin.ch/en/sports-psychology-research-internship-on-mental-health": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "org": "BASPO / EHSM Magglingen",
+    "role": "Forschungspraktikum Sportpsychologie (Mental Health)",
+    "url": "https://www.ehsm.admin.ch/en/sports-psychology-research-internship-on-mental-health",
+    "ort": "Magglingen, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.ehsm.admin.ch/en/student-internships": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "org": "BASPO / EHSM Magglingen",
+    "role": "Studentische Praktika (Übersicht)",
+    "url": "https://www.ehsm.admin.ch/en/student-internships",
+    "ort": "Magglingen, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.jobs.ch/en/vacancies/detail/2764c851-be16-45a1-bcc3-41060631afa7/": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "org": "Schweizer Paraplegiker-Zentrum Nottwil",
+    "role": "Praktikant*in Sporttherapie",
+    "url": "https://www.jobs.ch/en/vacancies/detail/2764c851-be16-45a1-bcc3-41060631afa7/",
+    "ort": "Nottwil, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.mysportscience.com/vacancies": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "org": "Red Bull APC (mysportscience)",
+    "role": "Vacancies-Portal",
+    "url": "https://www.mysportscience.com/vacancies",
+    "ort": "Thalgau, AT",
     "status": "ungeprüft"
   }
 }
