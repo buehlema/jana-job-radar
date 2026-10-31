@@ -28,7 +28,7 @@
   },
   "https://www.swissolympic.ch/ueber-swiss-olympic/sportjobs": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-31",
     "org": "Swiss Olympic",
     "role": "Sportjobs (Portal)",
     "url": "https://www.swissolympic.ch/ueber-swiss-olympic/sportjobs",
@@ -190,7 +190,7 @@
   },
   "https://www.ehsm.admin.ch/de/offene-stellen": {
     "first_seen": "2026-09-18",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-31",
     "org": "EHSM/BASPO Magglingen",
     "role": "Offene Stellen (Übersicht)",
     "url": "https://www.ehsm.admin.ch/de/offene-stellen",
@@ -208,16 +208,16 @@
   },
   "https://careers.onwd.com/": {
     "first_seen": "2026-09-18",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-31",
     "org": "ONWARD Medical",
     "role": "Offene Stellen (Portal, Neurotech Rückenmarksverletzung)",
     "url": "https://careers.onwd.com/",
-    "ort": "Eindhoven/Lausanne",
+    "ort": "Lausanne, CH / Eindhoven, NL",
     "status": "ungeprüft"
   },
   "https://www.hocoma.com/us/hocoma/jobs/": {
     "first_seen": "2026-09-18",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-31",
     "org": "Hocoma",
     "role": "Offene Stellen (Portal, Reha-Technologie)",
     "url": "https://www.hocoma.com/us/hocoma/jobs/",
@@ -271,11 +271,11 @@
   },
   "https://stellen.kispi-jobs.ch/offene-stellen/praktikantin-forschung-und-robotik-untere-extremitaet-m-w/ac520b1d-8bc3-4dd1-8a14-52001077c93f": {
     "first_seen": "2026-09-21",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-31",
     "org": "Kinder-Reha Affoltern (Kinderspital Zürich)",
-    "role": "Praktikantin Forschung und Robotik untere Extremität (Start Jan. 2026, ETH Bewegungswiss./Neuroscience)",
+    "role": "Praktikantin Forschung und Robotik untere Extremität",
     "url": "https://stellen.kispi-jobs.ch/offene-stellen/praktikantin-forschung-und-robotik-untere-extremitaet-m-w/ac520b1d-8bc3-4dd1-8a14-52001077c93f",
-    "ort": "Affoltern am Albis, CH",
+    "ort": "Affoltern a.A., CH",
     "status": "ungeprüft"
   },
   "https://www.ehsm.admin.ch/de/ehsm/studentische-praktika/trainingswissenschaft.html": {
@@ -307,8 +307,8 @@
   },
   "https://jobs.redbull.com/at-de/thalgau-internship-strength-conditioning-ref17550w?lang=en": {
     "first_seen": "2026-09-22",
-    "last_seen": "2026-10-28",
-    "org": "Red Bull Athlete Performance Center Thalgau",
+    "last_seen": "2026-10-31",
+    "org": "Red Bull Athlete Performance Center",
     "role": "Internship Strength & Conditioning",
     "url": "https://jobs.redbull.com/at-de/thalgau-internship-strength-conditioning-ref17550w?lang=en",
     "ort": "Thalgau, AT",
@@ -316,7 +316,7 @@
   },
   "https://jobs.redbull.com/at-de/thalgau-athlete-operations-coordinator-ref22255b": {
     "first_seen": "2026-09-22",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-31",
     "org": "Red Bull Athlete Performance Center",
     "role": "Athlete Operations Coordinator",
     "url": "https://jobs.redbull.com/at-de/thalgau-athlete-operations-coordinator-ref22255b",
@@ -325,9 +325,9 @@
   },
   "https://www.jobteaser.com/en/job-offers/e9af533e-9568-4c9d-b14d-b2de5a13ddd8-adidas-ag-internship-athlete-science-m-f-d": {
     "first_seen": "2026-09-22",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-31",
     "org": "adidas",
-    "role": "Internship Athlete Science (m/f/d) — Vorjahresausschreibung, laut adidas-Karriereseite Bewerbungsfrist für nächste Runde (Start März 2027) im Okt. 2026",
+    "role": "Internship Athlete Science (m/f/d)",
     "url": "https://www.jobteaser.com/en/job-offers/e9af533e-9568-4c9d-b14d-b2de5a13ddd8-adidas-ag-internship-athlete-science-m-f-d",
     "ort": "Herzogenaurach, DE",
     "status": "ungeprüft"
@@ -361,9 +361,9 @@
   },
   "https://jobs.balgrist.ch/offene-stellen/sporttherapeut-in-w-m-d/e36f3c33-462d-44ca-8397-6e18af03497b": {
     "first_seen": "2026-09-23",
-    "last_seen": "2026-10-28",
-    "org": "Balgrist",
-    "role": "Sporttherapeut/in (w/m/d)",
+    "last_seen": "2026-10-31",
+    "org": "Universitätsklinik Balgrist",
+    "role": "Sporttherapeut/in",
     "url": "https://jobs.balgrist.ch/offene-stellen/sporttherapeut-in-w-m-d/e36f3c33-462d-44ca-8397-6e18af03497b",
     "ort": "Zürich, CH",
     "status": "ungeprüft"
@@ -379,7 +379,7 @@
   },
   "https://jobs.smartrecruiters.com/MindMaze/743999677754896-biosignal-processing-internship": {
     "first_seen": "2026-09-24",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-31",
     "org": "MindMaze",
     "role": "Biosignal Processing – Internship",
     "url": "https://jobs.smartrecruiters.com/MindMaze/743999677754896-biosignal-processing-internship",
@@ -397,7 +397,7 @@
   },
   "https://jobs.smartrecruiters.com/MindMaze/743999683696751-applied-neuro-engineering-internship": {
     "first_seen": "2026-09-25",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-31",
     "org": "MindMaze",
     "role": "Applied Neuro-Engineering – Internship",
     "url": "https://jobs.smartrecruiters.com/MindMaze/743999683696751-applied-neuro-engineering-internship",
@@ -406,16 +406,16 @@
   },
   "https://www.swiss-athletics.ch/newsroom/artikel/offene-stelle-sportwissenschaftlerin-80-100": {
     "first_seen": "2026-09-26",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-31",
     "org": "Swiss Athletics",
     "role": "Sportwissenschaftler/in (80–100%)",
     "url": "https://www.swiss-athletics.ch/newsroom/artikel/offene-stelle-sportwissenschaftlerin-80-100",
-    "ort": "Ittigen/Bern, CH",
+    "ort": "Bern, CH",
     "status": "ungeprüft"
   },
   "https://cereneo.ch/jobs-and-careers/open-positions/": {
     "first_seen": "2026-09-29",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-31",
     "org": "cereneo Schweiz",
     "role": "Offene Stellen (Portal, Neurorehabilitation)",
     "url": "https://cereneo.ch/jobs-and-careers/open-positions/",
@@ -433,20 +433,20 @@
   },
   "https://www.jobs.ch/de/stellenangebote/detail/92915a63-9621-48be-bacf-3b9b9db64b78/": {
     "first_seen": "2026-09-30",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-31",
     "org": "Kanton Luzern, Dienststelle Gesundheit und Sport",
-    "role": "Praktikant/in Sportförderung (a), 100%, ab 1.8.2026",
+    "role": "Praktikant/in Sportförderung (100%)",
     "url": "https://www.jobs.ch/de/stellenangebote/detail/92915a63-9621-48be-bacf-3b9b9db64b78/",
     "ort": "Luzern, CH",
     "status": "ungeprüft"
   },
   "https://www.jobs.ch/de/stellenangebote/detail/ad4cb919-1fe2-4763-83da-5c17408c1da7/": {
     "first_seen": "2026-09-30",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-31",
     "org": "Swiss Olympic",
-    "role": "Praktikant*in Olympische Missionen (80–100%, ab 1.10.2026)",
+    "role": "Praktikant*in Olympische Missionen (80–100%)",
     "url": "https://www.jobs.ch/de/stellenangebote/detail/ad4cb919-1fe2-4763-83da-5c17408c1da7/",
-    "ort": "Ittigen, Schweiz",
+    "ort": "Ittigen, CH",
     "status": "ungeprüft"
   },
   "https://jobs.admin.ch/offene-stellen/praktikant-in-hms-3-1/d27a25b0-6e29-4e65-a89e-ff0c42c4d494": {
@@ -514,11 +514,11 @@
   },
   "https://www.jobup.ch/en/jobs/detail/2764c851-be16-45a1-bcc3-41060631afa7/": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-30",
-    "org": "Schweizer Paraplegiker-Zentrum",
+    "last_seen": "2026-10-31",
+    "org": "Schweizer Paraplegiker-Zentrum Nottwil",
     "role": "Praktikant*in Sporttherapie",
     "url": "https://www.jobup.ch/en/jobs/detail/2764c851-be16-45a1-bcc3-41060631afa7/",
-    "ort": "Nottwil, Schweiz",
+    "ort": "Nottwil, CH",
     "status": "ungeprüft"
   },
   "https://sport-iat.de/fileadmin/user_upload/Stellenausschreibungen/2026-02_Stellenausschreibung_Trainingswissenschaft.pdf": {
@@ -982,11 +982,11 @@
   },
   "https://jobs.redbull.com/at-de/performance-psychologist-ref33016w": {
     "first_seen": "2026-10-21",
-    "last_seen": "2026-10-28",
-    "org": "Red Bull Athlete Performance Center Thalgau",
-    "role": "Performance Psychologist (mentale Diagnostik & Training für Spitzensportler:innen)",
+    "last_seen": "2026-10-31",
+    "org": "Red Bull Athlete Performance Center",
+    "role": "Performance Psychologist",
     "url": "https://jobs.redbull.com/at-de/performance-psychologist-ref33016w",
-    "ort": "Thalgau, Österreich",
+    "ort": "Thalgau, AT",
     "status": "ungeprüft"
   },
   "https://www.dshs-koeln.de/uploads/tx_mshjobboerse/30972_Trainingswissenschaftler_OSP_Westfalen_mwd_00882771fec77a26f4541e27d550ee00_1756136624.pdf": {
@@ -1059,6 +1059,15 @@
     "role": "Physical Performance Coach",
     "url": "https://jobs.redbull.com/at-en/",
     "ort": "Thalgau, Österreich",
+    "status": "ungeprüft"
+  },
+  "https://culture.on-running.com/jobs/5830319": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "org": "On Running",
+    "role": "Sports Science (Datenerhebung & -analyse)",
+    "url": "https://culture.on-running.com/jobs/5830319",
+    "ort": "Zürich, CH",
     "status": "ungeprüft"
   }
 }
