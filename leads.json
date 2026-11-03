@@ -28,7 +28,7 @@
   },
   "https://www.swissolympic.ch/ueber-swiss-olympic/sportjobs": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-03",
     "org": "Swiss Olympic",
     "role": "Sportjobs (Portal)",
     "url": "https://www.swissolympic.ch/ueber-swiss-olympic/sportjobs",
@@ -109,17 +109,17 @@
   },
   "https://careers.smartrecruiters.com/MindMaze/neuroscience-and-clinical": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-11-03",
     "org": "MindMaze",
-    "role": "Offene Stellen Neuroscience & Clinical, u.a. Internships (Portal)",
+    "role": "Offene Stellen Neuroscience &amp; Clinical, u.a. Internships (Portal)",
     "url": "https://careers.smartrecruiters.com/MindMaze/neuroscience-and-clinical",
     "ort": "Lausanne, CH",
     "status": "ungeprüft"
   },
   "https://jobs.paraplegie.ch/offene-stellen/praktikant-in-therapien/f00a8d34-3b4c-460f-b36d-811b24cd3156": {
     "first_seen": "2026-09-15",
-    "last_seen": "2026-10-28",
-    "org": "Schweizer Paraplegiker-Gruppe",
+    "last_seen": "2026-11-03",
+    "org": "Schweizer Paraplegiker-Gruppe Nottwil",
     "role": "Praktikant*in Therapien",
     "url": "https://jobs.paraplegie.ch/offene-stellen/praktikant-in-therapien/f00a8d34-3b4c-460f-b36d-811b24cd3156",
     "ort": "Nottwil, CH",
@@ -145,7 +145,7 @@
   },
   "https://jobs.kliniken-valens.ch/": {
     "first_seen": "2026-09-16",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-11-03",
     "org": "Kliniken Valens",
     "role": "Offene Stellen (Portal, u.a. Sporttherapie/Bewegung)",
     "url": "https://jobs.kliniken-valens.ch/",
@@ -163,9 +163,9 @@
   },
   "https://www.rehab.ch/de/ueber-uns/karriere/offene-stellen": {
     "first_seen": "2026-09-18",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-11-03",
     "org": "REHAB Basel",
-    "role": "Praktikum in der Sporttherapie (100%)",
+    "role": "Offene Stellen (Portal)",
     "url": "https://www.rehab.ch/de/ueber-uns/karriere/offene-stellen",
     "ort": "Basel, CH",
     "status": "ungeprüft"
@@ -190,9 +190,9 @@
   },
   "https://www.ehsm.admin.ch/de/offene-stellen": {
     "first_seen": "2026-09-18",
-    "last_seen": "2026-11-02",
-    "org": "EHSM/BASPO Magglingen",
-    "role": "Offene Stellen (Übersicht)",
+    "last_seen": "2026-11-03",
+    "org": "BASPO/EHSM Magglingen",
+    "role": "Offene Stellen (Übersicht, u.a. Hochschulpraktika)",
     "url": "https://www.ehsm.admin.ch/de/offene-stellen",
     "ort": "Magglingen, CH",
     "status": "ungeprüft"
@@ -208,7 +208,7 @@
   },
   "https://careers.onwd.com/": {
     "first_seen": "2026-09-18",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-03",
     "org": "ONWARD Medical",
     "role": "Offene Stellen (Portal, Neurotech Rückenmarksverletzung)",
     "url": "https://careers.onwd.com/",
@@ -217,7 +217,7 @@
   },
   "https://www.hocoma.com/us/hocoma/jobs/": {
     "first_seen": "2026-09-18",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-03",
     "org": "Hocoma",
     "role": "Offene Stellen (Portal, Reha-Technologie)",
     "url": "https://www.hocoma.com/us/hocoma/jobs/",
@@ -253,7 +253,7 @@
   },
   "https://www.iat.uni-leipzig.de/aktuelles/jobs-praktika": {
     "first_seen": "2026-09-18",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-11-03",
     "org": "IAT Leipzig",
     "role": "Jobs und Praktika (Portal, Trainingswissenschaft/Biomechanik)",
     "url": "https://www.iat.uni-leipzig.de/aktuelles/jobs-praktika",
@@ -325,7 +325,7 @@
   },
   "https://www.jobteaser.com/en/job-offers/e9af533e-9568-4c9d-b14d-b2de5a13ddd8-adidas-ag-internship-athlete-science-m-f-d": {
     "first_seen": "2026-09-22",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-03",
     "org": "adidas",
     "role": "Internship Athlete Science (m/f/d)",
     "url": "https://www.jobteaser.com/en/job-offers/e9af533e-9568-4c9d-b14d-b2de5a13ddd8-adidas-ag-internship-athlete-science-m-f-d",
@@ -361,9 +361,9 @@
   },
   "https://jobs.balgrist.ch/offene-stellen/sporttherapeut-in-w-m-d/e36f3c33-462d-44ca-8397-6e18af03497b": {
     "first_seen": "2026-09-23",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-03",
     "org": "Universitätsklinik Balgrist",
-    "role": "Sporttherapeut/in",
+    "role": "Sporttherapeut/in (w/m/d)",
     "url": "https://jobs.balgrist.ch/offene-stellen/sporttherapeut-in-w-m-d/e36f3c33-462d-44ca-8397-6e18af03497b",
     "ort": "Zürich, CH",
     "status": "ungeprüft"
@@ -415,7 +415,7 @@
   },
   "https://cereneo.ch/jobs-and-careers/open-positions/": {
     "first_seen": "2026-09-29",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-03",
     "org": "cereneo Schweiz",
     "role": "Offene Stellen (Portal, Neurorehabilitation)",
     "url": "https://cereneo.ch/jobs-and-careers/open-positions/",
@@ -487,11 +487,11 @@
   },
   "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/arbeiten-bei-der-stadt/stadtvielfalt/arbeiten-beim-ssd/arbeiten-beim-spa.html": {
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-11-03",
     "org": "Sportamt Stadt Zürich",
-    "role": "Testleiter*in Sportmotorische Bestandesaufnahme Zürich (SMBA), 10-50%",
+    "role": "Testleiter*in SMBA / Kursleitende Schulsport (Portal)",
     "url": "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/arbeiten-bei-der-stadt/stadtvielfalt/arbeiten-beim-ssd/arbeiten-beim-spa.html",
-    "ort": "Zürich, Schweiz",
+    "ort": "Zürich, CH",
     "status": "ungeprüft"
   },
   "https://www.swissbiomechanics.ch/ueber-uns/karriere/": {
@@ -658,11 +658,11 @@
   },
   "https://www.myjob.ch/job/intern-sports-science/2572862": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-03",
     "org": "On Running",
     "role": "Intern – Sports Science",
     "url": "https://www.myjob.ch/job/intern-sports-science/2572862",
-    "ort": "Zürich, Schweiz",
+    "ort": "Zürich, CH",
     "status": "ungeprüft"
   },
   "https://builtin.com/job/run-perception-graduate-internship-run-research-team-january-2026/7303420": {
@@ -721,9 +721,9 @@
   },
   "https://www.iagora.com/work/de/angebot/job-schweiz-forschung/6327374": {
     "first_seen": "2026-10-08",
-    "last_seen": "2026-10-28",
-    "org": "On (Running)",
-    "role": "Specialist Sports Science (Innovation)",
+    "last_seen": "2026-11-03",
+    "org": "On Running",
+    "role": "Specialist – Sports Science (Innovation, Human Movement)",
     "url": "https://www.iagora.com/work/de/angebot/job-schweiz-forschung/6327374",
     "ort": "Zürich, CH",
     "status": "ungeprüft"
@@ -739,7 +739,7 @@
   },
   "https://about.puma.com/en/jobs/junior-research-sport-science-manager-innovation-footwear-r33627": {
     "first_seen": "2026-10-08",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-11-03",
     "org": "PUMA",
     "role": "Junior Research Sport Science Manager, Innovation Footwear",
     "url": "https://about.puma.com/en/jobs/junior-research-sport-science-manager-innovation-footwear-r33627",
@@ -838,9 +838,9 @@
   },
   "https://www.bsbrandenburg.de/fileadmin/co_theme/Default/Media/PDF/Ausschreibungen/Stellenausschreibung_EZV_TW_Para_CB.pdf": {
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-11-03",
     "org": "Olympiastützpunkt Brandenburg (Paralympic Center Cottbus)",
-    "role": "Trainingswissenschaftler/in (m/w/d) Parasport, Elternzeitvertretung ab 1.6.2026",
+    "role": "Trainingswissenschaftler/in (m/w/d) Parasport, Elternzeitvertretung",
     "url": "https://www.bsbrandenburg.de/fileadmin/co_theme/Default/Media/PDF/Ausschreibungen/Stellenausschreibung_EZV_TW_Para_CB.pdf",
     "ort": "Cottbus, DE",
     "status": "ungeprüft"
@@ -1054,11 +1054,11 @@
   },
   "https://jobs.redbull.com/at-en/": {
     "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-03",
     "org": "Red Bull Athlete Performance Center",
-    "role": "Physical Performance Coach",
+    "role": "Offene Stellen (Portal)",
     "url": "https://jobs.redbull.com/at-en/",
-    "ort": "Thalgau, Österreich",
+    "ort": "Thalgau, AT",
     "status": "ungeprüft"
   },
   "https://culture.on-running.com/jobs/5830319": {
