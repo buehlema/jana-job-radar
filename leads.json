@@ -685,11 +685,11 @@
   },
   "https://www.jobup.ch/en/jobs/detail/0a45882c-7f33-47f2-bdd8-fecf721d51cf": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-06",
     "org": "Universitätsklinik Balgrist",
     "role": "Studentische Hilfskraft Sporttherapie und Training",
     "url": "https://www.jobup.ch/en/jobs/detail/0a45882c-7f33-47f2-bdd8-fecf721d51cf",
-    "ort": "Zürich, CH",
+    "ort": "Zürich, Schweiz",
     "status": "ungeprüft"
   },
   "https://www.jobup.ch/en/jobs/detail/24515063-9cf8-4e7a-962f-70c7262199f2": {
@@ -811,11 +811,11 @@
   },
   "https://www.oberoejobs.at/jobs/physical-performance-coach,6840": {
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-06",
     "org": "Red Bull Athlete Performance Center",
     "role": "Physical Performance Coach",
     "url": "https://www.oberoejobs.at/jobs/physical-performance-coach,6840",
-    "ort": "Thalgau, AT",
+    "ort": "Thalgau, Österreich",
     "status": "ungeprüft"
   },
   "https://jobs.b2venture.vc/companies/onward-medical/jobs/91815478-clinical-science-engineering-intern": {
@@ -838,11 +838,11 @@
   },
   "https://www.bsbrandenburg.de/fileadmin/co_theme/Default/Media/PDF/Ausschreibungen/Stellenausschreibung_EZV_TW_Para_CB.pdf": {
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-05",
-    "org": "Olympiastützpunkt Brandenburg (Paralympic Center Cottbus)",
-    "role": "Trainingswissenschaftler/in (m/w/d) Parasport, Elternzeitvertretung",
+    "last_seen": "2026-11-06",
+    "org": "Olympiastützpunkt Brandenburg (Paralympisches Zentrum Cottbus)",
+    "role": "Trainingswissenschaftler*in Para (Elternzeitvertretung)",
     "url": "https://www.bsbrandenburg.de/fileadmin/co_theme/Default/Media/PDF/Ausschreibungen/Stellenausschreibung_EZV_TW_Para_CB.pdf",
-    "ort": "Cottbus, DE",
+    "ort": "Cottbus, Deutschland",
     "status": "ungeprüft"
   },
   "https://www.lsb-mv.de/export/sites/lsbmv/MAKO/downloads/2025-Stellenmarkt-Downloads/20250922_Stellenausschreibung-TW-AT-OSP-MV.pdf": {
@@ -1009,9 +1009,9 @@
   },
   "https://www.swissolympic.ch/dam/jcr:e2c869a1-4d30-40f8-91f4-c6e184e93889/260604_Stelleninserat_Praktikum_SOT%20(DE).pdf": {
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-06",
     "org": "Swiss Olympic",
-    "role": "Praktikum Swiss Olympic Team (Olympische Missionen, Athlete Hub, Entwicklung & Projekte)",
+    "role": "Praktikum Swiss Olympic Team (SOT)",
     "url": "https://www.swissolympic.ch/dam/jcr:e2c869a1-4d30-40f8-91f4-c6e184e93889/260604_Stelleninserat_Praktikum_SOT%20(DE).pdf",
     "ort": "Ittigen/Bern, Schweiz",
     "status": "ungeprüft"
@@ -1086,6 +1086,60 @@
     "role": "Praktikant/in Sporttherapie (a) 80-100%",
     "url": "https://vamed-ag-ch.onlyfy.jobs/candidate/job/print/usm50gg3s7bfbiv8ye4zr2uyx1gxcrj?mode=print",
     "ort": "Zürich, CH",
+    "status": "ungeprüft"
+  },
+  "https://jobs.ch/en/vacancies/detail/e4b3f57b-7d47-41f8-9198-770946194865": {
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "org": "Schweizer Paraplegiker-Zentrum Nottwil",
+    "role": "Praktikant*in Sporttherapie",
+    "url": "https://jobs.ch/en/vacancies/detail/e4b3f57b-7d47-41f8-9198-770946194865",
+    "ort": "Nottwil, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://www.jobup.ch/en/jobs/detail/26163313-db97-41dc-8bb6-d777e69da763": {
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "org": "Schweizer Paraplegiker-Zentrum Nottwil",
+    "role": "Praktikant*in Therapien (Ergo-/Physiotherapie)",
+    "url": "https://www.jobup.ch/en/jobs/detail/26163313-db97-41dc-8bb6-d777e69da763",
+    "ort": "Nottwil, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://jobup.ch/en/jobs/detail/d276ccff-0bcd-4ed5-9035-fd20c53fe702": {
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "org": "Universitätsklinik Balgrist",
+    "role": "Bewegungswissenschaftler/in / Leistungsdiagnostik Sport- und Arbeitsmedizin (80%)",
+    "url": "https://jobup.ch/en/jobs/detail/d276ccff-0bcd-4ed5-9035-fd20c53fe702",
+    "ort": "Zürich, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://www.jobs.ch/en/vacancies/detail/6fc268f2-0b01-4808-84c1-467822128f43": {
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "org": "REHAB Basel",
+    "role": "Praktikum in der Sporttherapie (100%)",
+    "url": "https://www.jobs.ch/en/vacancies/detail/6fc268f2-0b01-4808-84c1-467822128f43",
+    "ort": "Basel, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://www.ehsm.admin.ch/en/vacancies": {
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "org": "BASPO / EHSM Magglingen",
+    "role": "Offene Praktika &amp; Stellen (Portal)",
+    "url": "https://www.ehsm.admin.ch/en/vacancies",
+    "ort": "Magglingen, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://www.swiss-ski.ch/fileadmin/user_upload/www.swiss-ski.ch/swiss-ski/verband/jobs/pdf/2025-26/20250507_Stelleninserat_TrainerSnowboardHalfpipe_de.pdf": {
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "org": "Swiss-Ski",
+    "role": "Trainer*in Snowboard Halfpipe",
+    "url": "https://www.swiss-ski.ch/fileadmin/user_upload/www.swiss-ski.ch/swiss-ski/verband/jobs/pdf/2025-26/20250507_Stelleninserat_TrainerSnowboardHalfpipe_de.pdf",
+    "ort": "Nationales Leistungszentrum, Schweiz",
     "status": "ungeprüft"
   }
 }
