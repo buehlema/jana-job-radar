@@ -28,7 +28,7 @@
   },
   "https://www.swissolympic.ch/ueber-swiss-olympic/sportjobs": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-08",
     "org": "Swiss Olympic",
     "role": "Sportjobs (Portal)",
     "url": "https://www.swissolympic.ch/ueber-swiss-olympic/sportjobs",
@@ -145,7 +145,7 @@
   },
   "https://jobs.kliniken-valens.ch/": {
     "first_seen": "2026-09-16",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-08",
     "org": "Kliniken Valens",
     "role": "Offene Stellen (Portal, u.a. Sporttherapie/Bewegung)",
     "url": "https://jobs.kliniken-valens.ch/",
@@ -208,7 +208,7 @@
   },
   "https://careers.onwd.com/": {
     "first_seen": "2026-09-18",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-08",
     "org": "ONWARD Medical",
     "role": "Offene Stellen (Portal, Neurotech Rückenmarksverletzung)",
     "url": "https://careers.onwd.com/",
@@ -415,11 +415,11 @@
   },
   "https://cereneo.ch/jobs-and-careers/open-positions/": {
     "first_seen": "2026-09-29",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-08",
     "org": "cereneo Schweiz",
     "role": "Offene Stellen (Portal, Neurorehabilitation)",
     "url": "https://cereneo.ch/jobs-and-careers/open-positions/",
-    "ort": "Vitznau, CH",
+    "ort": "Vitznau/Weggis, CH",
     "status": "ungeprüft"
   },
   "https://www.huzzle.com/internships/internship-athlete-servicing-m-f-d-534568": {
@@ -676,11 +676,11 @@
   },
   "https://www.jobup.ch/en/jobs/detail/36d79c1e-6af5-4ce3-8c27-8cf17c118007": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-08",
     "org": "Universitätsklinik Balgrist",
-    "role": "Laborant/in für klinische Bewegungsanalyse (60–80%)",
+    "role": "Laborant/in für klinische Bewegungsanalyse (60-80%)",
     "url": "https://www.jobup.ch/en/jobs/detail/36d79c1e-6af5-4ce3-8c27-8cf17c118007",
-    "ort": "Zürich, Schweiz",
+    "ort": "Zürich, CH",
     "status": "ungeprüft"
   },
   "https://www.jobup.ch/en/jobs/detail/0a45882c-7f33-47f2-bdd8-fecf721d51cf": {
@@ -892,7 +892,7 @@
   },
   "https://jobup.ch/en/jobs/detail/cb443d67-c117-4ee3-b2bf-3ac859dd0d49": {
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-08",
     "org": "Kliniken Valens (Klinik Gais)",
     "role": "Praktikant/in Sport- und Bewegungstherapie 80-100%",
     "url": "https://jobup.ch/en/jobs/detail/cb443d67-c117-4ee3-b2bf-3ac859dd0d49",
@@ -1009,7 +1009,7 @@
   },
   "https://www.swissolympic.ch/dam/jcr:e2c869a1-4d30-40f8-91f4-c6e184e93889/260604_Stelleninserat_Praktikum_SOT%20(DE).pdf": {
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "org": "Swiss Olympic",
     "role": "Praktikum Swiss Olympic Team (12 Monate, ab 01.10.2026)",
     "url": "https://www.swissolympic.ch/dam/jcr:e2c869a1-4d30-40f8-91f4-c6e184e93889/260604_Stelleninserat_Praktikum_SOT%20(DE).pdf",
@@ -1045,7 +1045,7 @@
   },
   "https://www.mysportscience.com/vacancies": {
     "first_seen": "2026-10-29",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-08",
     "org": "Red Bull APC (mysportscience)",
     "role": "Vacancies-Portal",
     "url": "https://www.mysportscience.com/vacancies",
@@ -1054,7 +1054,7 @@
   },
   "https://jobs.redbull.com/at-en/": {
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-08",
     "org": "Red Bull Athlete Performance Center",
     "role": "Offene Stellen (Portal)",
     "url": "https://jobs.redbull.com/at-en/",
@@ -1072,7 +1072,7 @@
   },
   "https://jobs.ch/de/stellenangebote/detail/22177f7f-cf00-4186-9110-8d87dddc5914": {
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-08",
     "org": "BASPO/EHSM Magglingen",
     "role": "Hochschulpraktikant/in Sportorganisationen",
     "url": "https://jobs.ch/de/stellenangebote/detail/22177f7f-cf00-4186-9110-8d87dddc5914",
@@ -1090,20 +1090,20 @@
   },
   "https://jobs.ch/en/vacancies/detail/e4b3f57b-7d47-41f8-9198-770946194865": {
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-08",
     "org": "Schweizer Paraplegiker-Zentrum Nottwil",
     "role": "Praktikant*in Sporttherapie",
     "url": "https://jobs.ch/en/vacancies/detail/e4b3f57b-7d47-41f8-9198-770946194865",
-    "ort": "Nottwil, Schweiz",
+    "ort": "Nottwil, CH",
     "status": "ungeprüft"
   },
   "https://www.jobup.ch/en/jobs/detail/26163313-db97-41dc-8bb6-d777e69da763": {
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-08",
     "org": "Schweizer Paraplegiker-Zentrum Nottwil",
     "role": "Praktikant*in Therapien (Ergo-/Physiotherapie)",
     "url": "https://www.jobup.ch/en/jobs/detail/26163313-db97-41dc-8bb6-d777e69da763",
-    "ort": "Nottwil, Schweiz",
+    "ort": "Nottwil, CH",
     "status": "ungeprüft"
   },
   "https://jobup.ch/en/jobs/detail/d276ccff-0bcd-4ed5-9035-fd20c53fe702": {
@@ -1117,7 +1117,7 @@
   },
   "https://www.jobs.ch/en/vacancies/detail/6fc268f2-0b01-4808-84c1-467822128f43": {
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "org": "REHAB Basel",
     "role": "Praktikum in der Sporttherapie 100% m/w/d",
     "url": "https://www.jobs.ch/en/vacancies/detail/6fc268f2-0b01-4808-84c1-467822128f43",
@@ -1126,11 +1126,11 @@
   },
   "https://www.ehsm.admin.ch/en/vacancies": {
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-08",
     "org": "BASPO / EHSM Magglingen",
-    "role": "Offene Praktika &amp; Stellen (Portal)",
+    "role": "Offene Praktika & Stellen (Portal)",
     "url": "https://www.ehsm.admin.ch/en/vacancies",
-    "ort": "Magglingen, Schweiz",
+    "ort": "Magglingen, CH",
     "status": "ungeprüft"
   },
   "https://www.swiss-ski.ch/fileadmin/user_upload/www.swiss-ski.ch/swiss-ski/verband/jobs/pdf/2025-26/20250507_Stelleninserat_TrainerSnowboardHalfpipe_de.pdf": {
@@ -1153,11 +1153,20 @@
   },
   "https://culture.on.com/jobs/7476127": {
     "first_seen": "2026-11-07",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "org": "On",
     "role": "Sport Science / Innovation Design (Rolle gemäss Inserat)",
     "url": "https://culture.on.com/jobs/7476127",
     "ort": "Zürich, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.jobup.ch/en/jobs/detail/f3b18896-b7b0-4418-95b4-d5ece015aa74": {
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "org": "Zürcher RehaZentren, Klinik Wald",
+    "role": "Praktikant/in Sporttherapie (w/m/a) 100%",
+    "url": "https://www.jobup.ch/en/jobs/detail/f3b18896-b7b0-4418-95b4-d5ece015aa74",
+    "ort": "Wald ZH, CH",
     "status": "ungeprüft"
   }
 }
