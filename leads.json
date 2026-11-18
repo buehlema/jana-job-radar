@@ -658,9 +658,9 @@
   },
   "https://www.myjob.ch/job/intern-sports-science/2572862": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-17",
-    "org": "On (On Running)",
-    "role": "Intern - Sports Science",
+    "last_seen": "2026-11-18",
+    "org": "On (Running)",
+    "role": "Sports Science Intern",
     "url": "https://www.myjob.ch/job/intern-sports-science/2572862",
     "ort": "Zürich, Schweiz",
     "status": "ungeprüft"
@@ -712,9 +712,9 @@
   },
   "https://www.ehsm.admin.ch/en/internship-sports-physiology": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "org": "BASPO / EHSM Magglingen",
-    "role": "Internship Sports Physiology",
+    "role": "Praktikum Sportphysiologie",
     "url": "https://www.ehsm.admin.ch/en/internship-sports-physiology",
     "ort": "Magglingen, Schweiz",
     "status": "ungeprüft"
@@ -1009,11 +1009,11 @@
   },
   "https://www.swissolympic.ch/dam/jcr:e2c869a1-4d30-40f8-91f4-c6e184e93889/260604_Stelleninserat_Praktikum_SOT%20(DE).pdf": {
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "org": "Swiss Olympic",
-    "role": "Praktikum Swiss Olympic Team (SOT)",
+    "role": "Praktikum Swiss Olympic Team (80-100%)",
     "url": "https://www.swissolympic.ch/dam/jcr:e2c869a1-4d30-40f8-91f4-c6e184e93889/260604_Stelleninserat_Praktikum_SOT%20(DE).pdf",
-    "ort": "Ittigen/Bern, Schweiz",
+    "ort": "Ittigen, Schweiz",
     "status": "ungeprüft"
   },
   "https://www.ehsm.admin.ch/en/sports-psychology-research-internship-on-mental-health": {
@@ -1072,11 +1072,11 @@
   },
   "https://jobs.ch/de/stellenangebote/detail/22177f7f-cf00-4186-9110-8d87dddc5914": {
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-14",
-    "org": "BASPO/EHSM Magglingen",
+    "last_seen": "2026-11-18",
+    "org": "BASPO Magglingen",
     "role": "Hochschulpraktikant/in Sportorganisationen",
     "url": "https://jobs.ch/de/stellenangebote/detail/22177f7f-cf00-4186-9110-8d87dddc5914",
-    "ort": "Magglingen, CH",
+    "ort": "Magglingen, Schweiz",
     "status": "ungeprüft"
   },
   "https://vamed-ag-ch.onlyfy.jobs/candidate/job/print/usm50gg3s7bfbiv8ye4zr2uyx1gxcrj?mode=print": {
@@ -1090,8 +1090,8 @@
   },
   "https://jobs.ch/en/vacancies/detail/e4b3f57b-7d47-41f8-9198-770946194865": {
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-17",
-    "org": "Schweizer Paraplegiker-Zentrum",
+    "last_seen": "2026-11-18",
+    "org": "Schweizer Paraplegiker-Zentrum Nottwil",
     "role": "Praktikant*in Sporttherapie",
     "url": "https://jobs.ch/en/vacancies/detail/e4b3f57b-7d47-41f8-9198-770946194865",
     "ort": "Nottwil, Schweiz",
@@ -1108,9 +1108,9 @@
   },
   "https://jobup.ch/en/jobs/detail/d276ccff-0bcd-4ed5-9035-fd20c53fe702": {
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "org": "Universitätsklinik Balgrist",
-    "role": "Bewegungswissenschaftler/in – Leistungsdiagnostik Sport- und Arbeitsmedizin 80%",
+    "role": "Bewegungswissenschaftler/in / Leistungsdiagnostik Sport- und Arbeitsmedizin (80%)",
     "url": "https://jobup.ch/en/jobs/detail/d276ccff-0bcd-4ed5-9035-fd20c53fe702",
     "ort": "Zürich, Schweiz",
     "status": "ungeprüft"
@@ -1329,6 +1329,33 @@
     "role": "Psychology/Neuroscience Technical Writer – Internship (40%)",
     "url": "https://jobs.smartrecruiters.com/MindMaze/743999681648468-psychology-neuroscience-technical-writer-part-time-40-internship",
     "ort": "Lausanne, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://www.ehsm.admin.ch/en/internships-in-monitoring-and-evaluation": {
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "org": "BASPO / EHSM Magglingen",
+    "role": "Praktikum Monitoring &amp; Evaluation",
+    "url": "https://www.ehsm.admin.ch/en/internships-in-monitoring-and-evaluation",
+    "ort": "Magglingen, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://jobup.ch/en/jobs/detail/e7bb6707-ebcb-4695-a9ef-24b5eb3af7a6": {
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "org": "Universitätsklinik Balgrist",
+    "role": "Sporttherapeut/in (60%)",
+    "url": "https://jobup.ch/en/jobs/detail/e7bb6707-ebcb-4695-a9ef-24b5eb3af7a6",
+    "ort": "Zürich, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://jobs.redbull.com": {
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "org": "Red Bull Athlete Performance Center",
+    "role": "Physical Performance Coach",
+    "url": "https://jobs.redbull.com",
+    "ort": "Thalgau, Österreich",
     "status": "ungeprüft"
   }
 }
