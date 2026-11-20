@@ -658,9 +658,9 @@
   },
   "https://www.myjob.ch/job/intern-sports-science/2572862": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "org": "On (On Running)",
-    "role": "Sports Science Intern",
+    "role": "Intern – Sports Science",
     "url": "https://www.myjob.ch/job/intern-sports-science/2572862",
     "ort": "Zürich, CH",
     "status": "ungeprüft"
@@ -712,9 +712,9 @@
   },
   "https://www.ehsm.admin.ch/en/internship-sports-physiology": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "org": "BASPO / EHSM Magglingen",
-    "role": "Praktikum Sportphysiologie",
+    "role": "Internship Sports Physiology (Praktikumsprogramm)",
     "url": "https://www.ehsm.admin.ch/en/internship-sports-physiology",
     "ort": "Magglingen, CH",
     "status": "ungeprüft"
@@ -1090,11 +1090,11 @@
   },
   "https://jobs.ch/en/vacancies/detail/e4b3f57b-7d47-41f8-9198-770946194865": {
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-19",
-    "org": "Schweizer Paraplegiker-Zentrum Nottwil",
-    "role": "Praktikant*in Sporttherapie",
+    "last_seen": "2026-11-20",
+    "org": "REHAB Basel",
+    "role": "Praktikum in der Sporttherapie 100%",
     "url": "https://jobs.ch/en/vacancies/detail/e4b3f57b-7d47-41f8-9198-770946194865",
-    "ort": "Nottwil, CH",
+    "ort": "Basel, CH",
     "status": "ungeprüft"
   },
   "https://www.jobup.ch/en/jobs/detail/26163313-db97-41dc-8bb6-d777e69da763": {
@@ -1108,9 +1108,9 @@
   },
   "https://jobup.ch/en/jobs/detail/d276ccff-0bcd-4ed5-9035-fd20c53fe702": {
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "org": "Universitätsklinik Balgrist",
-    "role": "Bewegungswissenschaftler/in / Leistungsdiagnostik Sport- und Trainingsmedizin",
+    "role": "Bewegungswissenschaftler/in – Leistungsdiagnostik Sport- und Trainingsmedizin (80%)",
     "url": "https://jobup.ch/en/jobs/detail/d276ccff-0bcd-4ed5-9035-fd20c53fe702",
     "ort": "Zürich, CH",
     "status": "ungeprüft"
@@ -1333,16 +1333,16 @@
   },
   "https://www.ehsm.admin.ch/en/internships-in-monitoring-and-evaluation": {
     "first_seen": "2026-11-18",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "org": "BASPO / EHSM Magglingen",
-    "role": "Praktikum Monitoring & Evaluation",
+    "role": "Internships in Monitoring and Evaluation",
     "url": "https://www.ehsm.admin.ch/en/internships-in-monitoring-and-evaluation",
     "ort": "Magglingen, CH",
     "status": "ungeprüft"
   },
   "https://jobup.ch/en/jobs/detail/e7bb6707-ebcb-4695-a9ef-24b5eb3af7a6": {
     "first_seen": "2026-11-18",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "org": "Universitätsklinik Balgrist",
     "role": "Sporttherapeut/in (60%)",
     "url": "https://jobup.ch/en/jobs/detail/e7bb6707-ebcb-4695-a9ef-24b5eb3af7a6",
@@ -1365,6 +1365,24 @@
     "role": "Scientific Assistant in Data Science for Spinal Cord Injury Research (100%)",
     "url": "https://www.jobup.ch/en/jobs/detail/907f1840-0b1d-4e87-9653-452fe210338d",
     "ort": "Zürich, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.jobup.ch/en/jobs/detail/b50da520-e812-450e-8b1f-53044c8bcd7b": {
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "org": "Kliniken Valens (Klinik Gais)",
+    "role": "Praktikant/-in Sport- und Bewegungstherapie (m/w/a)",
+    "url": "https://www.jobup.ch/en/jobs/detail/b50da520-e812-450e-8b1f-53044c8bcd7b",
+    "ort": "Gais, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.jobup.ch/en/jobs/detail/7a3e5a36-0237-4302-bfc2-e9e3ddb3ae9e": {
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "org": "Zürcher RehaZentren, Klinik Wald",
+    "role": "Praktikant/-in Sporttherapie (m/w/a) 100%",
+    "url": "https://www.jobup.ch/en/jobs/detail/7a3e5a36-0237-4302-bfc2-e9e3ddb3ae9e",
+    "ort": "Wald ZH, CH",
     "status": "ungeprüft"
   }
 }
