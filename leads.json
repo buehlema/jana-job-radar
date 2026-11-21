@@ -982,7 +982,7 @@
   },
   "https://jobs.redbull.com/at-de/performance-psychologist-ref33016w": {
     "first_seen": "2026-10-21",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-21",
     "org": "Red Bull Athlete Performance Center",
     "role": "Performance Psychologist",
     "url": "https://jobs.redbull.com/at-de/performance-psychologist-ref33016w",
@@ -1360,8 +1360,8 @@
   },
   "https://www.jobup.ch/en/jobs/detail/907f1840-0b1d-4e87-9653-452fe210338d": {
     "first_seen": "2026-11-19",
-    "last_seen": "2026-11-19",
-    "org": "Universitätsklinik Balgrist",
+    "last_seen": "2026-11-21",
+    "org": "Universitätsklinik Balgrist (ETH Biomedical Data Science Lab)",
     "role": "Scientific Assistant in Data Science for Spinal Cord Injury Research (100%)",
     "url": "https://www.jobup.ch/en/jobs/detail/907f1840-0b1d-4e87-9653-452fe210338d",
     "ort": "Zürich, CH",
@@ -1369,7 +1369,7 @@
   },
   "https://www.jobup.ch/en/jobs/detail/b50da520-e812-450e-8b1f-53044c8bcd7b": {
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "org": "Kliniken Valens (Klinik Gais)",
     "role": "Praktikant/-in Sport- und Bewegungstherapie (m/w/a)",
     "url": "https://www.jobup.ch/en/jobs/detail/b50da520-e812-450e-8b1f-53044c8bcd7b",
@@ -1378,11 +1378,47 @@
   },
   "https://www.jobup.ch/en/jobs/detail/7a3e5a36-0237-4302-bfc2-e9e3ddb3ae9e": {
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "org": "Zürcher RehaZentren, Klinik Wald",
     "role": "Praktikant/-in Sporttherapie (m/w/a) 100%",
     "url": "https://www.jobup.ch/en/jobs/detail/7a3e5a36-0237-4302-bfc2-e9e3ddb3ae9e",
     "ort": "Wald ZH, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.jobup.ch/en/jobs/detail/5eb4cbbe-4d2b-4df1-b487-325560a21a65/": {
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "org": "Kinder-Reha Affoltern (Kinderspital Zürich)",
+    "role": "Praktikant/in Sporttherapie, 6.5 Monate (Start Mitte Feb/März/Aug/Sept)",
+    "url": "https://www.jobup.ch/en/jobs/detail/5eb4cbbe-4d2b-4df1-b487-325560a21a65/",
+    "ort": "Affoltern am Albis, CH",
+    "status": "ungeprüft"
+  },
+  "https://jobs.smartrecruiters.com/MindMaze/743999688042489-assessment-of-optical-tracking-for-movement-analysis-engineering-computer-science-internship": {
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "org": "MindMaze",
+    "role": "Assessment of Optical Tracking for Movement Analysis – Internship",
+    "url": "https://jobs.smartrecruiters.com/MindMaze/743999688042489-assessment-of-optical-tracking-for-movement-analysis-engineering-computer-science-internship",
+    "ort": "Lausanne, CH",
+    "status": "ungeprüft"
+  },
+  "https://jobs.smartrecruiters.com/MindMaze/743999688107408-data-engineering-internship": {
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "org": "MindMaze",
+    "role": "Data Engineering – Internship",
+    "url": "https://jobs.smartrecruiters.com/MindMaze/743999688107408-data-engineering-internship",
+    "ort": "Lausanne, CH",
+    "status": "ungeprüft"
+  },
+  "https://join.com/companies/greenteg/16914586-data-science-internship-wearables-and-sensor-data-m-w-d-80-100": {
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "org": "greenteg AG",
+    "role": "Data Science Internship – Wearables and Sensor Data (80-100%)",
+    "url": "https://join.com/companies/greenteg/16914586-data-science-internship-wearables-and-sensor-data-m-w-d-80-100",
+    "ort": "Zürich-Rümlang, CH",
     "status": "ungeprüft"
   }
 }
