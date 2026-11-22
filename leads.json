@@ -982,7 +982,7 @@
   },
   "https://jobs.redbull.com/at-de/performance-psychologist-ref33016w": {
     "first_seen": "2026-10-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "org": "Red Bull Athlete Performance Center",
     "role": "Performance Psychologist",
     "url": "https://jobs.redbull.com/at-de/performance-psychologist-ref33016w",
@@ -1072,8 +1072,8 @@
   },
   "https://jobs.ch/de/stellenangebote/detail/22177f7f-cf00-4186-9110-8d87dddc5914": {
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-19",
-    "org": "BASPO Magglingen",
+    "last_seen": "2026-11-22",
+    "org": "BASPO / EHSM Magglingen",
     "role": "Hochschulpraktikant/in Sportorganisationen",
     "url": "https://jobs.ch/de/stellenangebote/detail/22177f7f-cf00-4186-9110-8d87dddc5914",
     "ort": "Magglingen, CH",
@@ -1090,11 +1090,11 @@
   },
   "https://jobs.ch/en/vacancies/detail/e4b3f57b-7d47-41f8-9198-770946194865": {
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-20",
-    "org": "REHAB Basel",
-    "role": "Praktikum in der Sporttherapie 100%",
+    "last_seen": "2026-11-22",
+    "org": "Schweizer Paraplegiker-Zentrum Nottwil",
+    "role": "Praktikant*in Sporttherapie",
     "url": "https://jobs.ch/en/vacancies/detail/e4b3f57b-7d47-41f8-9198-770946194865",
-    "ort": "Basel, CH",
+    "ort": "Nottwil, CH",
     "status": "ungeprüft"
   },
   "https://www.jobup.ch/en/jobs/detail/26163313-db97-41dc-8bb6-d777e69da763": {
@@ -1117,9 +1117,9 @@
   },
   "https://www.jobs.ch/en/vacancies/detail/6fc268f2-0b01-4808-84c1-467822128f43": {
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-19",
-    "org": "REHAB Basel",
-    "role": "Praktikum in der Sporttherapie 100%",
+    "last_seen": "2026-11-22",
+    "org": "REHAB Basel AG",
+    "role": "Praktikant*in Sporttherapie 100% (viermonatige Blöcke 2026)",
     "url": "https://www.jobs.ch/en/vacancies/detail/6fc268f2-0b01-4808-84c1-467822128f43",
     "ort": "Basel, CH",
     "status": "ungeprüft"
@@ -1297,11 +1297,11 @@
   },
   "https://www.jobup.ch/en/jobs/detail/c4184dbb-a44f-4c20-b88c-421679864287": {
     "first_seen": "2026-11-15",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-22",
     "org": "Schweizer Paraplegiker-Forschung (SPF)",
-    "role": "Wissenschaftliche*r Mitarbeiter*in 80-100%",
+    "role": "Wissenschaftliche*r Mitarbeiter*in 80-100% (Neuromusculoskeletal Functioning & Mobility)",
     "url": "https://www.jobup.ch/en/jobs/detail/c4184dbb-a44f-4c20-b88c-421679864287",
-    "ort": "Nottwil, Schweiz",
+    "ort": "Nottwil, CH",
     "status": "ungeprüft"
   },
   "https://mynejo.com/job/internship-sport-science-diagnostics~d77fab57-09ba-45d8-a283-809512f9d271": {
@@ -1360,7 +1360,7 @@
   },
   "https://www.jobup.ch/en/jobs/detail/907f1840-0b1d-4e87-9653-452fe210338d": {
     "first_seen": "2026-11-19",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "org": "Universitätsklinik Balgrist (ETH Biomedical Data Science Lab)",
     "role": "Scientific Assistant in Data Science for Spinal Cord Injury Research (100%)",
     "url": "https://www.jobup.ch/en/jobs/detail/907f1840-0b1d-4e87-9653-452fe210338d",
@@ -1369,7 +1369,7 @@
   },
   "https://www.jobup.ch/en/jobs/detail/b50da520-e812-450e-8b1f-53044c8bcd7b": {
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "org": "Kliniken Valens (Klinik Gais)",
     "role": "Praktikant/-in Sport- und Bewegungstherapie (m/w/a)",
     "url": "https://www.jobup.ch/en/jobs/detail/b50da520-e812-450e-8b1f-53044c8bcd7b",
@@ -1378,7 +1378,7 @@
   },
   "https://www.jobup.ch/en/jobs/detail/7a3e5a36-0237-4302-bfc2-e9e3ddb3ae9e": {
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "org": "Zürcher RehaZentren, Klinik Wald",
     "role": "Praktikant/-in Sporttherapie (m/w/a) 100%",
     "url": "https://www.jobup.ch/en/jobs/detail/7a3e5a36-0237-4302-bfc2-e9e3ddb3ae9e",
@@ -1387,8 +1387,8 @@
   },
   "https://www.jobup.ch/en/jobs/detail/5eb4cbbe-4d2b-4df1-b487-325560a21a65/": {
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "org": "Kinder-Reha Affoltern (Kinderspital Zürich)",
+    "last_seen": "2026-11-22",
+    "org": "Kinderspital Zürich (Kinder-Reha Affoltern)",
     "role": "Praktikant/in Sporttherapie, 6.5 Monate (Start Mitte Feb/März/Aug/Sept)",
     "url": "https://www.jobup.ch/en/jobs/detail/5eb4cbbe-4d2b-4df1-b487-325560a21a65/",
     "ort": "Affoltern am Albis, CH",
@@ -1396,7 +1396,7 @@
   },
   "https://jobs.smartrecruiters.com/MindMaze/743999688042489-assessment-of-optical-tracking-for-movement-analysis-engineering-computer-science-internship": {
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "org": "MindMaze",
     "role": "Assessment of Optical Tracking for Movement Analysis – Internship",
     "url": "https://jobs.smartrecruiters.com/MindMaze/743999688042489-assessment-of-optical-tracking-for-movement-analysis-engineering-computer-science-internship",
@@ -1405,7 +1405,7 @@
   },
   "https://jobs.smartrecruiters.com/MindMaze/743999688107408-data-engineering-internship": {
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "org": "MindMaze",
     "role": "Data Engineering – Internship",
     "url": "https://jobs.smartrecruiters.com/MindMaze/743999688107408-data-engineering-internship",
@@ -1414,11 +1414,29 @@
   },
   "https://join.com/companies/greenteg/16914586-data-science-internship-wearables-and-sensor-data-m-w-d-80-100": {
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "org": "greenteg AG",
     "role": "Data Science Internship – Wearables and Sensor Data (80-100%)",
     "url": "https://join.com/companies/greenteg/16914586-data-science-internship-wearables-and-sensor-data-m-w-d-80-100",
     "ort": "Zürich-Rümlang, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.jobteaser.com/en/job-offers/72cbec6a-11bc-4a46-a858-4007f19981e6-adidas-ag-internship-footwear-development-m-f-d": {
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-22",
+    "org": "adidas",
+    "role": "Internship Footwear Development (m/w/d) – Fokus Biomechanik/Sportwissenschaft",
+    "url": "https://www.jobteaser.com/en/job-offers/72cbec6a-11bc-4a46-a858-4007f19981e6-adidas-ag-internship-footwear-development-m-f-d",
+    "ort": "Herzogenaurach, DE",
+    "status": "ungeprüft"
+  },
+  "https://careers.onwd.com/internships-2025": {
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-22",
+    "org": "ONWARD Medical",
+    "role": "Praktika/Internships (u.a. Clinical Science Engineering, Digital Communications) — Portal",
+    "url": "https://careers.onwd.com/internships-2025",
+    "ort": "Lausanne, CH / Eindhoven, NL",
     "status": "ungeprüft"
   }
 }
