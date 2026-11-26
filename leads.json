@@ -1090,9 +1090,9 @@
   },
   "https://jobs.ch/en/vacancies/detail/e4b3f57b-7d47-41f8-9198-770946194865": {
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-25",
-    "org": "Schweizer Paraplegiker-Zentrum",
-    "role": "Praktikant*in Sporttherapie 100% (ab 1.1.2026)",
+    "last_seen": "2026-11-26",
+    "org": "Schweizer Paraplegiker-Zentrum Nottwil",
+    "role": "Praktikant*in Sporttherapie",
     "url": "https://jobs.ch/en/vacancies/detail/e4b3f57b-7d47-41f8-9198-770946194865",
     "ort": "Nottwil, Schweiz",
     "status": "ungeprüft"
@@ -1117,7 +1117,7 @@
   },
   "https://www.jobs.ch/en/vacancies/detail/6fc268f2-0b01-4808-84c1-467822128f43": {
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "org": "REHAB Basel",
     "role": "Praktikum Sporttherapie 100%",
     "url": "https://www.jobs.ch/en/vacancies/detail/6fc268f2-0b01-4808-84c1-467822128f43",
@@ -1473,6 +1473,33 @@
     "role": "Praktikant/-in Sport- und Bewegungstherapie",
     "url": "https://jobs.ch/en/vacancies/detail/b50da520-e812-450e-8b1f-53044c8bcd7b",
     "ort": "Gais AR, CH",
+    "status": "ungeprüft"
+  },
+  "https://www.jobup.ch/en/jobs/detail/532c6a60-52a4-4cca-adae-5799a210c74a": {
+    "first_seen": "2026-11-26",
+    "last_seen": "2026-11-26",
+    "org": "On Running",
+    "role": "Sports Science Intern",
+    "url": "https://www.jobup.ch/en/jobs/detail/532c6a60-52a4-4cca-adae-5799a210c74a",
+    "ort": "Zürich, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://www.swissolympic.ch/dam/jcr:e2c869a1-4d30-40f8-91f4-c6e184e93889/260604_Stelleninserat_Praktikum%20SOT%20(DE).pdf": {
+    "first_seen": "2026-11-26",
+    "last_seen": "2026-11-26",
+    "org": "Swiss Olympic",
+    "role": "Praktikum Swiss Olympic Team (SOT)",
+    "url": "https://www.swissolympic.ch/dam/jcr:e2c869a1-4d30-40f8-91f4-c6e184e93889/260604_Stelleninserat_Praktikum%20SOT%20(DE).pdf",
+    "ort": "Ittigen, Schweiz",
+    "status": "ungeprüft"
+  },
+  "https://sport-iat.de/fileadmin/user_upload/Stellenausschreibungen/2026-02_Stellenausschreibung_WTMA_Datenvisualisierung.pdf": {
+    "first_seen": "2026-11-26",
+    "last_seen": "2026-11-26",
+    "org": "IAT Leipzig",
+    "role": "Wissenschaftlich-technische Mitarbeit Datenvisualisierung",
+    "url": "https://sport-iat.de/fileadmin/user_upload/Stellenausschreibungen/2026-02_Stellenausschreibung_WTMA_Datenvisualisierung.pdf",
+    "ort": "Leipzig, Deutschland",
     "status": "ungeprüft"
   }
 }
