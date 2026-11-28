@@ -685,9 +685,9 @@
   },
   "https://www.jobup.ch/en/jobs/detail/0a45882c-7f33-47f2-bdd8-fecf721d51cf": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-12",
-    "org": "Universitäres Zentrum für Prävention und Sportmedizin, Balgrist",
-    "role": "Sporttherapie und Training (diverse Stellen)",
+    "last_seen": "2026-11-28",
+    "org": "Universitätsklinik Balgrist",
+    "role": "Studentische Hilfskraft Sporttherapie und Training (10%, Stundenlohn)",
     "url": "https://www.jobup.ch/en/jobs/detail/0a45882c-7f33-47f2-bdd8-fecf721d51cf",
     "ort": "Zürich, CH",
     "status": "ungeprüft"
@@ -1072,11 +1072,11 @@
   },
   "https://jobs.ch/de/stellenangebote/detail/22177f7f-cf00-4186-9110-8d87dddc5914": {
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-28",
     "org": "BASPO / EHSM Magglingen",
     "role": "Hochschulpraktikant/in Sportorganisationen",
     "url": "https://jobs.ch/de/stellenangebote/detail/22177f7f-cf00-4186-9110-8d87dddc5914",
-    "ort": "Magglingen, Schweiz",
+    "ort": "Magglingen, CH",
     "status": "ungeprüft"
   },
   "https://vamed-ag-ch.onlyfy.jobs/candidate/job/print/usm50gg3s7bfbiv8ye4zr2uyx1gxcrj?mode=print": {
@@ -1090,11 +1090,11 @@
   },
   "https://jobs.ch/en/vacancies/detail/e4b3f57b-7d47-41f8-9198-770946194865": {
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "org": "Schweizer Paraplegiker-Zentrum Nottwil",
-    "role": "Praktikant*in Sporttherapie",
+    "role": "Praktikant*in Sporttherapie (ab 1.1.2026, für Sportstudierende/Bewegungswissenschaftler*innen)",
     "url": "https://jobs.ch/en/vacancies/detail/e4b3f57b-7d47-41f8-9198-770946194865",
-    "ort": "Nottwil, Schweiz",
+    "ort": "Nottwil, CH",
     "status": "ungeprüft"
   },
   "https://www.jobup.ch/en/jobs/detail/26163313-db97-41dc-8bb6-d777e69da763": {
@@ -1108,11 +1108,11 @@
   },
   "https://jobup.ch/en/jobs/detail/d276ccff-0bcd-4ed5-9035-fd20c53fe702": {
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-28",
     "org": "Universitätsklinik Balgrist",
-    "role": "Bewegungswissenschaftler/in – Leistungsdiagnostik Sport- und Trainingsmedizin (80%)",
+    "role": "Bewegungswissenschaftler/in / Leistungsdiagnostik Sport- und Arbeitsmedizin (80%)",
     "url": "https://jobup.ch/en/jobs/detail/d276ccff-0bcd-4ed5-9035-fd20c53fe702",
-    "ort": "Zürich, Schweiz",
+    "ort": "Zürich, CH",
     "status": "ungeprüft"
   },
   "https://www.jobs.ch/en/vacancies/detail/6fc268f2-0b01-4808-84c1-467822128f43": {
@@ -1225,9 +1225,9 @@
   },
   "https://grabjobs.co/austria/job/internship/others/internship-sport-science-and-diagnostics-143833234": {
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-14",
-    "org": "Red Bull Athlete Performance Center",
-    "role": "Internship Sport Science & Diagnostics",
+    "last_seen": "2026-11-28",
+    "org": "Red Bull Athlete Performance Center Thalgau",
+    "role": "Internship Sport Science and Diagnostics (Quelle: Jobaggregator, Datum unklar)",
     "url": "https://grabjobs.co/austria/job/internship/others/internship-sport-science-and-diagnostics-143833234",
     "ort": "Thalgau, AT",
     "status": "ungeprüft"
@@ -1441,9 +1441,9 @@
   },
   "https://www.jobs.ch/en/vacancies/detail/532c6a60-52a4-4cca-adae-5799a210c74a": {
     "first_seen": "2026-11-24",
-    "last_seen": "2026-11-24",
-    "org": "On",
-    "role": "Intern - Sports Science",
+    "last_seen": "2026-11-28",
+    "org": "On Running",
+    "role": "Intern - Sports Science (evtl. bereits besetzt, Mai 2025 datiert)",
     "url": "https://www.jobs.ch/en/vacancies/detail/532c6a60-52a4-4cca-adae-5799a210c74a",
     "ort": "Zürich, CH",
     "status": "ungeprüft"
@@ -1500,6 +1500,42 @@
     "role": "Wissenschaftlich-technische Mitarbeit Datenvisualisierung",
     "url": "https://sport-iat.de/fileadmin/user_upload/Stellenausschreibungen/2026-02_Stellenausschreibung_WTMA_Datenvisualisierung.pdf",
     "ort": "Leipzig, Deutschland",
+    "status": "ungeprüft"
+  },
+  "https://jobs.ch/en/vacancies/detail/5ee291a2-7033-494c-aa75-0e8eba1fa0fb": {
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "org": "BASPO / EHSM Magglingen",
+    "role": "Hochschulpraktikant/-in Kommunikation Spitzensportförderung",
+    "url": "https://jobs.ch/en/vacancies/detail/5ee291a2-7033-494c-aa75-0e8eba1fa0fb",
+    "ort": "Magglingen, CH",
+    "status": "ungeprüft"
+  },
+  "https://dsbg.unibas.ch/fileadmin/user_upload/dsbg/Forschungspraktikum_Funktionelle_Biomechanik.pdf": {
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "org": "Bewegungsanalyse Zürich (Balgrist / Kinderspital)",
+    "role": "Forschungspraktikum Funktionelle Biomechanik (ab 3 Monate, Schwerpunkt Biomechanik)",
+    "url": "https://dsbg.unibas.ch/fileadmin/user_upload/dsbg/Forschungspraktikum_Funktionelle_Biomechanik.pdf",
+    "ort": "Zürich, CH",
+    "status": "ungeprüft"
+  },
+  "https://jobs.smartrecruiters.com/MindMaze/743999703743113-clinical-research-associate": {
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "org": "MindMaze",
+    "role": "Clinical Research Associate (Multicenter-Studie CHUV/HUG)",
+    "url": "https://jobs.smartrecruiters.com/MindMaze/743999703743113-clinical-research-associate",
+    "ort": "Lausanne/Genève, CH",
+    "status": "ungeprüft"
+  },
+  "https://jobs.smartrecruiters.com/MindMaze/743999650948501-clinical-project-associate": {
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "org": "MindMaze",
+    "role": "Clinical Project Associate",
+    "url": "https://jobs.smartrecruiters.com/MindMaze/743999650948501-clinical-project-associate",
+    "ort": "Lausanne, CH",
     "status": "ungeprüft"
   }
 }
